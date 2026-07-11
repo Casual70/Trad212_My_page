@@ -1,0 +1,142 @@
+[
+  {
+    "month": "2024-04",
+    "dividends": 0.81,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-05",
+    "dividends": 0.07,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-06",
+    "dividends": 0.13,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-07",
+    "dividends": 0.09,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-08",
+    "dividends": 0.04,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-09",
+    "dividends": 0.31,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-10",
+    "dividends": 1.08,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-11",
+    "dividends": 1.46,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2024-12",
+    "dividends": 0.53,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-01",
+    "dividends": 5.9,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-02",
+    "dividends": 0.54,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-03",
+    "dividends": 1.1,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-04",
+    "dividends": 11.36,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-05",
+    "dividends": 1.91,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-06",
+    "dividends": 9.44,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-07",
+    "dividends": 2.34,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-08",
+    "dividends": 2.9,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-09",
+    "dividends": 21.33,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-10",
+    "dividends": 3.1,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-11",
+    "dividends": 0.47,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2025-12",
+    "dividends": 2.67,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2026-01",
+    "dividends": 3.82,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2026-02",
+    "dividends": 0.48,
+    "realized_pl": 0.0
+  },
+  {
+    "month": "2026-03",
+    "dividends": 8.89,
+    "realized_pl": -3.19
+  },
+  {
+    "month": "2026-04",
+    "dividends": 6.04,
+    "realized_pl": 97.58
+  },
+  {
+    "month": "2026-05",
+    "dividends": 1.13,
+    "realized_pl": 5.7
+  },
+  {
+    "month": "2026-06",
+    "dividends": 11.74,
+    "realized_pl": -104.34
+  },
+  {
+    "month": "2026-07",
+    "dividends": 0.16,
+    "realized_pl": 37.98
+  }
+]

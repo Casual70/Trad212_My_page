@@ -1,0 +1,2603 @@
+[
+  {
+    "ticker": "GSKl_EQ",
+    "instrument": {
+      "ticker": "GSKl_EQ",
+      "name": "GSK",
+      "isin": "GB00BN7SWP63",
+      "currency": "GBX"
+    },
+    "reference": "9ad2d701-a174-41d4-90ef-56f0536bc810",
+    "quantity": 0.33790217,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 17.0,
+    "amountInEuro": 0.07,
+    "paidOn": "2026-07-09T17:47:30.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "KMB_US_EQ",
+    "instrument": {
+      "ticker": "KMB_US_EQ",
+      "name": "Kimberly-Clark",
+      "isin": "US4943681035",
+      "currency": "USD"
+    },
+    "reference": "fa416210-4e89-422f-997e-8f6fad7468a1",
+    "quantity": 0.09243799,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.28,
+    "amountInEuro": 0.09,
+    "paidOn": "2026-07-02T16:29:30.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "SPG_US_EQ",
+    "instrument": {
+      "ticker": "SPG_US_EQ",
+      "name": "Simon Property",
+      "isin": "US8288061091",
+      "currency": "USD"
+    },
+    "reference": "be9de670-b6cc-4c55-9e48-f3d46cfd45c1",
+    "quantity": 0.04409818,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 2.25,
+    "amountInEuro": 0.07,
+    "paidOn": "2026-06-30T19:27:27.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "IMBl_EQ",
+    "instrument": {
+      "ticker": "IMBl_EQ",
+      "name": "Imperial Brands",
+      "isin": "GB0004544929",
+      "currency": "GBX"
+    },
+    "reference": "5c3f2937-abae-445e-864e-a8237e6b054f",
+    "quantity": 0.24639928,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 41.68,
+    "amountInEuro": 0.12,
+    "paidOn": "2026-06-30T18:39:30.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "c5938d5a-670d-42c1-a6d4-b8ff42d51acb",
+    "quantity": 0.79446499,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.18,
+    "paidOn": "2026-06-29T17:59:51.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "HSBAl_EQ",
+    "instrument": {
+      "ticker": "HSBAl_EQ",
+      "name": "HSBC",
+      "isin": "GB0005405286",
+      "currency": "GBX"
+    },
+    "reference": "01539e19-a8fd-43ef-bb72-98e5cfdc0806",
+    "quantity": 0.55183365,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 7.4489,
+    "amountInEuro": 0.05,
+    "paidOn": "2026-06-26T20:25:54.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "LMT_US_EQ",
+    "instrument": {
+      "ticker": "LMT_US_EQ",
+      "name": "Lockheed Martin",
+      "isin": "US5398301094",
+      "currency": "USD"
+    },
+    "reference": "d6c70726-002c-49c5-90ca-a63e86389dce",
+    "quantity": 0.01879374,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 3.45,
+    "amountInEuro": 0.05,
+    "paidOn": "2026-06-26T20:16:56.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "BPl_EQ",
+    "instrument": {
+      "ticker": "BPl_EQ",
+      "name": "BP",
+      "isin": "GB0007980591",
+      "currency": "GBX"
+    },
+    "reference": "3cd7ee5f-ed1a-43b0-b542-34c10ce1446d",
+    "quantity": 1.28841877,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 6.1844,
+    "amountInEuro": 0.09,
+    "paidOn": "2026-06-26T17:33:28.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "BWLP_US_EQ",
+    "instrument": {
+      "ticker": "BWLP_US_EQ",
+      "name": "BW LPG Ltd",
+      "isin": "SGXZ69436764",
+      "currency": "USD"
+    },
+    "reference": "f8bcdfa5-05e4-4961-b967-ba69be6ae705",
+    "quantity": 0.49194582,
+    "amount": 0.24,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.56,
+    "amountInEuro": 0.24,
+    "paidOn": "2026-06-23T14:08:48.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "BWLP_US_EQ",
+    "instrument": {
+      "ticker": "BWLP_US_EQ",
+      "name": "BW LPG Ltd",
+      "isin": "SGXZ69436764",
+      "currency": "USD"
+    },
+    "reference": "8432ca2f-796b-4f89-a137-731eca0c46f7",
+    "quantity": 0.49194582,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.11,
+    "amountInEuro": 0.05,
+    "paidOn": "2026-06-23T14:07:43.000+03:00",
+    "type": "RETURN_OF_CAPITAL_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "RELl_EQ",
+    "instrument": {
+      "ticker": "RELl_EQ",
+      "name": "RELX",
+      "isin": "GB00B2B0DG97",
+      "currency": "GBX"
+    },
+    "reference": "fff1f548-c401-4b78-b15c-0db621c53ea6",
+    "quantity": 16.58591296,
+    "amount": 9.2,
+    "currency": "EUR",
+    "grossAmountPerShare": 48.0,
+    "amountInEuro": 9.2,
+    "paidOn": "2026-06-18T15:31:17.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "AVY_US_EQ",
+    "instrument": {
+      "ticker": "AVY_US_EQ",
+      "name": "Avery Dennison",
+      "isin": "US0536111091",
+      "currency": "USD"
+    },
+    "reference": "fc49c9e2-be19-4a79-939a-494f4169f943",
+    "quantity": 0.05770454,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.0,
+    "amountInEuro": 0.04,
+    "paidOn": "2026-06-17T14:39:53.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "HAFN_US_EQ",
+    "instrument": {
+      "ticker": "HAFN_US_EQ",
+      "name": "Hafnia",
+      "isin": "SGXZ53070850",
+      "currency": "USD"
+    },
+    "reference": "23ad141c-b123-4371-a1eb-f095a39fa58c",
+    "quantity": 1.2141431,
+    "amount": 0.3,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2877,
+    "amountInEuro": 0.3,
+    "paidOn": "2026-06-16T17:01:09.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "848d2596-a5ce-4c81-b9cf-dfec075eb51a",
+    "quantity": 0.79446499,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.15,
+    "paidOn": "2026-06-15T20:11:11.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PFE_US_EQ",
+    "instrument": {
+      "ticker": "PFE_US_EQ",
+      "name": "Pfizer",
+      "isin": "US7170811035",
+      "currency": "USD"
+    },
+    "reference": "05f991e7-2959-4818-a32b-072cc7d86775",
+    "quantity": 0.36785247,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.43,
+    "amountInEuro": 0.12,
+    "paidOn": "2026-06-12T14:56:37.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "DPLMl_EQ",
+    "instrument": {
+      "ticker": "DPLMl_EQ",
+      "name": "Diploma",
+      "isin": "GB0001826634",
+      "currency": "GBX"
+    },
+    "reference": "d363dbe5-09bb-4fe9-b6fb-379ee06e712a",
+    "quantity": 0.10918761,
+    "amount": 0.02,
+    "currency": "EUR",
+    "grossAmountPerShare": 19.1,
+    "amountInEuro": 0.02,
+    "paidOn": "2026-06-12T14:56:08.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "775183d8-14d5-48ef-906f-4ae08ae7cf93",
+    "quantity": 0.05214047,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.78,
+    "amountInEuro": 0.07,
+    "paidOn": "2026-06-10T18:39:13.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "1aa1b94d-7b13-49a4-8e56-a2af8795f32b",
+    "quantity": 0.06538528,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.03,
+    "amountInEuro": 0.05,
+    "paidOn": "2026-06-10T18:28:16.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "JNJ_US_EQ",
+    "instrument": {
+      "ticker": "JNJ_US_EQ",
+      "name": "Johnson & Johnson",
+      "isin": "US4781601046",
+      "currency": "USD"
+    },
+    "reference": "7049989a-f253-452f-9ec6-386f8d93ede2",
+    "quantity": 0.04262354,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.34,
+    "amountInEuro": 0.04,
+    "paidOn": "2026-06-09T17:57:33.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "ADMl_EQ",
+    "instrument": {
+      "ticker": "ADMl_EQ",
+      "name": "Admiral Group",
+      "isin": "GB00B02J6398",
+      "currency": "GBX"
+    },
+    "reference": "ffbe4797-3c34-403b-9375-a45862a70e60",
+    "quantity": 0.22203503,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 17.2,
+    "amountInEuro": 0.04,
+    "paidOn": "2026-06-05T14:43:49.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "ADMl_EQ",
+    "instrument": {
+      "ticker": "ADMl_EQ",
+      "name": "Admiral Group",
+      "isin": "GB00B02J6398",
+      "currency": "GBX"
+    },
+    "reference": "288caf24-9b5d-4c30-a986-e988262452ed",
+    "quantity": 0.22203503,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 72.8,
+    "amountInEuro": 0.19,
+    "paidOn": "2026-06-05T14:42:31.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "BAl_EQ",
+    "instrument": {
+      "ticker": "BAl_EQ",
+      "name": "BAE Systems",
+      "isin": "GB0002634946",
+      "currency": "GBX"
+    },
+    "reference": "69ead311-7284-4897-817b-0d99a3544c18",
+    "quantity": 0.32845889,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 22.8,
+    "amountInEuro": 0.09,
+    "paidOn": "2026-06-04T17:38:06.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MATX_US_EQ",
+    "instrument": {
+      "ticker": "MATX_US_EQ",
+      "name": "Matson",
+      "isin": "US57686G1058",
+      "currency": "USD"
+    },
+    "reference": "32ddf90a-ff12-47be-acb6-9122b27f87c7",
+    "quantity": 0.05726108,
+    "amount": 0.02,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.36,
+    "amountInEuro": 0.02,
+    "paidOn": "2026-06-04T17:32:53.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "LGENl_EQ",
+    "instrument": {
+      "ticker": "LGENl_EQ",
+      "name": "Legal & General",
+      "isin": "GB0005603997",
+      "currency": "GBX"
+    },
+    "reference": "9745c999-8487-4611-a3ad-a6114bc35a8a",
+    "quantity": 2.80842008,
+    "amount": 0.51,
+    "currency": "EUR",
+    "grossAmountPerShare": 15.67,
+    "amountInEuro": 0.51,
+    "paidOn": "2026-06-04T17:16:30.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "RRl_EQ",
+    "instrument": {
+      "ticker": "RRl_EQ",
+      "name": "Rolls-Royce",
+      "isin": "GB00B63H8491",
+      "currency": "GBX"
+    },
+    "reference": "47c02dd6-fa5d-45ec-a022-11d1d68df138",
+    "quantity": 0.86161314,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 5.0,
+    "amountInEuro": 0.05,
+    "paidOn": "2026-06-03T17:54:41.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GRGl_EQ",
+    "instrument": {
+      "ticker": "GRGl_EQ",
+      "name": "Greggs",
+      "isin": "GB00B63QSB39",
+      "currency": "GBX"
+    },
+    "reference": "e2a63614-4dc0-44e2-91ec-4dbfe5485d34",
+    "quantity": 0.45395354,
+    "amount": 0.26,
+    "currency": "EUR",
+    "grossAmountPerShare": 50.0,
+    "amountInEuro": 0.26,
+    "paidOn": "2026-05-29T17:19:00.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "UKWl_EQ",
+    "instrument": {
+      "ticker": "UKWl_EQ",
+      "name": "Greencoat UK Wind",
+      "isin": "GB00B8SC6K54",
+      "currency": "GBX"
+    },
+    "reference": "8177e0d0-106f-4863-b4a9-8da99dc5a044",
+    "quantity": 6.9405672,
+    "amount": 0.21,
+    "currency": "EUR",
+    "grossAmountPerShare": 2.68,
+    "amountInEuro": 0.21,
+    "paidOn": "2026-05-29T16:16:10.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "LPG_US_EQ",
+    "instrument": {
+      "ticker": "LPG_US_EQ",
+      "name": "Dorian LPG",
+      "isin": "MHY2106R1100",
+      "currency": "USD"
+    },
+    "reference": "c9dc3030-1419-445c-86ce-86174a834b86",
+    "quantity": 0.27913618,
+    "amount": 0.24,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.0,
+    "amountInEuro": 0.24,
+    "paidOn": "2026-05-28T17:34:18.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "ATAC_US_EQ",
+    "instrument": {
+      "ticker": "ATAC_US_EQ",
+      "name": "Blue Owl Capital",
+      "isin": "US09581B1035",
+      "currency": "USD"
+    },
+    "reference": "7bac5045-2d69-4b5b-b6fb-684b02dec04f",
+    "quantity": 1.14206575,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.23,
+    "amountInEuro": 0.19,
+    "paidOn": "2026-05-27T16:56:18.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "WMT_US_EQ",
+    "instrument": {
+      "ticker": "WMT_US_EQ",
+      "name": "Walmart",
+      "isin": "US9311421039",
+      "currency": "USD"
+    },
+    "reference": "5ad0b49a-ae2e-4310-bb74-0da46a607313",
+    "quantity": 0.08115982,
+    "amount": 0.01,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2475,
+    "amountInEuro": 0.01,
+    "paidOn": "2026-05-26T17:27:54.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "CAT_US_EQ",
+    "instrument": {
+      "ticker": "CAT_US_EQ",
+      "name": "Caterpillar",
+      "isin": "US1491231015",
+      "currency": "USD"
+    },
+    "reference": "179f3530-5322-4182-8139-3eba1cb9e1d4",
+    "quantity": 0.01253039,
+    "amount": 0.01,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.51,
+    "amountInEuro": 0.01,
+    "paidOn": "2026-05-19T14:56:45.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "d3ee9b32-fcb7-4c78-9e03-e964c9c158a3",
+    "quantity": 0.79446499,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.15,
+    "paidOn": "2026-05-15T19:11:52.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "RHMd_EQ",
+    "instrument": {
+      "ticker": "RHMd_EQ",
+      "name": "Rheinmetall",
+      "isin": "DE0007030009",
+      "currency": "EUR"
+    },
+    "reference": "d1c09259-6161-4769-902c-8e2e48683c65",
+    "quantity": 0.00764311,
+    "amount": 0.06,
+    "currency": "EUR",
+    "grossAmountPerShare": 11.5,
+    "amountInEuro": 0.06,
+    "paidOn": "2026-05-15T17:39:21.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MO_US_EQ",
+    "instrument": {
+      "ticker": "MO_US_EQ",
+      "name": "Altria",
+      "isin": "US02209S1033",
+      "currency": "USD"
+    },
+    "reference": "1598ce13-fa23-48ca-a37a-acf4f3456dc3",
+    "quantity": 0.88244495,
+    "amount": 0.68,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.06,
+    "amountInEuro": 0.68,
+    "paidOn": "2026-04-30T18:31:49.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "ba453e59-9995-47de-af03-cc821cee352d",
+    "quantity": 11.25655946,
+    "amount": 1.97,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.24,
+    "amountInEuro": 1.97,
+    "paidOn": "2026-04-30T18:23:44.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "RIOl_EQ",
+    "instrument": {
+      "ticker": "RIOl_EQ",
+      "name": "Rio Tinto",
+      "isin": "GB0007188757",
+      "currency": "GBX"
+    },
+    "reference": "094e7a98-620e-48c1-97ac-33ddde37f594",
+    "quantity": 1.21808315,
+    "amount": 2.69,
+    "currency": "EUR",
+    "grossAmountPerShare": 191.7705,
+    "amountInEuro": 2.69,
+    "paidOn": "2026-04-16T17:57:15.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "47ca1726-2903-4875-9ec0-62dd1f6eb5ef",
+    "quantity": 0.79446499,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.15,
+    "paidOn": "2026-04-15T19:26:36.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "CNQ_US_EQ",
+    "instrument": {
+      "ticker": "CNQ_US_EQ",
+      "name": "Canadian Natural Resources",
+      "isin": "CA1363851017",
+      "currency": "USD"
+    },
+    "reference": "16ff0722-9ee0-4b03-b3c3-7c1ba810176e",
+    "quantity": 1.66186256,
+    "amount": 0.55,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4490136069,
+    "amountInEuro": 0.55,
+    "paidOn": "2026-04-07T16:31:08.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "NOVCd_EQ",
+    "instrument": {
+      "ticker": "NOVCd_EQ",
+      "name": "Novo Nordisk",
+      "isin": "DK0062498333",
+      "currency": "EUR"
+    },
+    "reference": "ebec621d-36b7-4918-91c5-69b0767605ce",
+    "quantity": 7.30433909,
+    "amount": 5.67,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.0638468703,
+    "amountInEuro": 5.67,
+    "paidOn": "2026-03-31T20:10:39.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "b426eaf3-c40b-4036-bef3-38788db78975",
+    "quantity": 5.89169489,
+    "amount": 0.35,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.35,
+    "paidOn": "2026-03-31T17:55:30.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "9ec733ab-d698-4d51-9436-5468c9933702",
+    "quantity": 0.77234562,
+    "amount": 0.17,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.17,
+    "paidOn": "2026-03-27T17:50:30.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "7eb6a812-814f-4bf7-88a1-71575871cf4a",
+    "quantity": 2.96145838,
+    "amount": 1.79,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.7,
+    "amountInEuro": 1.79,
+    "paidOn": "2026-03-25T16:13:21.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "78ea5278-a168-4b3e-8ae5-fbbb9e7fec59",
+    "quantity": 0.75191457,
+    "amount": 0.14,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.14,
+    "paidOn": "2026-03-13T15:56:29.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "a29a3926-56d5-4bae-88c7-a86d56ffd0bc",
+    "quantity": 0.45327099,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.03,
+    "amountInEuro": 0.34,
+    "paidOn": "2026-03-10T19:12:17.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "61c675ea-c90e-468a-a75d-9b004a460e9b",
+    "quantity": 0.33010009,
+    "amount": 0.43,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.78,
+    "amountInEuro": 0.43,
+    "paidOn": "2026-03-10T17:13:48.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "0eb5c5be-d6da-4036-a3d8-551b89a364a9",
+    "quantity": 5.89169489,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.34,
+    "paidOn": "2026-02-27T18:21:35.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "92a1f502-0151-481e-80f5-b56a767ae6d2",
+    "quantity": 0.73063694,
+    "amount": 0.14,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.14,
+    "paidOn": "2026-02-13T17:19:14.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "312ca675-6e84-48ca-a389-69bf8f0b8200",
+    "quantity": 10.24177012,
+    "amount": 1.68,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.23,
+    "amountInEuro": 1.68,
+    "paidOn": "2026-01-30T16:03:02.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "5bc491a2-efb5-4cae-be93-78c44dde1e4f",
+    "quantity": 5.89169489,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.34,
+    "paidOn": "2026-01-30T15:59:06.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "bac5ec8c-bf13-4942-af6d-f7196e909923",
+    "quantity": 0.69314827,
+    "amount": 0.13,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.26,
+    "amountInEuro": 0.13,
+    "paidOn": "2026-01-15T16:54:18.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MO_US_EQ",
+    "instrument": {
+      "ticker": "MO_US_EQ",
+      "name": "Altria",
+      "isin": "US02209S1033",
+      "currency": "USD"
+    },
+    "reference": "edc14250-8cb4-4271-8c51-a7838d159229",
+    "quantity": 0.80185114,
+    "amount": 0.62,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.06,
+    "amountInEuro": 0.62,
+    "paidOn": "2026-01-09T16:03:32.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CNQ_US_EQ",
+    "instrument": {
+      "ticker": "CNQ_US_EQ",
+      "name": "Canadian Natural Resources",
+      "isin": "CA1363851017",
+      "currency": "USD"
+    },
+    "reference": "cbbd1849-cb59-4e6f-8669-0c4e93efeece",
+    "quantity": 1.48871173,
+    "amount": 0.46,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4270491088,
+    "amountInEuro": 0.46,
+    "paidOn": "2026-01-06T16:04:36.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "NKE_US_EQ",
+    "instrument": {
+      "ticker": "NKE_US_EQ",
+      "name": "Nike",
+      "isin": "US6541061031",
+      "currency": "USD"
+    },
+    "reference": "20779d0b-c390-460e-8a6f-0e670bcf18b2",
+    "quantity": 1.97703752,
+    "amount": 0.59,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.41,
+    "amountInEuro": 0.59,
+    "paidOn": "2026-01-02T15:07:32.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "c90a56d4-c3c6-4877-a548-8a64aa6c444a",
+    "quantity": 5.89169489,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.34,
+    "paidOn": "2025-12-31T16:49:53.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "c1264823-d2e6-482f-aebe-beeef41bbccb",
+    "quantity": 0.67352478,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.15,
+    "paidOn": "2025-12-29T16:42:08.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "9851e2f4-ba79-407e-a9b3-218b9ef4c896",
+    "quantity": 0.67352478,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.12,
+    "paidOn": "2025-12-15T17:17:36.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "0340fb8b-9e6d-44f1-abbd-2f2c3f818c90",
+    "quantity": 0.29746675,
+    "amount": 0.37,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.71,
+    "amountInEuro": 0.37,
+    "paidOn": "2025-12-10T15:22:42.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "38f418fa-9f62-42c6-a60f-2e977a81c637",
+    "quantity": 0.41185199,
+    "amount": 0.31,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.03,
+    "amountInEuro": 0.31,
+    "paidOn": "2025-12-10T15:17:15.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "049dd0f5-e30c-45bc-a22a-bb56c7846cbd",
+    "quantity": 2.59763638,
+    "amount": 1.38,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.62,
+    "amountInEuro": 1.38,
+    "paidOn": "2025-12-03T12:28:23.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "40eb043c-7afe-4777-8732-99530827494a",
+    "quantity": 5.89169489,
+    "amount": 0.35,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.35,
+    "paidOn": "2025-11-26T15:38:26.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "067da726-8ec5-477b-b8eb-74ca336491fd",
+    "quantity": 0.65307559,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.12,
+    "paidOn": "2025-11-14T13:09:11.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "0ceb1c01-ec49-4630-a3fa-34f7b51ac6b7",
+    "quantity": 9.18796371,
+    "amount": 1.42,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.21,
+    "amountInEuro": 1.42,
+    "paidOn": "2025-10-31T14:47:30.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "ecc6c7cb-126b-4dd3-8ebf-d433fc9b4dfd",
+    "quantity": 5.89169489,
+    "amount": 0.35,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.35,
+    "paidOn": "2025-10-31T14:08:45.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "9c992e4e-9f88-4653-8e80-77a2a1514370",
+    "quantity": 4.9106,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-10-22T14:25:08.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "362ea578-ab6c-4f14-b292-4c3d0a71a4c0",
+    "quantity": 0.61249321,
+    "amount": 0.11,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.11,
+    "paidOn": "2025-10-15T17:33:11.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "KTFd_EQ",
+    "instrument": {
+      "ticker": "KTFd_EQ",
+      "name": "Mondelez International",
+      "isin": "US6092071058",
+      "currency": "EUR"
+    },
+    "reference": "3968ca48-f159-4bd2-a6e2-88f2b080bac7",
+    "quantity": 0.324673,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4315702251,
+    "amountInEuro": 0.12,
+    "paidOn": "2025-10-14T12:23:31.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MO_US_EQ",
+    "instrument": {
+      "ticker": "MO_US_EQ",
+      "name": "Altria",
+      "isin": "US02209S1033",
+      "currency": "USD"
+    },
+    "reference": "93820bce-6c15-430d-b807-d9c1e02e8058",
+    "quantity": 0.69434993,
+    "amount": 0.54,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.06,
+    "amountInEuro": 0.54,
+    "paidOn": "2025-10-10T11:50:02.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CNQ_US_EQ",
+    "instrument": {
+      "ticker": "CNQ_US_EQ",
+      "name": "Canadian Natural Resources",
+      "isin": "CA1363851017",
+      "currency": "USD"
+    },
+    "reference": "eb40f952-dc6d-4b83-a18c-c4ac03a47079",
+    "quantity": 1.32748625,
+    "amount": 0.4,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4206162834,
+    "amountInEuro": 0.4,
+    "paidOn": "2025-10-03T15:11:54.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "f92143ad-f28f-4edb-a51c-9ddad102d780",
+    "quantity": 5.89169489,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.34,
+    "paidOn": "2025-09-30T17:21:01.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "aef4c3cc-8342-4a81-8c8b-ae2ef1328aac",
+    "quantity": 0.59177398,
+    "amount": 0.13,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.13,
+    "paidOn": "2025-09-26T15:49:01.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "RIOl_EQ",
+    "instrument": {
+      "ticker": "RIOl_EQ",
+      "name": "Rio Tinto",
+      "isin": "GB0007188757",
+      "currency": "GBX"
+    },
+    "reference": "19cdde57-360f-436f-806e-c0f42f2ca571",
+    "quantity": 5.949363,
+    "amount": 7.4,
+    "currency": "EUR",
+    "grossAmountPerShare": 108.58,
+    "amountInEuro": 7.4,
+    "paidOn": "2025-09-25T14:19:25.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "A58d_EQ",
+    "instrument": {
+      "ticker": "A58d_EQ",
+      "name": "Elevance Health",
+      "isin": "US0367521038",
+      "currency": "EUR"
+    },
+    "reference": "4c34a5fb-69f7-4b1b-a837-3b99007e0ce5",
+    "quantity": 0.43525688,
+    "amount": 0.54,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.456199065,
+    "amountInEuro": 0.54,
+    "paidOn": "2025-09-25T14:19:22.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "TFSL_US_EQ",
+    "instrument": {
+      "ticker": "TFSL_US_EQ",
+      "name": "TFS Financial",
+      "isin": "US87240R1077",
+      "currency": "USD"
+    },
+    "reference": "038367c6-3d73-465a-8873-54ad49184772",
+    "quantity": 8.63801981,
+    "amount": 1.76,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2825,
+    "amountInEuro": 1.76,
+    "paidOn": "2025-09-24T14:42:12.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "778bd4dc-2159-4169-a561-3c91453fa21d",
+    "quantity": 4.9106,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-09-18T11:30:18.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "2f9e0b36-6ed0-4971-893b-edf912cbc305",
+    "quantity": 0.59177398,
+    "amount": 0.11,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.11,
+    "paidOn": "2025-09-15T14:17:54.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "RELl_EQ",
+    "instrument": {
+      "ticker": "RELl_EQ",
+      "name": "RELX",
+      "isin": "GB00B2B0DG97",
+      "currency": "GBX"
+    },
+    "reference": "5fd41948-de7d-4cc3-8430-eca8cc978242",
+    "quantity": 3.55059423,
+    "amount": 0.8,
+    "currency": "EUR",
+    "grossAmountPerShare": 19.5,
+    "amountInEuro": 0.8,
+    "paidOn": "2025-09-11T15:19:38.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "cef1664b-7ccb-4fb9-8ad2-d5c42e6008a3",
+    "quantity": 0.2619377,
+    "amount": 0.33,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.71,
+    "amountInEuro": 0.33,
+    "paidOn": "2025-09-10T14:21:22.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "3ec7dbb3-1d19-4f17-8748-0132ead82b8f",
+    "quantity": 0.36315893,
+    "amount": 0.26,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.99,
+    "amountInEuro": 0.26,
+    "paidOn": "2025-09-10T14:12:30.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "70ce964f-7181-4486-bf9d-31a99f50a38e",
+    "quantity": 27.63825262,
+    "amount": 9.5,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4,
+    "amountInEuro": 9.5,
+    "paidOn": "2025-09-03T15:07:43.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "0f032ef6-c1b6-423c-8e16-4647eda3a093",
+    "quantity": 5.89169489,
+    "amount": 0.34,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.34,
+    "paidOn": "2025-08-29T14:11:50.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "7abb4a26-10f6-4e98-9f39-1d692b97dac3",
+    "quantity": 4.9106,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-08-20T15:54:28.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "NOVCd_EQ",
+    "instrument": {
+      "ticker": "NOVCd_EQ",
+      "name": "Novo Nordisk",
+      "isin": "DK0062498333",
+      "currency": "EUR"
+    },
+    "reference": "4a46ca2c-31cd-4a8c-bb94-d2d80a15478e",
+    "quantity": 6.27724421,
+    "amount": 2.3,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.5023846525,
+    "amountInEuro": 2.3,
+    "paidOn": "2025-08-19T13:54:52.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "dc35e6eb-e14b-4682-9e93-ca4916d209f6",
+    "quantity": 0.55331718,
+    "amount": 0.1,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.1,
+    "paidOn": "2025-08-15T12:07:21.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "1dedae04-2c59-4305-b1b2-1416dac43ea8",
+    "quantity": 5.92547,
+    "amount": 0.92,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.21,
+    "amountInEuro": 0.92,
+    "paidOn": "2025-07-31T15:47:40.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "7735a3c8-eb92-48b3-be7e-8924f991eca1",
+    "quantity": 5.89169489,
+    "amount": 0.35,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.35,
+    "paidOn": "2025-07-31T15:28:44.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "b6891675-0c22-4982-8bcd-6f31365286a2",
+    "quantity": 4.9106,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-07-22T11:39:53.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "f6dae6fd-9150-4c76-bd8e-a7183e4d524b",
+    "quantity": 0.418065,
+    "amount": 0.08,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.255,
+    "amountInEuro": 0.08,
+    "paidOn": "2025-07-15T15:33:54.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "KTFd_EQ",
+    "instrument": {
+      "ticker": "KTFd_EQ",
+      "name": "Mondelez International",
+      "isin": "US6092071058",
+      "currency": "EUR"
+    },
+    "reference": "675dbc6b-401b-4b44-afaf-92280d8222fb",
+    "quantity": 0.324673,
+    "amount": 0.11,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4027282698,
+    "amountInEuro": 0.11,
+    "paidOn": "2025-07-14T15:03:33.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MO_US_EQ",
+    "instrument": {
+      "ticker": "MO_US_EQ",
+      "name": "Altria",
+      "isin": "US02209S1033",
+      "currency": "USD"
+    },
+    "reference": "d2306bc9-2466-42e2-b3e0-ba6aaca631ce",
+    "quantity": 0.416749,
+    "amount": 0.31,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.02,
+    "amountInEuro": 0.31,
+    "paidOn": "2025-07-10T17:16:41.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CNQ_US_EQ",
+    "instrument": {
+      "ticker": "CNQ_US_EQ",
+      "name": "Canadian Natural Resources",
+      "isin": "CA1363851017",
+      "currency": "USD"
+    },
+    "reference": "8e13d8c3-eeab-410c-a4d5-4b3e0a1c7e61",
+    "quantity": 0.794082,
+    "amount": 0.25,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4319757652,
+    "amountInEuro": 0.25,
+    "paidOn": "2025-07-03T15:33:16.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "NKE_US_EQ",
+    "instrument": {
+      "ticker": "NKE_US_EQ",
+      "name": "Nike",
+      "isin": "US6541061031",
+      "currency": "USD"
+    },
+    "reference": "6a55eece-1c35-47d2-847d-bd26b53c4075",
+    "quantity": 0.546321,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-07-01T15:02:25.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "76b68ded-4e37-4182-bd03-71ee0a3dba73",
+    "quantity": 3.078531,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.18,
+    "paidOn": "2025-06-30T17:55:45.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "5f5407e9-dcd1-4e6d-a7e4-e2094a7c6d83",
+    "quantity": 0.418065,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.09,
+    "paidOn": "2025-06-27T18:00:49.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "600c6b89-182b-4861-a10e-137bdb692e0f",
+    "quantity": 4.9106,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-06-18T16:32:57.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GOOGL_US_EQ",
+    "instrument": {
+      "ticker": "GOOGL_US_EQ",
+      "name": "Alphabet (Class A)",
+      "isin": "US02079K3059",
+      "currency": "USD"
+    },
+    "reference": "36f3fd1d-996f-495d-8169-09672b637441",
+    "quantity": 2.5172156,
+    "amount": 0.39,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.21,
+    "amountInEuro": 0.39,
+    "paidOn": "2025-06-16T15:45:56.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "93263aa6-95d5-4f32-a659-94c59d958c7d",
+    "quantity": 3.078531,
+    "amount": 1.23,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.54,
+    "amountInEuro": 1.23,
+    "paidOn": "2025-06-13T16:21:15.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "f29676c2-9236-49ae-a403-701e4fd88cd2",
+    "quantity": 0.398113,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.07,
+    "paidOn": "2025-06-13T15:55:39.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "6dc2883e-ec88-435c-99ab-5097e428f0ed",
+    "quantity": 0.1491115,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.71,
+    "amountInEuro": 0.19,
+    "paidOn": "2025-06-10T17:16:48.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "4141e445-4f08-4578-b04f-6dd0c3bc3974",
+    "quantity": 0.2028851,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.99,
+    "amountInEuro": 0.15,
+    "paidOn": "2025-06-10T17:12:22.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "8e2c1e79-14fb-48a2-bd5d-5a60f50bf028",
+    "quantity": 0.04050051,
+    "amount": 0.01,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4,
+    "amountInEuro": 0.01,
+    "paidOn": "2025-06-04T13:30:07.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "6038d009-87b5-431f-8267-baae5af95b4a",
+    "quantity": 19.79072749,
+    "amount": 6.97,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4,
+    "amountInEuro": 6.97,
+    "paidOn": "2025-06-04T13:30:07.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "123b1b08-1c5d-4b3d-a9b8-1597eb34a38a",
+    "quantity": 3.078531,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.18,
+    "paidOn": "2025-05-30T16:29:34.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "2ca48905-b62c-476a-996f-b19ada10810a",
+    "quantity": 4.9106,
+    "amount": 0.17,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.17,
+    "paidOn": "2025-05-20T14:05:36.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "afc7f638-ee13-419d-84f0-11a6d535aa08",
+    "quantity": 0.376018,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.07,
+    "paidOn": "2025-05-15T16:05:22.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "HMSBd_EQ",
+    "instrument": {
+      "ticker": "HMSBd_EQ",
+      "name": "H&M Hennes & Mauritz",
+      "isin": "SE0000106270",
+      "currency": "EUR"
+    },
+    "reference": "9e5c7e97-a6ac-46a0-a9dd-4cc6c6be64f6",
+    "quantity": 5.574085,
+    "amount": 1.22,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3126620785,
+    "amountInEuro": 1.22,
+    "paidOn": "2025-05-14T15:20:02.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PKE_US_EQ",
+    "instrument": {
+      "ticker": "PKE_US_EQ",
+      "name": "Park Aerospace",
+      "isin": "US70014A1043",
+      "currency": "USD"
+    },
+    "reference": "0e98c323-9d6b-45b9-8d36-de527db5b757",
+    "quantity": 2.908423,
+    "amount": 0.27,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.125,
+    "amountInEuro": 0.27,
+    "paidOn": "2025-05-02T14:32:15.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "7683ec1b-61d2-4503-aa9c-72361fd0e802",
+    "quantity": 4.75627,
+    "amount": 0.71,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2,
+    "amountInEuro": 0.71,
+    "paidOn": "2025-04-30T17:22:47.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MO_US_EQ",
+    "instrument": {
+      "ticker": "MO_US_EQ",
+      "name": "Altria",
+      "isin": "US02209S1033",
+      "currency": "USD"
+    },
+    "reference": "cd39926a-3b2c-4fd2-a4fb-ccbf58c9abbe",
+    "quantity": 0.389975,
+    "amount": 0.3,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.02,
+    "amountInEuro": 0.3,
+    "paidOn": "2025-04-30T16:40:55.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "d0b855a1-0f57-461b-9beb-3ece8b975fa1",
+    "quantity": 3.078531,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.18,
+    "paidOn": "2025-04-30T16:39:50.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "3ad902fb-d0b5-491a-865e-75ebd6b8746d",
+    "quantity": 4.9106,
+    "amount": 0.17,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.17,
+    "paidOn": "2025-04-17T14:50:50.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "RIOl_EQ",
+    "instrument": {
+      "ticker": "RIOl_EQ",
+      "name": "Rio Tinto",
+      "isin": "GB0007188757",
+      "currency": "GBX"
+    },
+    "reference": "f12fca5c-3adc-4982-a7a1-deb23e9ec8e3",
+    "quantity": 0.51586174,
+    "amount": 1.06,
+    "currency": "EUR",
+    "grossAmountPerShare": 175.9875,
+    "amountInEuro": 1.06,
+    "paidOn": "2025-04-17T14:44:17.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "0a39446a-fa5f-4d5a-8258-d476ae5b1402",
+    "quantity": 0.316424,
+    "amount": 0.06,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.06,
+    "paidOn": "2025-04-15T14:45:26.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "KTFd_EQ",
+    "instrument": {
+      "ticker": "KTFd_EQ",
+      "name": "Mondelez International",
+      "isin": "US6092071058",
+      "currency": "EUR"
+    },
+    "reference": "cb50db40-9175-48fb-b015-c60522845981",
+    "quantity": 0.324673,
+    "amount": 0.11,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4133794207,
+    "amountInEuro": 0.11,
+    "paidOn": "2025-04-14T14:32:46.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CNQ_US_EQ",
+    "instrument": {
+      "ticker": "CNQ_US_EQ",
+      "name": "Canadian Natural Resources",
+      "isin": "CA1363851017",
+      "currency": "USD"
+    },
+    "reference": "99a609f4-92fc-47ea-bfc1-1c530a51fc96",
+    "quantity": 0.717583,
+    "amount": 0.23,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.4166578016,
+    "amountInEuro": 0.23,
+    "paidOn": "2025-04-04T17:58:58.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "instrument": {
+      "ticker": "TRMD_US_EQ",
+      "name": "TORM",
+      "isin": "GB00BZ3CNK81",
+      "currency": "USD"
+    },
+    "reference": "625e8c21-216e-4cd5-8e44-49a40b2076cb",
+    "quantity": 11.742836,
+    "amount": 6.52,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.6,
+    "amountInEuro": 6.52,
+    "paidOn": "2025-04-02T16:24:32.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "NOVCd_EQ",
+    "instrument": {
+      "ticker": "NOVCd_EQ",
+      "name": "Novo Nordisk",
+      "isin": "DK0062498333",
+      "currency": "EUR"
+    },
+    "reference": "190c5a79-6d60-4bac-a242-8684124bcccb",
+    "quantity": 2.61857922,
+    "amount": 2.02,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.0587967244,
+    "amountInEuro": 2.02,
+    "paidOn": "2025-04-01T14:15:32.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "34a3884f-61b3-4f2e-a6ca-a0f6a2789f32",
+    "quantity": 3.078531,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.19,
+    "paidOn": "2025-03-31T17:31:47.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "107ffd5a-dd32-4eb8-9401-8dc9ecf2fcf0",
+    "quantity": 0.316424,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.07,
+    "paidOn": "2025-03-27T14:55:23.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "7c35e67c-2ada-497b-ab40-985fbc64d316",
+    "quantity": 4.9106,
+    "amount": 0.17,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.17,
+    "paidOn": "2025-03-20T15:53:03.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GOOGL_US_EQ",
+    "instrument": {
+      "ticker": "GOOGL_US_EQ",
+      "name": "Alphabet (Class A)",
+      "isin": "US02079K3059",
+      "currency": "USD"
+    },
+    "reference": "70e5d500-ecef-4823-afc2-745d80487a2d",
+    "quantity": 1.6824772,
+    "amount": 0.26,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2,
+    "amountInEuro": 0.26,
+    "paidOn": "2025-03-17T16:18:31.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "1a0ba822-293b-492e-8786-c873e0d72d1f",
+    "quantity": 0.316424,
+    "amount": 0.06,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.06,
+    "paidOn": "2025-03-14T14:22:09.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "XOM_US_EQ",
+    "instrument": {
+      "ticker": "XOM_US_EQ",
+      "name": "ExxonMobil",
+      "isin": "US30233Q1085",
+      "currency": "USD"
+    },
+    "reference": "1e2f90fe-1b98-4bce-a91e-06988de73512",
+    "quantity": 0.2020111,
+    "amount": 0.16,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.99,
+    "amountInEuro": 0.16,
+    "paidOn": "2025-03-10T14:03:55.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CVX_US_EQ",
+    "instrument": {
+      "ticker": "CVX_US_EQ",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "currency": "USD"
+    },
+    "reference": "bf770dd9-c0f0-44d8-b50e-5fc8720b4e2b",
+    "quantity": 0.1449324,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.71,
+    "amountInEuro": 0.19,
+    "paidOn": "2025-03-10T13:50:57.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "aa19eb7e-e2b6-4619-bf81-ced67a10508e",
+    "quantity": 1.459413,
+    "amount": 0.1,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.1,
+    "paidOn": "2025-02-28T15:56:23.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "de098623-1642-4677-b293-eb8e59904291",
+    "quantity": 4.9106,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.18,
+    "paidOn": "2025-02-19T14:07:11.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "7f5200e6-00a1-4b47-a729-67874ac48985",
+    "quantity": 0.316424,
+    "amount": 0.06,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.06,
+    "paidOn": "2025-02-14T14:23:33.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PKE_US_EQ",
+    "instrument": {
+      "ticker": "PKE_US_EQ",
+      "name": "Park Aerospace",
+      "isin": "US70014A1043",
+      "currency": "USD"
+    },
+    "reference": "62050588-191b-4357-ab06-7189259caf98",
+    "quantity": 1.948871,
+    "amount": 0.2,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.125,
+    "amountInEuro": 0.2,
+    "paidOn": "2025-02-04T11:41:49.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "c82a3c95-3d05-4de6-b412-41a212106dd6",
+    "quantity": 36.17012,
+    "amount": 5.62,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.19,
+    "amountInEuro": 5.62,
+    "paidOn": "2025-01-31T14:22:49.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "44347cba-4301-45c8-8435-704547825d14",
+    "quantity": 1.459413,
+    "amount": 0.1,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.1,
+    "paidOn": "2025-01-31T14:10:01.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "3907761a-ac04-48a3-85f9-16693778cba7",
+    "quantity": 4.9106,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.18,
+    "paidOn": "2025-01-22T11:08:26.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "instrument": {
+      "ticker": "GAIN_US_EQ",
+      "name": "Gladstone Investment",
+      "isin": "US3765461070",
+      "currency": "USD"
+    },
+    "reference": "faafc05b-c52f-46d7-bee7-dc0321708098",
+    "quantity": 1.459413,
+    "amount": 0.1,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.1,
+    "paidOn": "2024-12-31T17:02:15.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "IRDM_US_EQ",
+    "instrument": {
+      "ticker": "IRDM_US_EQ",
+      "name": "Iridium Communications",
+      "isin": "US46269C1027",
+      "currency": "USD"
+    },
+    "reference": "bb39e11c-7dd8-41fa-b3b7-7b772cb7054c",
+    "quantity": 1.210631,
+    "amount": 0.14,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.14,
+    "amountInEuro": 0.14,
+    "paidOn": "2024-12-31T16:24:17.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "ce2f1f01-46e9-462d-83aa-ae338ab84335",
+    "quantity": 4.9106,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.045,
+    "amountInEuro": 0.18,
+    "paidOn": "2024-12-19T16:24:32.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "GOOGL_US_EQ",
+    "instrument": {
+      "ticker": "GOOGL_US_EQ",
+      "name": "Alphabet (Class A)",
+      "isin": "US02079K3059",
+      "currency": "USD"
+    },
+    "reference": "e36e27be-d52d-4708-8b98-ff4d8389728e",
+    "quantity": 0.1145253,
+    "amount": 0.02,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2,
+    "amountInEuro": 0.02,
+    "paidOn": "2024-12-16T16:22:32.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "HOp_EQ",
+    "instrument": {
+      "ticker": "HOp_EQ",
+      "name": "Thales",
+      "isin": "FR0000121329",
+      "currency": "EUR"
+    },
+    "reference": "3914213d-064c-42e7-96e0-911e45435e40",
+    "quantity": 0.1370453,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.85,
+    "amountInEuro": 0.09,
+    "paidOn": "2024-12-05T16:27:04.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "f0dfcf57-8fa8-41e5-b066-788333999020",
+    "quantity": 4.9106,
+    "amount": 0.24,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.24,
+    "paidOn": "2024-11-19T13:36:13.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "d445f0e8-2149-4dd2-b0fa-47516ad45cae",
+    "quantity": 0.211176,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.245,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-11-15T19:08:53.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "HMSBd_EQ",
+    "instrument": {
+      "ticker": "HMSBd_EQ",
+      "name": "H&M Hennes & Mauritz",
+      "isin": "SE0000106270",
+      "currency": "EUR"
+    },
+    "reference": "073c0c56-7ed8-4c4b-9479-7dc2c301ffc1",
+    "quantity": 5.574085,
+    "amount": 1.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2806042056,
+    "amountInEuro": 1.09,
+    "paidOn": "2024-11-13T11:55:19.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PKE_US_EQ",
+    "instrument": {
+      "ticker": "PKE_US_EQ",
+      "name": "Park Aerospace",
+      "isin": "US70014A1043",
+      "currency": "USD"
+    },
+    "reference": "7828b18d-b54f-499d-8790-4af43701953f",
+    "quantity": 0.908422,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.125,
+    "amountInEuro": 0.09,
+    "paidOn": "2024-11-05T14:08:09.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "39a9898b-dca3-410c-859e-bdd1cd907239",
+    "quantity": 3.9359,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.19,
+    "paidOn": "2024-10-22T11:11:08.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "45c53fe2-a5d1-404f-bfcb-c6f0eca4e9d1",
+    "quantity": 0.211176,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.245,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-10-15T16:27:57.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MPW_US_EQ",
+    "instrument": {
+      "ticker": "MPW_US_EQ",
+      "name": "Medical Properties Trust",
+      "isin": "US58463J3041",
+      "currency": "USD"
+    },
+    "reference": "465a6e4f-666d-4876-873a-9c9f3a484099",
+    "quantity": 13.63112,
+    "amount": 0.85,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.08,
+    "amountInEuro": 0.85,
+    "paidOn": "2024-10-10T12:15:08.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "ad1ddb71-38f1-4aaf-b4ec-821635fed044",
+    "quantity": 0.211176,
+    "amount": 0.05,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.3,
+    "amountInEuro": 0.05,
+    "paidOn": "2024-09-27T15:56:54.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "52150a20-af4a-439c-9a65-f84b2c820069",
+    "quantity": 3.9359,
+    "amount": 0.18,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.18,
+    "paidOn": "2024-09-19T13:45:13.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GOOGL_US_EQ",
+    "instrument": {
+      "ticker": "GOOGL_US_EQ",
+      "name": "Alphabet (Class A)",
+      "isin": "US02079K3059",
+      "currency": "USD"
+    },
+    "reference": "fcadd23c-7ee2-4302-8c6f-bea40d1d0e53",
+    "quantity": 0.2650966,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-09-16T13:39:10.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "2c868540-9ac3-4354-bce9-6509e6cc8d0f",
+    "quantity": 0.211176,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.245,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-09-13T14:23:01.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "0470d619-f846-4bfb-80b2-880ecdebd9b1",
+    "quantity": 0.211176,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.245,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-08-15T17:30:30.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "7b16acbf-1f96-430a-9e20-4b22bd730e03",
+    "quantity": 1.97007,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.09,
+    "paidOn": "2024-07-18T14:54:54.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "instrument": {
+      "ticker": "PSEC_US_EQ",
+      "name": "Prospect Capital",
+      "isin": "US74348T1025",
+      "currency": "USD"
+    },
+    "reference": "578ce50b-9a98-4cca-b9cb-9b713224bd4a",
+    "quantity": 1.97007,
+    "amount": 0.09,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.09,
+    "paidOn": "2024-06-18T13:31:18.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "GOOGL_US_EQ",
+    "instrument": {
+      "ticker": "GOOGL_US_EQ",
+      "name": "Alphabet (Class A)",
+      "isin": "US02079K3059",
+      "currency": "USD"
+    },
+    "reference": "1e4e21c1-852a-40f3-96e7-3fbd7db9a2a0",
+    "quantity": 0.2650966,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2,
+    "amountInEuro": 0.04,
+    "paidOn": "2024-06-17T16:09:11.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "AAPL_US_EQ",
+    "instrument": {
+      "ticker": "AAPL_US_EQ",
+      "name": "Apple",
+      "isin": "US0378331005",
+      "currency": "USD"
+    },
+    "reference": "6a62b2f9-f792-479f-af4f-699f06b393c9",
+    "quantity": 0.3797981,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.25,
+    "amountInEuro": 0.07,
+    "paidOn": "2024-05-16T14:03:28.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "AIRp_EQ",
+    "instrument": {
+      "ticker": "AIRp_EQ",
+      "name": "Airbus",
+      "isin": "NL0000235190",
+      "currency": "EUR"
+    },
+    "reference": "a429dda0-c9fb-4987-8581-8b496515a420",
+    "quantity": 0.3376168,
+    "amount": 0.52,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.8,
+    "amountInEuro": 0.52,
+    "paidOn": "2024-04-23T12:48:05.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "AIRp_EQ",
+    "instrument": {
+      "ticker": "AIRp_EQ",
+      "name": "Airbus",
+      "isin": "NL0000235190",
+      "currency": "EUR"
+    },
+    "reference": "e9bda4b6-00e6-429e-849b-04f320cdec48",
+    "quantity": 0.3376168,
+    "amount": 0.29,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.0,
+    "amountInEuro": 0.29,
+    "paidOn": "2024-04-23T12:45:14.000+03:00",
+    "type": "DIVIDEND"
+  }
+]
