@@ -9,6 +9,12 @@ const Charts = (() => {
   let monthlyChart = null;
   let allocationChart = null;
 
+  // Forza tutti i colori di default di Chart.js a bianco per il dark theme
+  if (typeof Chart !== 'undefined') {
+    Chart.defaults.color = '#ffffff';
+    Chart.defaults.plugins.legend.labels.color = '#ffffff';
+  }
+
   // Palette colori per il donut (26 colori distinti)
   const PALETTE = [
     '#3b82f6','#22c55e','#f59e0b','#a855f7','#ef4444',
@@ -176,7 +182,7 @@ const Charts = (() => {
           data: values,
           backgroundColor: colors.map(c => c + 'cc'),  // ~80% opacity
           hoverBackgroundColor: colors,
-          borderColor: '#020617',
+          borderColor: '#ffffff',
           borderWidth: 2,
           hoverOffset: 6,
         }],
@@ -191,6 +197,7 @@ const Charts = (() => {
             position: 'bottom',
             labels: {
               color: '#ffffff',
+              fontColor: '#ffffff',
               boxWidth: 10, boxHeight: 10,
               padding: 8, font: { size: 10 },
               generateLabels: chart => {
@@ -199,10 +206,12 @@ const Charts = (() => {
                 return chart.data.labels.map((label, i) => ({
                   text: `${label.substring(0, 18)} — ${((ds.data[i] / total) * 100).toFixed(1)}%`,
                   fillStyle: ds.backgroundColor[i],
-                  strokeStyle: ds.borderColor,
+                  strokeStyle: '#ffffff',
                   lineWidth: 1,
                   index: i,
                   hidden: false,
+                  fontColor: '#ffffff', // Per versioni precedenti
+                  color: '#ffffff',     // Per v3/v4 in base al callback
                 }));
               },
             },
