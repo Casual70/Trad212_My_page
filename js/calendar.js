@@ -62,10 +62,32 @@ const Calendar = (() => {
     }
   }
 
+  // ── Converti ticker T212 → simbolo Yahoo Finance ──────────────────────────
+  const EXCHANGE_SUFFIX = {
+    LON: '.L', XETRA: '.DE', ETR: '.DE', AMS: '.AS',
+    EPA: '.PA', BIT: '.MI', BME: '.MC', STO: '.ST',
+    HEL: '.HE', OSL: '.OL', CPH: '.CO', WSE: '.WA',
+  };
+
+  function toYahooTicker(t212Ticker) {
+    if (!t212Ticker) return null;
+    const parts = t212Ticker.split('_');
+    const sym   = parts[0];
+    const exch  = parts[1] || 'US';
+    return sym + (EXCHANGE_SUFFIX[exch] || '');
+  }
+
+  function yahooLink(ticker) {
+    const yahoo = toYahooTicker(ticker);
+    if (!yahoo) return '';
+    return `https://finance.yahoo.com/quote/${encodeURIComponent(yahoo)}`;
+  }
+
   // ── Render tooltip ──────────────────────────────────────────────────────────
   function showTooltip(dayEvents, x, y) {
     let html = '';
     for (const ev of dayEvents) {
+      const link = (ev.predicted && ev.type === 'ex_date') ? yahooLink(ev.ticker) : null;
       html += `<div style="margin-bottom:.5rem; padding-bottom:.5rem; border-bottom:1px solid var(--border-2)">
         <div class="cal-tooltip-title">${escHtml(ev.name || ev.ticker)}</div>
         <div class="cal-tooltip-row">${typeLabel(ev.type)}</div>
@@ -78,9 +100,13 @@ const Calendar = (() => {
         ${ev.predicted
           ? '<div class="cal-tooltip-row" style="color:var(--amber);font-size:.7rem">⚠ Stima basata sullo storico</div>'
           : ''}
+        ${link
+          ? `<div style="margin-top:.3rem"><a href="${link}" target="_blank" rel="noopener"
+               style="color:var(--blue);font-size:.72rem;text-decoration:none">
+               🔗 Verifica su Yahoo Finance ↗</a></div>`
+          : ''}
       </div>`;
     }
-    // Rimuovi l'ultimo divisore
     html = html.replace(/<\/div>$/, '').trimEnd();
 
     _tooltip.innerHTML = html;
