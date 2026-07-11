@@ -86,7 +86,18 @@ async function authenticate() {
   errorEl.textContent = '';
 
   try {
-    const config = await fetch('data/config.json').then(r => r.json());
+    const resp = await fetch('data/config.json');
+
+    if (!resp.ok) {
+      // config.json non ancora generato (primo deploy senza credenziali T212):
+      // accetta qualsiasi password finché il workflow non gira con SITE_PASSWORD.
+      const hash = await computeSHA256(input.value);
+      sessionStorage.setItem('t212-auth', hash);
+      await showDashboard();
+      return;
+    }
+
+    const config = await resp.json();
     const hash   = await computeSHA256(input.value);
 
     if (hash === config.password_hash) {
@@ -98,14 +109,8 @@ async function authenticate() {
       input.focus();
     }
   } catch (e) {
-    // Se config.json non esiste ancora, permetti accesso con password di default
-    if (e instanceof TypeError || (e.message && e.message.includes('fetch'))) {
-      const hash = await computeSHA256(input.value);
-      sessionStorage.setItem('t212-auth', hash);
-      await showDashboard();
-    } else {
-      errorEl.textContent = 'Errore durante l\'autenticazione. Riprova.';
-    }
+    errorEl.textContent = 'Errore di rete. Controlla la connessione.';
+    console.error(e);
   } finally {
     btn.disabled = false;
     btn.textContent = 'Accedi';
