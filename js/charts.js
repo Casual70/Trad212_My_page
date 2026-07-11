@@ -190,7 +190,7 @@ const Charts = (() => {
             display: true,
             position: 'bottom',
             labels: {
-              color: '#e2e8f0',
+              color: '#ffffff',
               boxWidth: 10, boxHeight: 10,
               padding: 8, font: { size: 10 },
               generateLabels: chart => {

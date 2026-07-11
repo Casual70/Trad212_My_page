@@ -214,7 +214,10 @@ const Calendar = (() => {
     // Setup tooltip DOM
     _tooltip.className = 'cal-tooltip';
     document.body.appendChild(_tooltip);
-    document.addEventListener('click', hideTooltip);
+    // Chiudi tooltip solo se il click è FUORI dal tooltip
+    document.addEventListener('click', (e) => {
+      if (!_tooltip.contains(e.target)) hideTooltip();
+    });
 
     // Bottoni navigazione
     document.getElementById('cal-prev')?.addEventListener('click', () => {
