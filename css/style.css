@@ -321,7 +321,7 @@ body {
   font-size: .8rem; max-width: 240px; pointer-events: none;
   opacity: 0; transition: opacity .15s;
 }
-.cal-tooltip.visible { opacity: 1; }
+.cal-tooltip.visible { opacity: 1; pointer-events: auto; }
 .cal-tooltip-title { font-weight: 600; color: var(--text-1); margin-bottom: .35rem; }
 .cal-tooltip-row   { color: var(--text-2); margin-top: .15rem; }
 .cal-tooltip-row span { color: var(--text-1); }
