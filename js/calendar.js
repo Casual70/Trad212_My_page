@@ -90,7 +90,7 @@ const Calendar = (() => {
       const link = (ev.type === 'ex_date') ? yahooLink(ev.ticker) : null;
       const predictionLabel = ev.predicted 
           ? '<div class="cal-tooltip-row" style="color:var(--amber);font-size:.7rem">⚠ Stima basata sullo storico</div>'
-          : '<div class="cal-tooltip-row" style="color:var(--green);font-size:.7rem">✓ Data confermata da Yahoo Finance</div>';
+          : '<div class="cal-tooltip-row" style="color:var(--green);font-size:.7rem">✓ Data confermata da TradingView</div>';
 
       html += `<div style="margin-bottom:.5rem; padding-bottom:.5rem; border-bottom:1px solid var(--border-2)">
         <div class="cal-tooltip-title">${escHtml(ev.name || ev.ticker)}</div>
