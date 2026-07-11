@@ -87,7 +87,11 @@ const Calendar = (() => {
   function showTooltip(dayEvents, x, y) {
     let html = '';
     for (const ev of dayEvents) {
-      const link = (ev.predicted && ev.type === 'ex_date') ? yahooLink(ev.ticker) : null;
+      const link = (ev.type === 'ex_date') ? yahooLink(ev.ticker) : null;
+      const predictionLabel = ev.predicted 
+          ? '<div class="cal-tooltip-row" style="color:var(--amber);font-size:.7rem">⚠ Stima basata sullo storico</div>'
+          : '<div class="cal-tooltip-row" style="color:var(--green);font-size:.7rem">✓ Data confermata da Yahoo Finance</div>';
+
       html += `<div style="margin-bottom:.5rem; padding-bottom:.5rem; border-bottom:1px solid var(--border-2)">
         <div class="cal-tooltip-title">${escHtml(ev.name || ev.ticker)}</div>
         <div class="cal-tooltip-row">${typeLabel(ev.type)}</div>
@@ -97,9 +101,7 @@ const Calendar = (() => {
         ${ev.payment_date
           ? `<div class="cal-tooltip-row">Pagamento: <span>${fmtDate(ev.payment_date)}</span></div>`
           : ''}
-        ${ev.predicted
-          ? '<div class="cal-tooltip-row" style="color:var(--amber);font-size:.7rem">⚠ Stima basata sullo storico</div>'
-          : ''}
+        ${(ev.type === 'ex_date') ? predictionLabel : ''}
         ${link
           ? `<div style="margin-top:.3rem"><a href="${link}" target="_blank" rel="noopener"
                style="color:var(--blue);font-size:.72rem;text-decoration:none">
