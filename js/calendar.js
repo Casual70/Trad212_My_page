@@ -62,32 +62,23 @@ const Calendar = (() => {
     }
   }
 
-  // ── Converti ticker T212 → simbolo Yahoo Finance ──────────────────────────
-  const EXCHANGE_SUFFIX = {
-    LON: '.L', XETRA: '.DE', ETR: '.DE', AMS: '.AS',
-    EPA: '.PA', BIT: '.MI', BME: '.MC', STO: '.ST',
-    HEL: '.HE', OSL: '.OL', CPH: '.CO', WSE: '.WA',
-  };
-
-  function toYahooTicker(t212Ticker) {
+  // ── Genera link alla pagina del simbolo su TradingView ──────────────────────
+  function tradingViewLink(t212Ticker) {
     if (!t212Ticker) return null;
     const parts = t212Ticker.split('_');
-    const sym   = parts[0];
-    const exch  = parts[1] || 'US';
-    return sym + (EXCHANGE_SUFFIX[exch] || '');
-  }
-
-  function yahooLink(ticker) {
-    const yahoo = toYahooTicker(ticker);
-    if (!yahoo) return '';
-    return `https://finance.yahoo.com/quote/${encodeURIComponent(yahoo)}`;
+    const sym = parts[0];
+    // Il link di TradingView è generalmente /symbols/{TICKER}/
+    // Es: https://www.tradingview.com/symbols/NASDAQ-GAIN/
+    // Il redirect automatico di TradingView gestirà la maggior parte dei casi.
+    // Per sicurezza, usiamo il ticker base.
+    return `https://www.tradingview.com/symbols/${encodeURIComponent(sym)}/`;
   }
 
   // ── Render tooltip ──────────────────────────────────────────────────────────
   function showTooltip(dayEvents, x, y) {
     let html = '';
     for (const ev of dayEvents) {
-      const link = (ev.type === 'ex_date') ? yahooLink(ev.ticker) : null;
+      const link = (ev.type === 'ex_date') ? tradingViewLink(ev.ticker) : null;
       const predictionLabel = ev.predicted 
           ? '<div class="cal-tooltip-row" style="color:var(--amber);font-size:.7rem">⚠ Stima basata sullo storico</div>'
           : '<div class="cal-tooltip-row" style="color:var(--green);font-size:.7rem">✓ Data confermata da TradingView</div>';
@@ -104,8 +95,7 @@ const Calendar = (() => {
         ${(ev.type === 'ex_date') ? predictionLabel : ''}
         ${link
           ? `<div style="margin-top:.3rem"><a href="${link}" target="_blank" rel="noopener"
-               style="color:var(--blue);font-size:.72rem;text-decoration:none">
-               🔗 Verifica su Yahoo Finance ↗</a></div>`
+               style="color:var(--blue);font-size:.72rem;text-decoration:none">🔗 Verifica su TradingView ↗</a></div>`
           : ''}
       </div>`;
     }
