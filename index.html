@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>T212 Portfolio Dashboard</title>
+
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+
+  <!-- Stili -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     AUTH GATE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<div id="auth-gate">
+  <div class="auth-card">
+    <div class="auth-logo">📊</div>
+    <h1 class="auth-title">Portfolio T212</h1>
+    <p class="auth-subtitle">Accedi con la tua password per visualizzare il portafoglio</p>
+
+    <input
+      type="password"
+      id="password-input"
+      class="auth-input"
+      placeholder="Password"
+      autocomplete="current-password"
+      autofocus
+    >
+
+    <button id="auth-btn" class="btn-primary" onclick="authenticate()">
+      Accedi
+    </button>
+
+    <p class="auth-error" id="auth-error"></p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DASHBOARD
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<div id="app" class="hidden">
+
+  <!-- ── Navbar ──────────────────────────────────────────────────────────── -->
+  <nav class="navbar">
+    <a class="navbar-brand" href="#">
+      <span class="navbar-brand-icon">📊</span>
+      Portfolio T212
+    </a>
+
+    <div class="navbar-meta">
+      <span id="demo-badge" class="badge-demo hidden">DEMO</span>
+      <span class="hide-sm">Aggiornato: <strong id="last-updated" style="color:var(--text-2)">–</strong></span>
+      <button class="btn-logout" onclick="logout()">Esci</button>
+    </div>
+  </nav>
+
+  <!-- ── Contenuto principale ────────────────────────────────────────────── -->
+  <main class="main-content">
+
+    <!-- Loader -->
+    <div id="loader">
+      <div class="spinner"></div>
+      <span>Caricamento dati portafoglio…</span>
+    </div>
+
+    <!-- Banner errore dati -->
+    <div id="data-error" class="hidden"></div>
+
+    <!-- Dashboard content (nascosto durante il loading) -->
+    <div id="dashboard-content" class="hidden">
+
+      <!-- ── Schede riepilogo ──────────────────────────────────────────── -->
+      <div class="summary-grid">
+
+        <div class="summary-card" id="card-total">
+          <span class="summary-card-icon">💼</span>
+          <div class="summary-card-label">Valore Portfolio</div>
+          <div class="summary-card-value">–</div>
+          <div class="summary-card-sub">Valore corrente degli investimenti</div>
+        </div>
+
+        <div class="summary-card" id="card-unrealized">
+          <span class="summary-card-icon">📈</span>
+          <div class="summary-card-label">P&amp;L Non Realizzato</div>
+          <div class="summary-card-value">–</div>
+          <div class="summary-card-sub" id="unrealized-sub">Rispetto al costo</div>
+        </div>
+
+        <div class="summary-card" id="card-realized">
+          <span class="summary-card-icon">✅</span>
+          <div class="summary-card-label">P&amp;L Realizzato (all-time)</div>
+          <div class="summary-card-value">–</div>
+          <div class="summary-card-sub">Da vendite chiuse</div>
+        </div>
+
+        <div class="summary-card" id="card-cash">
+          <span class="summary-card-icon">💶</span>
+          <div class="summary-card-label">Liquidità Disponibile</div>
+          <div class="summary-card-value">–</div>
+          <div class="summary-card-sub">Pronta per investire</div>
+        </div>
+
+        <div class="summary-card" id="card-dividends">
+          <span class="summary-card-icon">🏦</span>
+          <div class="summary-card-label">Dividendi Totali</div>
+          <div class="summary-card-value">–</div>
+          <div class="summary-card-sub" style="color:var(--amber)">Incassati da sempre</div>
+        </div>
+
+      </div>
+      <!-- /summary-grid -->
+
+      <!-- ── Grafici ───────────────────────────────────────────────────── -->
+      <div class="charts-grid">
+
+        <!-- Bar chart dividendi mensili -->
+        <div class="chart-card">
+          <div class="section-title">Dividendi &amp; P&amp;L Mensile</div>
+          <canvas id="monthly-chart"></canvas>
+        </div>
+
+        <!-- Donut allocazione -->
+        <div class="chart-card">
+          <div class="section-title">Allocazione Portafoglio</div>
+          <canvas id="allocation-chart"></canvas>
+        </div>
+
+      </div>
+      <!-- /charts-grid -->
+
+      <!-- ── Layout inferiore: calendario + prossimi dividendi ─────────── -->
+      <div style="display:grid;grid-template-columns:1fr 320px;gap:.875rem;margin-bottom:1.5rem">
+
+        <!-- Calendario dividendi -->
+        <div class="calendar-section">
+          <div class="calendar-nav">
+            <div class="section-title" style="margin-bottom:0">Calendario Dividendi</div>
+            <div style="display:flex;align-items:center;gap:.5rem">
+              <button class="btn-icon" id="cal-prev" title="Mese precedente">&#8249;</button>
+              <span id="cal-title" class="calendar-nav-title" style="min-width:160px;text-align:center">–</span>
+              <button class="btn-icon" id="cal-next" title="Mese successivo">&#8250;</button>
+              <button class="btn-icon" id="cal-today" title="Oggi" style="font-size:.65rem;width:auto;padding:0 .5rem">Oggi</button>
+            </div>
+          </div>
+
+          <!-- Intestazioni giorni settimana (IT: lunedì = primo) -->
+          <div class="calendar-weekdays">
+            <span>L</span><span>M</span><span>M</span><span>G</span>
+            <span>V</span><span>S</span><span>D</span>
+          </div>
+
+          <div class="calendar-grid" id="cal-grid"></div>
+
+          <!-- Legenda -->
+          <div class="calendar-legend">
+            <div class="legend-item">
+              <span class="cal-dot payment" style="display:inline-block"></span>
+              Dividendo ricevuto
+            </div>
+            <div class="legend-item">
+              <span class="cal-dot ex_date" style="display:inline-block"></span>
+              Ex-date prevista
+            </div>
+            <div class="legend-item">
+              <span class="cal-dot payment_pred" style="display:inline-block"></span>
+              Pagamento previsto
+            </div>
+          </div>
+        </div>
+
+        <!-- Prossimi dividendi (lista) -->
+        <div class="card" style="overflow:hidden">
+          <div class="section-title">Prossime Ex-Date</div>
+          <p style="font-size:.75rem;color:var(--text-3);margin-bottom:.75rem">
+            Stime basate sulla frequenza storica
+          </p>
+          <div id="upcoming-list" class="upcoming-list"
+               style="max-height:420px;overflow-y:auto;padding-right:.25rem">
+          </div>
+        </div>
+
+      </div>
+      <!-- /layout inferiore -->
+
+      <!-- ── Tabella posizioni ─────────────────────────────────────────── -->
+      <div class="table-section">
+        <div class="table-header">
+          <div class="section-title" style="margin-bottom:0">Posizioni Aperte</div>
+          <span id="positions-count" style="font-size:.8rem;color:var(--text-3)"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Titolo</th>
+                <th class="text-right">Quantità</th>
+                <th class="text-right">Prezzo Medio</th>
+                <th class="text-right">Prezzo Attuale</th>
+                <th class="text-right">Valore</th>
+                <th class="text-right">P&amp;L</th>
+              </tr>
+            </thead>
+            <tbody id="positions-tbody">
+              <tr><td colspan="6" style="text-align:center;color:var(--text-3);padding:2rem">Caricamento…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- ── Storico dividendi ──────────────────────────────────────────── -->
+      <div class="table-section">
+        <div class="table-header">
+          <div class="section-title" style="margin-bottom:0">Storico Dividendi</div>
+          <span id="dividends-count" style="font-size:.8rem;color:var(--text-3)"></span>
+        </div>
+        <div class="table-wrap table-scroll-sm">
+          <table>
+            <thead>
+              <tr>
+                <th>Titolo</th>
+                <th>Data Pagamento</th>
+                <th class="text-right">Quantità</th>
+                <th class="text-right">Lordo/Azione</th>
+                <th class="text-right">Importo Netto</th>
+              </tr>
+            </thead>
+            <tbody id="dividends-tbody">
+              <tr><td colspan="5" style="text-align:center;color:var(--text-3);padding:2rem">Caricamento…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- ── Footer ─────────────────────────────────────────────────────── -->
+      <footer style="text-align:center;color:var(--text-3);font-size:.75rem;padding-top:1rem">
+        Dashboard privata · Dati da Trading 212 API ·
+        Previsioni dividendi stimate — non costituisce consulenza finanziaria
+      </footer>
+
+    </div>
+    <!-- /dashboard-content -->
+  </main>
+</div>
+<!-- /app -->
+
+<!-- Script -->
+<script src="js/calendar.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+
+<!-- Avvia il calendario dopo che app.js ha caricato i dati -->
+<script>
+  // Il calendario viene inizializzato da app.js tramite Calendar.update()
+  // dopo che i dati sono stati caricati. Qui lo inizializziamo con array vuoto
+  // per mostrare subito la griglia del mese corrente.
+  document.addEventListener('DOMContentLoaded', () => {
+    Calendar.init([]);
+  });
+</script>
+
+</body>
+</html>
