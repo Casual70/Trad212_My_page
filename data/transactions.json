@@ -1,6 +1,13 @@
 [
   {
     "type": "DEPOSIT",
+    "amount": 0.18,
+    "currency": "EUR",
+    "reference": "019f53df-e4d5-7799-b432-be6b4cf8251e",
+    "dateTime": "2026-07-12T01:10:09.873Z"
+  },
+  {
+    "type": "DEPOSIT",
     "amount": 0.32,
     "currency": "EUR",
     "reference": "019f4eb8-f4bc-765a-ae92-609111cd33da",
@@ -341,12 +348,5 @@
     "currency": "EUR",
     "reference": "019ee291-7a6e-75d5-948b-6e829a1701b6",
     "dateTime": "2026-06-20T01:07:25.418Z"
-  },
-  {
-    "type": "WITHDRAW",
-    "amount": -3.77,
-    "currency": "EUR",
-    "reference": "019edf71-24ee-7424-8acc-a60cbf30671e",
-    "dateTime": "2026-06-19T10:33:14.730Z"
   }
 ]

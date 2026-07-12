@@ -237,7 +237,7 @@
       "isin": "US03762U1051",
       "currency": "USD"
     },
-    "createdAt": "2026-07-08T19:53:15.940+03:00",
+    "createdAt": "2026-07-08T19:53:15.000+03:00",
     "quantity": 26.09232472,
     "quantityAvailableForTrading": 26.09232472,
     "quantityInPies": 0,
@@ -300,7 +300,7 @@
       "isin": "GB0007908733",
       "currency": "GBX"
     },
-    "createdAt": "2026-07-06T14:48:31.548+03:00",
+    "createdAt": "2026-07-06T14:48:31.000+03:00",
     "quantity": 15.78039107,
     "quantityAvailableForTrading": 15.78039107,
     "quantityInPies": 0,

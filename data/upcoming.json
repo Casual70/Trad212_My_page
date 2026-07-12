@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2024-04-23",
-    "next_ex_date": "2026-06-28",
-    "next_payment_date": "2026-07-12",
-    "amount_est": 0.41,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "frequency": "Trimestrale",
@@ -1760,6 +1748,18 @@
     "next_ex_date": "2027-06-25",
     "next_payment_date": "2027-07-09",
     "amount_est": 0.07,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "KTFd_EQ",
+    "name": "Mondelez International",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2025-10-14",
+    "next_ex_date": "2027-06-29",
+    "next_payment_date": "2027-07-13",
+    "amount_est": 0.11,
     "predicted": true,
     "source": "Storico"
   }

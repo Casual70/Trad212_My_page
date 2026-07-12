@@ -1332,16 +1332,6 @@
     "predicted": false
   },
   {
-    "date": "2026-06-28",
-    "type": "ex_date",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-12"
-  },
-  {
     "date": "2026-06-29",
     "type": "payment",
     "ticker": "MAIN_US_EQ",
@@ -1415,15 +1405,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-07-23"
-  },
-  {
-    "date": "2026-07-12",
-    "type": "payment_predicted",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-07-14",
@@ -4098,6 +4079,16 @@
     "predicted": true
   },
   {
+    "date": "2027-06-29",
+    "type": "ex_date",
+    "ticker": "KTFd_EQ",
+    "name": "Mondelez International",
+    "amount": 0.11,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-13"
+  },
+  {
     "date": "2027-06-30",
     "type": "payment_predicted",
     "ticker": "SPG_US_EQ",
@@ -4166,6 +4157,15 @@
     "ticker": "GSKl_EQ",
     "name": "GSK",
     "amount": 0.07,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-13",
+    "type": "payment_predicted",
+    "ticker": "KTFd_EQ",
+    "name": "Mondelez International",
+    "amount": 0.11,
     "currency": "EUR",
     "predicted": true
   }
