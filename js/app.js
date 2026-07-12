@@ -127,8 +127,9 @@ function logout() {
 }
 
 /* ── Caricamento dati ─────────────────────────────────────────────────────── */
-async function fetchJSON(path) {
-  const r = await fetch(path);
+async function fetchJSON(path, cacheBust = true) {
+  const url = cacheBust ? `${path}?v=${Date.now()}` : path;
+  const r = await fetch(url);
   if (!r.ok) throw new Error(`HTTP ${r.status} per ${path}`);
   return r.json();
 }
@@ -144,7 +145,7 @@ async function loadData() {
         fetchJSON('data/upcoming.json'),
         fetchJSON('data/calendar.json'),
         fetchJSON('data/last_updated.json'),
-        fetchJSON('data/config.json').catch(() => ({ currency: 'EUR' })),
+        fetchJSON('data/config.json', false).catch(() => ({ currency: 'EUR' })), // config.json non cambia spesso
       ]);
 
     Object.assign(AppState, {
