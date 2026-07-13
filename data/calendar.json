@@ -4116,6 +4116,16 @@
     "predicted": true
   },
   {
+    "date": "2027-06-30",
+    "type": "ex_date",
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-14"
+  },
+  {
     "date": "2027-07-02",
     "type": "payment_predicted",
     "ticker": "KMB_US_EQ",
@@ -4166,6 +4176,15 @@
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "amount": 0.11,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-14",
+    "type": "payment_predicted",
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "amount": 0.17,
     "currency": "EUR",
     "predicted": true
   }

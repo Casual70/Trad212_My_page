@@ -1762,5 +1762,17 @@
     "amount_est": 0.11,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2025-10-22",
+    "next_ex_date": "2027-06-30",
+    "next_payment_date": "2027-07-14",
+    "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
   }
 ]
