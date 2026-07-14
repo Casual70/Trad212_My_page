@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "frequency": "Trimestrale",
-    "frequency_days": 91,
-    "last_paid": "2025-10-14",
-    "next_ex_date": "2026-06-30",
-    "next_payment_date": "2026-07-14",
-    "amount_est": 0.11,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "frequency": "Mensile",

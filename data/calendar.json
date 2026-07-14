@@ -1359,16 +1359,6 @@
     "predicted": false
   },
   {
-    "date": "2026-06-30",
-    "type": "ex_date",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-14"
-  },
-  {
     "date": "2026-07-02",
     "type": "payment",
     "ticker": "KMB_US_EQ",
@@ -1405,15 +1395,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-07-23"
-  },
-  {
-    "date": "2026-07-14",
-    "type": "payment_predicted",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-07-15",

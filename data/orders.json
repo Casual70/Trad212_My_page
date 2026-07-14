@@ -1,6 +1,28 @@
 [
   {
     "order": {
+      "id": 54116809383,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "ARI_US_EQ",
+      "quantity": -26.09232472,
+      "filledQuantity": 0,
+      "status": "CANCELLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-07-14T04:52:33.000Z",
+      "instrument": {
+        "ticker": "ARI_US_EQ",
+        "name": "Apollo Commercial Real Estate Finance",
+        "isin": "US03762U1051",
+        "currency": "USD"
+      }
+    }
+  },
+  {
+    "order": {
       "id": 53859747184,
       "strategy": "VALUE",
       "type": "MARKET",
