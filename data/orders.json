@@ -1,6 +1,130 @@
 [
   {
     "order": {
+      "id": 54160684774,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "EVTd_EQ",
+      "quantity": 16.0,
+      "filledQuantity": 16.0,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-15T04:07:26.000Z",
+      "instrument": {
+        "ticker": "EVTd_EQ",
+        "name": "Evotec",
+        "isin": "DE0005664809",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 54160694302,
+      "quantity": 16.0,
+      "price": 3.69,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-15T07:00:10.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 59.04,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54158192413,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "ARI_US_EQ",
+      "quantity": -26.09232472,
+      "filledQuantity": -26.09232472,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-07-14T17:02:44.000Z",
+      "instrument": {
+        "ticker": "ARI_US_EQ",
+        "name": "Apollo Commercial Real Estate Finance",
+        "isin": "US03762U1051",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54158192417,
+      "quantity": -26.09232472,
+      "price": 10.49,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-14T17:02:46.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 239.04,
+        "realisedProfitLoss": 4.61,
+        "fxRate": 1.1433103,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.36,
+            "currency": "EUR",
+            "chargedAt": "2026-07-14T17:02:46.189Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54153407553,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "BPl_EQ",
+      "quantity": -11.82577799,
+      "filledQuantity": -11.82577799,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-07-14T12:14:34.000Z",
+      "instrument": {
+        "ticker": "BPl_EQ",
+        "name": "BP",
+        "isin": "GB0007980591",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 54153407558,
+      "quantity": -11.82577799,
+      "price": 515.7,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-14T12:14:35.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 71.44,
+        "realisedProfitLoss": 3.68,
+        "fxRate": 85.23485268,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.11,
+            "currency": "EUR",
+            "chargedAt": "2026-07-14T12:14:35.433Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54116809383,
       "strategy": "QUANTITY",
       "type": "MARKET",
