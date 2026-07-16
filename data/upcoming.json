@@ -24,18 +24,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-07-15",
-    "next_payment_date": "2026-07-29",
-    "amount_est": 0.1,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -108,6 +96,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-07-31",
+    "next_payment_date": "2026-08-14",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "frequency": "Mensile",
@@ -128,18 +128,6 @@
     "next_ex_date": "2026-08-08",
     "next_payment_date": "2026-08-22",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-08-14",
-    "next_payment_date": "2026-08-28",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -200,6 +188,18 @@
     "next_ex_date": "2026-08-27",
     "next_payment_date": "2026-09-10",
     "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-08-30",
+    "next_payment_date": "2026-09-13",
+    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -276,18 +276,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-09-13",
-    "next_payment_date": "2026-09-27",
-    "amount_est": 0.1,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -360,6 +348,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-09-29",
+    "next_payment_date": "2026-10-13",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "frequency": "Trimestrale",
@@ -404,18 +404,6 @@
     "next_ex_date": "2026-10-07",
     "next_payment_date": "2026-10-21",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-10-13",
-    "next_payment_date": "2026-10-27",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -504,6 +492,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-10-29",
+    "next_payment_date": "2026-11-12",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "frequency": "Mensile",
@@ -524,18 +524,6 @@
     "next_ex_date": "2026-11-06",
     "next_payment_date": "2026-11-20",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-11-12",
-    "next_payment_date": "2026-11-26",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -612,6 +600,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-11-28",
+    "next_payment_date": "2026-12-12",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GOOGL_US_EQ",
     "name": "Alphabet (Class A)",
     "frequency": "Trimestrale",
@@ -656,18 +656,6 @@
     "next_ex_date": "2026-12-09",
     "next_payment_date": "2026-12-23",
     "amount_est": 4.36,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2026-12-12",
-    "next_payment_date": "2026-12-26",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -744,6 +732,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2026-12-28",
+    "next_payment_date": "2027-01-11",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "frequency": "Trimestrale",
@@ -776,18 +776,6 @@
     "next_ex_date": "2027-01-05",
     "next_payment_date": "2027-01-19",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-01-11",
-    "next_payment_date": "2027-01-25",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -864,6 +852,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-01-27",
+    "next_payment_date": "2027-02-10",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "frequency": "Mensile",
@@ -884,18 +884,6 @@
     "next_ex_date": "2027-02-04",
     "next_payment_date": "2027-02-18",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-02-10",
-    "next_payment_date": "2027-02-24",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -960,6 +948,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-02-26",
+    "next_payment_date": "2027-03-12",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GOOGL_US_EQ",
     "name": "Alphabet (Class A)",
     "frequency": "Trimestrale",
@@ -1004,18 +1004,6 @@
     "next_ex_date": "2027-03-10",
     "next_payment_date": "2027-03-24",
     "amount_est": 4.36,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-03-12",
-    "next_payment_date": "2027-03-26",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -1080,6 +1068,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-03-28",
+    "next_payment_date": "2027-04-11",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "frequency": "Trimestrale",
@@ -1124,18 +1124,6 @@
     "next_ex_date": "2027-04-05",
     "next_payment_date": "2027-04-19",
     "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-04-11",
-    "next_payment_date": "2027-04-25",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -1212,6 +1200,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-04-27",
+    "next_payment_date": "2027-05-11",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "HMSBd_EQ",
     "name": "H&M Hennes & Mauritz",
     "frequency": "Semestrale",
@@ -1280,18 +1280,6 @@
     "next_ex_date": "2027-05-05",
     "next_payment_date": "2027-05-19",
     "amount_est": 0.01,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-05-11",
-    "next_payment_date": "2027-05-25",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -1476,6 +1464,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-05-27",
+    "next_payment_date": "2027-06-10",
+    "amount_est": 0.1,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "PFE_US_EQ",
     "name": "Pfizer",
     "frequency": "Annuale",
@@ -1580,18 +1580,6 @@
     "next_ex_date": "2027-06-09",
     "next_payment_date": "2027-06-23",
     "amount_est": 4.36,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-29",
-    "next_ex_date": "2027-06-10",
-    "next_payment_date": "2027-06-24",
-    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },
@@ -1736,6 +1724,18 @@
     "next_ex_date": "2027-06-25",
     "next_payment_date": "2027-07-09",
     "amount_est": 0.07,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-15",
+    "next_ex_date": "2027-06-26",
+    "next_payment_date": "2027-07-10",
+    "amount_est": 0.1,
     "predicted": true,
     "source": "Storico"
   },

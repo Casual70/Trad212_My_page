@@ -1,6 +1,41 @@
 [
   {
     "type": "DEPOSIT",
+    "amount": 0.2,
+    "currency": "EUR",
+    "reference": "019f6877-7645-7edf-8781-14128176cbd1",
+    "dateTime": "2026-07-16T01:08:07.341Z"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 0.21,
+    "currency": "EUR",
+    "reference": "019f6877-7624-72de-876d-d6abff11b600",
+    "dateTime": "2026-07-16T01:08:07.322Z"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 800.0,
+    "currency": "EUR",
+    "reference": "019f65dd-70b3-767e-897b-fd8832b26a15",
+    "dateTime": "2026-07-15T13:00:38.954Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -13.9,
+    "currency": "EUR",
+    "reference": "019f655b-da1d-7913-afd2-c8d3121638bd",
+    "dateTime": "2026-07-15T10:39:06.266Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -14.0,
+    "currency": "EUR",
+    "reference": "019f654e-6f8e-7546-b521-b78afc6c6ec3",
+    "dateTime": "2026-07-15T10:24:27.018Z"
+  },
+  {
+    "type": "DEPOSIT",
     "amount": 0.18,
     "currency": "EUR",
     "reference": "019f53df-e4d5-7799-b432-be6b4cf8251e",
@@ -313,40 +348,5 @@
     "currency": "EUR",
     "reference": "019ef7a5-c82c-7b34-9c37-0b0afae52e86",
     "dateTime": "2026-06-24T03:21:37.576Z"
-  },
-  {
-    "type": "WITHDRAW",
-    "amount": -13.72,
-    "currency": "EUR",
-    "reference": "019ef793-26ad-7264-b921-b08f9f078931",
-    "dateTime": "2026-06-24T03:01:16.585Z"
-  },
-  {
-    "type": "DEPOSIT",
-    "amount": 0.37,
-    "currency": "EUR",
-    "reference": "019ef72a-e7db-7661-bedd-754b4f023324",
-    "dateTime": "2026-06-24T01:07:24.760Z"
-  },
-  {
-    "type": "WITHDRAW",
-    "amount": -2.99,
-    "currency": "EUR",
-    "reference": "019ef723-755b-714a-aaa5-16c1b7eb70f4",
-    "dateTime": "2026-06-24T00:59:16.695Z"
-  },
-  {
-    "type": "WITHDRAW",
-    "amount": -24.99,
-    "currency": "EUR",
-    "reference": "019ef1fa-16e5-70a9-8fa4-8676567c5911",
-    "dateTime": "2026-06-23T00:55:59.458Z"
-  },
-  {
-    "type": "DEPOSIT",
-    "amount": 0.05,
-    "currency": "EUR",
-    "reference": "019ee291-7a6e-75d5-948b-6e829a1701b6",
-    "dateTime": "2026-06-20T01:07:25.418Z"
   }
 ]

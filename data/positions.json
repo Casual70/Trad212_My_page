@@ -1,27 +1,6 @@
 [
   {
     "instrument": {
-      "ticker": "NGl_EQ",
-      "name": "National Grid",
-      "isin": "GB00BDR05C01",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-04-14T10:00:46.000+03:00",
-    "quantity": 0.55685564,
-    "quantityAvailableForTrading": 0,
-    "quantityInPies": 0.55685564,
-    "currentPrice": 1240.4,
-    "averagePricePaid": 1318.60027493,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 8.43,
-      "currentValue": 8.11,
-      "unrealizedProfitLoss": -0.32,
-      "fxImpact": 0.19
-    }
-  },
-  {
-    "instrument": {
       "ticker": "VALE_US_EQ",
       "name": "Vale",
       "isin": "US91912E1055",
@@ -31,56 +10,14 @@
     "quantity": 0.57072127,
     "quantityAvailableForTrading": 0.57072127,
     "quantityInPies": 0,
-    "currentPrice": 14.59,
+    "currentPrice": 14.53,
     "averagePricePaid": 17.50416626,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.47,
-      "currentValue": 7.29,
-      "unrealizedProfitLoss": -1.18,
-      "fxImpact": 0.28
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "HLMAl_EQ",
-      "name": "Halma",
-      "isin": "GB0004052071",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-04-14T10:00:46.000+03:00",
-    "quantity": 0.15803618,
-    "quantityAvailableForTrading": 0,
-    "quantityInPies": 0.15803618,
-    "currentPrice": 3578.3,
-    "averagePricePaid": 4154.99792516,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 7.54,
-      "currentValue": 6.64,
-      "unrealizedProfitLoss": -0.9,
-      "fxImpact": 0.17
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "RELl_EQ",
-      "name": "RELX",
-      "isin": "GB00B2B0DG97",
-      "currency": "GBX"
-    },
-    "createdAt": "2025-08-04T18:18:31.000+03:00",
-    "quantity": 16.58591296,
-    "quantityAvailableForTrading": 16.58591296,
-    "quantityInPies": 0,
-    "currentPrice": 2422.8,
-    "averagePricePaid": 3516.35271092,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 671.41,
-      "currentValue": 471.71,
-      "unrealizedProfitLoss": -199.7,
-      "fxImpact": 13.21
+      "currentValue": 7.23,
+      "unrealizedProfitLoss": -1.24,
+      "fxImpact": 0.24
     }
   },
   {
@@ -94,14 +31,14 @@
     "quantity": 0.01879374,
     "quantityAvailableForTrading": 0,
     "quantityInPies": 0.01879374,
-    "currentPrice": 516.25,
+    "currentPrice": 516.75,
     "averagePricePaid": 603.39240619,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 9.63,
-      "currentValue": 8.49,
-      "unrealizedProfitLoss": -1.14,
-      "fxImpact": 0.29
+      "currentValue": 8.47,
+      "unrealizedProfitLoss": -1.16,
+      "fxImpact": 0.26
     }
   },
   {
@@ -120,9 +57,9 @@
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.47,
-      "currentValue": 7.95,
-      "unrealizedProfitLoss": -0.52,
-      "fxImpact": 0.27
+      "currentValue": 7.92,
+      "unrealizedProfitLoss": -0.55,
+      "fxImpact": 0.24
     }
   },
   {
@@ -136,13 +73,13 @@
     "quantity": 9.15275175,
     "quantityAvailableForTrading": 9.15275175,
     "quantityInPies": 0,
-    "currentPrice": 43.079,
+    "currentPrice": 44.663,
     "averagePricePaid": 55.59202455,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 508.82,
-      "currentValue": 394.29,
-      "unrealizedProfitLoss": -114.53,
+      "currentValue": 408.79,
+      "unrealizedProfitLoss": -100.03,
       "fxImpact": null
     }
   },
@@ -157,35 +94,14 @@
     "quantity": 2.26785247,
     "quantityAvailableForTrading": 2.26785247,
     "quantityInPies": 0,
-    "currentPrice": 24.27,
+    "currentPrice": 24.83,
     "averagePricePaid": 25.16477626,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 49.96,
-      "currentValue": 48.18,
-      "unrealizedProfitLoss": -1.78,
-      "fxImpact": 0
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "MNDIl_EQ",
-      "name": "Mondi",
-      "isin": "GB00BMWC6P49",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-04-14T10:01:03.000+03:00",
-    "quantity": 0.99027257,
-    "quantityAvailableForTrading": 0,
-    "quantityInPies": 0.99027257,
-    "currentPrice": 699.9,
-    "averagePricePaid": 854.47181477,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 9.72,
-      "currentValue": 8.14,
-      "unrealizedProfitLoss": -1.58,
-      "fxImpact": 0.22
+      "currentValue": 49.09,
+      "unrealizedProfitLoss": -0.87,
+      "fxImpact": -0.21
     }
   },
   {
@@ -199,14 +115,14 @@
     "quantity": 0.1705811,
     "quantityAvailableForTrading": 0,
     "quantityInPies": 0.1705811,
-    "currentPrice": 113.67,
+    "currentPrice": 112.77,
     "averagePricePaid": 120.52917938,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 17.54,
-      "currentValue": 16.97,
-      "unrealizedProfitLoss": -0.57,
-      "fxImpact": 0.45
+      "currentValue": 16.77,
+      "unrealizedProfitLoss": -0.77,
+      "fxImpact": 0.38
     }
   },
   {
@@ -220,56 +136,14 @@
     "quantity": 6.9405672,
     "quantityAvailableForTrading": 0,
     "quantityInPies": 6.9405672,
-    "currentPrice": 103.5,
+    "currentPrice": 104.0,
     "averagePricePaid": 105.79971043,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.43,
-      "currentValue": 8.43,
-      "unrealizedProfitLoss": 0,
-      "fxImpact": 0.19
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "GSKl_EQ",
-      "name": "GSK",
-      "isin": "GB00BN7SWP63",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-04-14T10:00:50.000+03:00",
-    "quantity": 0.39060044,
-    "quantityAvailableForTrading": 0,
-    "quantityInPies": 0.39060044,
-    "currentPrice": 1912.7,
-    "averagePricePaid": 2137.37598452,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 9.59,
-      "currentValue": 8.77,
-      "unrealizedProfitLoss": -0.82,
-      "fxImpact": 0.21
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "SSEl_EQ",
-      "name": "SSE",
-      "isin": "GB0007908733",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-07-06T14:48:31.000+03:00",
-    "quantity": 15.78039107,
-    "quantityAvailableForTrading": 15.78039107,
-    "quantityInPies": 0,
-    "currentPrice": 2472.8,
-    "averagePricePaid": 2471.00023232,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 455.78,
-      "currentValue": 458.07,
-      "unrealizedProfitLoss": 2.29,
-      "fxImpact": 1.96
+      "currentValue": 8.52,
+      "unrealizedProfitLoss": 0.09,
+      "fxImpact": 0.24
     }
   },
   {
@@ -283,35 +157,14 @@
     "quantity": 16.0,
     "quantityAvailableForTrading": 16.0,
     "quantityInPies": 0,
-    "currentPrice": 3.544,
+    "currentPrice": 3.499,
     "averagePricePaid": 3.69,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 59.04,
-      "currentValue": 56.7,
-      "unrealizedProfitLoss": -2.34,
+      "currentValue": 55.98,
+      "unrealizedProfitLoss": -3.06,
       "fxImpact": null
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "BAl_EQ",
-      "name": "BAE Systems",
-      "isin": "GB0002634946",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-04-14T10:00:46.000+03:00",
-    "quantity": 0.37067065,
-    "quantityAvailableForTrading": 0.37067065,
-    "quantityInPies": 0,
-    "currentPrice": 1829.4,
-    "averagePricePaid": 2212.55715822,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 9.42,
-      "currentValue": 7.96,
-      "unrealizedProfitLoss": -1.46,
-      "fxImpact": 0.21
     }
   },
   {
@@ -325,14 +178,14 @@
     "quantity": 1.00276247,
     "quantityAvailableForTrading": 1.00276247,
     "quantityInPies": 0,
-    "currentPrice": 53.3,
+    "currentPrice": 53.4,
     "averagePricePaid": 57.78038342,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 52.35,
-      "currentValue": 46.78,
-      "unrealizedProfitLoss": -5.57,
-      "fxImpact": -1.64
+      "currentValue": 46.68,
+      "unrealizedProfitLoss": -5.67,
+      "fxImpact": -1.84
     }
   },
   {
@@ -346,14 +199,14 @@
     "quantity": 0.24639928,
     "quantityAvailableForTrading": 0.24639928,
     "quantityInPies": 0,
-    "currentPrice": 2693.3,
+    "currentPrice": 2731.7,
     "averagePricePaid": 2980.00059091,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.43,
-      "currentValue": 7.79,
-      "unrealizedProfitLoss": -0.64,
-      "fxImpact": 0.19
+      "currentValue": 7.94,
+      "unrealizedProfitLoss": -0.49,
+      "fxImpact": 0.23
     }
   },
   {
@@ -367,14 +220,14 @@
     "quantity": 0.05770454,
     "quantityAvailableForTrading": 0.05770454,
     "quantityInPies": 0,
-    "currentPrice": 157.16,
+    "currentPrice": 156.79,
     "averagePricePaid": 173.12329325,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.47,
-      "currentValue": 7.94,
-      "unrealizedProfitLoss": -0.53,
-      "fxImpact": 0.28
+      "currentValue": 7.89,
+      "unrealizedProfitLoss": -0.58,
+      "fxImpact": 0.24
     }
   },
   {
@@ -388,35 +241,14 @@
     "quantity": 0.39698952,
     "quantityAvailableForTrading": 0.39698952,
     "quantityInPies": 0,
-    "currentPrice": 21.31,
+    "currentPrice": 21.48,
     "averagePricePaid": 25.16439225,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.47,
-      "currentValue": 7.41,
-      "unrealizedProfitLoss": -1.06,
-      "fxImpact": 0.28
-    }
-  },
-  {
-    "instrument": {
-      "ticker": "PRCT_US_EQ",
-      "name": "PROCEPT BioRobotics",
-      "isin": "US74276L1052",
-      "currency": "USD"
-    },
-    "createdAt": "2025-07-10T16:18:35.000+03:00",
-    "quantity": 9.9318277,
-    "quantityAvailableForTrading": 9.9318277,
-    "quantityInPies": 0,
-    "currentPrice": 19.35,
-    "averagePricePaid": 44.47318392,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 378.81,
-      "currentValue": 168.22,
-      "unrealizedProfitLoss": -210.59,
-      "fxImpact": 7.82
+      "currentValue": 7.43,
+      "unrealizedProfitLoss": -1.04,
+      "fxImpact": 0.24
     }
   },
   {
@@ -430,14 +262,35 @@
     "quantity": 8.59216849,
     "quantityAvailableForTrading": 8.59216849,
     "quantityInPies": 0,
-    "currentPrice": 80.22,
+    "currentPrice": 82.17,
     "averagePricePaid": 85.46038184,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 8.43,
-      "currentValue": 8.09,
-      "unrealizedProfitLoss": -0.34,
-      "fxImpact": 0.19
+      "currentValue": 8.33,
+      "unrealizedProfitLoss": -0.1,
+      "fxImpact": 0.23
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "PRCT_US_EQ",
+      "name": "PROCEPT BioRobotics",
+      "isin": "US74276L1052",
+      "currency": "USD"
+    },
+    "createdAt": "2025-07-10T16:18:35.000+03:00",
+    "quantity": 10.80823837,
+    "quantityAvailableForTrading": 10.80823837,
+    "quantityInPies": 0,
+    "currentPrice": 19.05,
+    "averagePricePaid": 42.46482954,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 393.92,
+      "currentValue": 179.5,
+      "unrealizedProfitLoss": -214.42,
+      "fxImpact": 6.21
     }
   },
   {
@@ -451,14 +304,224 @@
     "quantity": 3.35122679,
     "quantityAvailableForTrading": 0,
     "quantityInPies": 3.35122679,
-    "currentPrice": 238.1,
+    "currentPrice": 230.4,
     "averagePricePaid": 247.82864666,
     "walletImpact": {
       "currency": "EUR",
       "totalCost": 9.54,
-      "currentValue": 9.37,
-      "unrealizedProfitLoss": -0.17,
+      "currentValue": 9.11,
+      "unrealizedProfitLoss": -0.43,
+      "fxImpact": 0.26
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "WDFC_US_EQ",
+      "name": "WD-40",
+      "isin": "US9292361071",
+      "currency": "USD"
+    },
+    "createdAt": "2026-07-15T15:02:22.711+03:00",
+    "quantity": 0.2,
+    "quantityAvailableForTrading": 0.2,
+    "quantityInPies": 0,
+    "currentPrice": 251.48,
+    "averagePricePaid": 256.2,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 44.89,
+      "currentValue": 43.85,
+      "unrealizedProfitLoss": -1.04,
+      "fxImpact": -0.22
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "NGl_EQ",
+      "name": "National Grid",
+      "isin": "GB00BDR05C01",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-04-14T10:00:46.000+03:00",
+    "quantity": 0.55685564,
+    "quantityAvailableForTrading": 0,
+    "quantityInPies": 0.55685564,
+    "currentPrice": 1217.2,
+    "averagePricePaid": 1318.60027493,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 8.43,
+      "currentValue": 8.0,
+      "unrealizedProfitLoss": -0.43,
+      "fxImpact": 0.24
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "HLMAl_EQ",
+      "name": "Halma",
+      "isin": "GB0004052071",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-04-14T10:00:46.000+03:00",
+    "quantity": 0.15803618,
+    "quantityAvailableForTrading": 0,
+    "quantityInPies": 0.15803618,
+    "currentPrice": 3648.2,
+    "averagePricePaid": 4154.99792516,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 7.54,
+      "currentValue": 6.8,
+      "unrealizedProfitLoss": -0.74,
       "fxImpact": 0.21
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "CION_US_EQ",
+      "name": "CION Investment",
+      "isin": "US17259U2042",
+      "currency": "USD"
+    },
+    "createdAt": "2026-07-15T14:01:33.424+03:00",
+    "quantity": 8.0,
+    "quantityAvailableForTrading": 8.0,
+    "quantityInPies": 0,
+    "currentPrice": 6.46,
+    "averagePricePaid": 6.47,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 45.34,
+      "currentValue": 45.05,
+      "unrealizedProfitLoss": -0.29,
+      "fxImpact": -0.22
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "RELl_EQ",
+      "name": "RELX",
+      "isin": "GB00B2B0DG97",
+      "currency": "GBX"
+    },
+    "createdAt": "2025-08-04T18:18:31.000+03:00",
+    "quantity": 16.58591296,
+    "quantityAvailableForTrading": 16.58591296,
+    "quantityInPies": 0,
+    "currentPrice": 2449.2,
+    "averagePricePaid": 3516.35271092,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 671.41,
+      "currentValue": 479.31,
+      "unrealizedProfitLoss": -192.1,
+      "fxImpact": 16.74
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "MNDIl_EQ",
+      "name": "Mondi",
+      "isin": "GB00BMWC6P49",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-04-14T10:01:03.000+03:00",
+    "quantity": 0.99027257,
+    "quantityAvailableForTrading": 0,
+    "quantityInPies": 0.99027257,
+    "currentPrice": 709.7,
+    "averagePricePaid": 854.47181477,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 9.72,
+      "currentValue": 8.29,
+      "unrealizedProfitLoss": -1.43,
+      "fxImpact": 0.26
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "G6P0d_EQ",
+      "name": "Going Public Media",
+      "isin": "DE000A40KXC8",
+      "currency": "EUR"
+    },
+    "createdAt": "2026-07-15T10:52:00.513+03:00",
+    "quantity": 31.0,
+    "quantityAvailableForTrading": 31.0,
+    "quantityInPies": 0,
+    "currentPrice": 4.14,
+    "averagePricePaid": 4.2,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 130.2,
+      "currentValue": 128.34,
+      "unrealizedProfitLoss": -1.86,
+      "fxImpact": null
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "GSKl_EQ",
+      "name": "GSK",
+      "isin": "GB00BN7SWP63",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-04-14T10:00:50.000+03:00",
+    "quantity": 0.39060044,
+    "quantityAvailableForTrading": 0,
+    "quantityInPies": 0.39060044,
+    "currentPrice": 1910.3,
+    "averagePricePaid": 2137.37598452,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 9.59,
+      "currentValue": 8.8,
+      "unrealizedProfitLoss": -0.79,
+      "fxImpact": 0.26
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "SSEl_EQ",
+      "name": "SSE",
+      "isin": "GB0007908733",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-07-06T14:48:31.000+03:00",
+    "quantity": 15.78039107,
+    "quantityAvailableForTrading": 15.78039107,
+    "quantityInPies": 0,
+    "currentPrice": 2452.9,
+    "averagePricePaid": 2471.00023232,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 455.78,
+      "currentValue": 456.72,
+      "unrealizedProfitLoss": 0.94,
+      "fxImpact": 4.31
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "BAl_EQ",
+      "name": "BAE Systems",
+      "isin": "GB0002634946",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-04-14T10:00:46.000+03:00",
+    "quantity": 0.37067065,
+    "quantityAvailableForTrading": 0.37067065,
+    "quantityInPies": 0,
+    "currentPrice": 1802.1,
+    "averagePricePaid": 2212.55715822,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 9.42,
+      "currentValue": 7.88,
+      "unrealizedProfitLoss": -1.54,
+      "fxImpact": 0.26
     }
   }
 ]

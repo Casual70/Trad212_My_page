@@ -1398,13 +1398,12 @@
   },
   {
     "date": "2026-07-15",
-    "type": "ex_date",
+    "type": "payment",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
-    "amount": 0.1,
+    "amount": 0.2,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-29"
+    "predicted": false
   },
   {
     "date": "2026-07-15",
@@ -1487,15 +1486,6 @@
   {
     "date": "2026-07-29",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-07-29",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -1528,6 +1518,16 @@
     "amount": 0.19,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-07-31",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-08-14"
   },
   {
     "date": "2026-08-04",
@@ -1569,13 +1569,12 @@
   },
   {
     "date": "2026-08-14",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-08-28"
+    "predicted": true
   },
   {
     "date": "2026-08-14",
@@ -1648,20 +1647,21 @@
   {
     "date": "2026-08-28",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-08-28",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-08-30",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-09-13"
   },
   {
     "date": "2026-08-31",
@@ -1761,13 +1761,12 @@
   },
   {
     "date": "2026-09-13",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-27"
+    "predicted": true
   },
   {
     "date": "2026-09-13",
@@ -1886,15 +1885,6 @@
   {
     "date": "2026-09-27",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-09-27",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -1909,6 +1899,16 @@
     "amount": 3.33,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-09-29",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-10-13"
   },
   {
     "date": "2026-09-29",
@@ -1989,21 +1989,20 @@
   {
     "date": "2026-10-13",
     "type": "payment_predicted",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
     "currency": "EUR",
     "predicted": true
   },
   {
     "date": "2026-10-13",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
+    "type": "payment_predicted",
+    "ticker": "KTFd_EQ",
+    "name": "Mondelez International",
+    "amount": 0.11,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-27"
+    "predicted": true
   },
   {
     "date": "2026-10-13",
@@ -2095,15 +2094,6 @@
   {
     "date": "2026-10-27",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-10-27",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2137,6 +2127,16 @@
     "amount": 2.05,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-10-29",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-11-12"
   },
   {
     "date": "2026-10-30",
@@ -2196,13 +2196,12 @@
   },
   {
     "date": "2026-11-12",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-26"
+    "predicted": true
   },
   {
     "date": "2026-11-12",
@@ -2285,20 +2284,21 @@
   {
     "date": "2026-11-26",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-11-26",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-11-28",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-12"
   },
   {
     "date": "2026-11-30",
@@ -2387,13 +2387,12 @@
   },
   {
     "date": "2026-12-12",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-12-26"
+    "predicted": true
   },
   {
     "date": "2026-12-12",
@@ -2494,20 +2493,21 @@
   {
     "date": "2026-12-26",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-12-26",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-12-28",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-11"
   },
   {
     "date": "2026-12-29",
@@ -2586,13 +2586,12 @@
   },
   {
     "date": "2027-01-11",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-01-25"
+    "predicted": true
   },
   {
     "date": "2027-01-11",
@@ -2684,20 +2683,21 @@
   {
     "date": "2027-01-25",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-01-25",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-01-27",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-10"
   },
   {
     "date": "2027-01-28",
@@ -2766,13 +2766,12 @@
   },
   {
     "date": "2027-02-10",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-02-24"
+    "predicted": true
   },
   {
     "date": "2027-02-10",
@@ -2825,15 +2824,6 @@
   {
     "date": "2027-02-24",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-02-24",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2859,6 +2849,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-10"
+  },
+  {
+    "date": "2027-02-26",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-12"
   },
   {
     "date": "2027-03-01",
@@ -2938,13 +2938,12 @@
   },
   {
     "date": "2027-03-12",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-03-26"
+    "predicted": true
   },
   {
     "date": "2027-03-12",
@@ -3035,20 +3034,21 @@
   {
     "date": "2027-03-26",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-03-26",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-03-28",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-11"
   },
   {
     "date": "2027-03-30",
@@ -3128,13 +3128,12 @@
   },
   {
     "date": "2027-04-11",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-04-25"
+    "predicted": true
   },
   {
     "date": "2027-04-11",
@@ -3235,20 +3234,21 @@
   {
     "date": "2027-04-25",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-04-25",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-04-27",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-11"
   },
   {
     "date": "2027-04-28",
@@ -3357,13 +3357,12 @@
   },
   {
     "date": "2027-05-11",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-05-25"
+    "predicted": true
   },
   {
     "date": "2027-05-11",
@@ -3542,15 +3541,6 @@
   {
     "date": "2027-05-25",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-05-25",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -3604,6 +3594,16 @@
     "amount": 0.19,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-05-27",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-10"
   },
   {
     "date": "2027-05-28",
@@ -3805,13 +3805,12 @@
   },
   {
     "date": "2027-06-10",
-    "type": "ex_date",
+    "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.1,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-24"
+    "predicted": true
   },
   {
     "date": "2027-06-10",
@@ -4007,15 +4006,6 @@
   {
     "date": "2027-06-24",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.1,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-06-24",
-    "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -4058,6 +4048,16 @@
     "amount": 0.09,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-06-26",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-10"
   },
   {
     "date": "2027-06-29",
@@ -4148,6 +4148,15 @@
     "ticker": "GSKl_EQ",
     "name": "GSK",
     "amount": 0.07,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-10",
+    "type": "payment_predicted",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
     "currency": "EUR",
     "predicted": true
   },

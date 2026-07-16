@@ -1,6 +1,171 @@
 [
   {
     "order": {
+      "id": 54160685152,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "WDFC_US_EQ",
+      "quantity": 0.2,
+      "filledQuantity": 0.2,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-15T04:46:46.000Z",
+      "instrument": {
+        "ticker": "WDFC_US_EQ",
+        "name": "WD-40",
+        "isin": "US9292361071",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54202083173,
+      "quantity": 0.2,
+      "price": 256.2,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-15T12:02:22.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 44.96,
+        "fxRate": 1.14145689,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.07,
+            "currency": "EUR",
+            "chargedAt": "2026-07-15T12:02:22.768Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54160685038,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "CION_US_EQ",
+      "quantity": 8.0,
+      "filledQuantity": 8.0,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-15T04:39:03.000Z",
+      "instrument": {
+        "ticker": "CION_US_EQ",
+        "name": "CION Investment",
+        "isin": "US17259U2042",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54202075015,
+      "quantity": 8.0,
+      "price": 6.47,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-15T11:01:33.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 45.41,
+        "fxRate": 1.14159682,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.07,
+            "currency": "EUR",
+            "chargedAt": "2026-07-15T11:01:33.481Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54160685419,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PRCT_US_EQ",
+      "status": "FILLED",
+      "value": 15.13,
+      "filledValue": 15.13,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-15T04:59:10.000Z",
+      "instrument": {
+        "ticker": "PRCT_US_EQ",
+        "name": "PROCEPT BioRobotics",
+        "isin": "US74276L1052",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54163249283,
+      "quantity": 0.87641067,
+      "price": 19.7,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-15T08:02:11.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 15.13,
+        "fxRate": 1.14263998,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-07-15T08:02:11.735Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54160685402,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "G6P0d_EQ",
+      "quantity": 31.0,
+      "filledQuantity": 31.0,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-15T04:58:11.000Z",
+      "instrument": {
+        "ticker": "G6P0d_EQ",
+        "name": "Going Public Media",
+        "isin": "DE000A40KXC8",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 54163608706,
+      "quantity": 31.0,
+      "price": 4.2,
+      "type": "TRADE",
+      "tradingMethod": "TOTV",
+      "filledAt": "2026-07-15T07:52:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 130.2,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54160684774,
       "strategy": "QUANTITY",
       "type": "MARKET",

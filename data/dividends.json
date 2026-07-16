@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "5ece835c-0a2d-4ee8-baba-5471c8b7d7d2",
+    "quantity": 1.00276247,
+    "amount": 0.2,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.265,
+    "amountInEuro": 0.2,
+    "paidOn": "2026-07-15T17:59:20.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "GSKl_EQ",
     "instrument": {
       "ticker": "GSKl_EQ",
