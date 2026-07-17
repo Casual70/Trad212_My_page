@@ -1762,5 +1762,17 @@
     "amount_est": 0.17,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG Ltd",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-06-23",
+    "next_ex_date": "2027-07-04",
+    "next_payment_date": "2027-07-18",
+    "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
   }
 ]

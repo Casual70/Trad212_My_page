@@ -4125,6 +4125,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-04",
+    "type": "ex_date",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG Ltd",
+    "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-18"
+  },
+  {
     "date": "2027-07-06",
     "type": "payment_predicted",
     "ticker": "CNQ_US_EQ",
@@ -4175,6 +4185,15 @@
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-18",
+    "type": "payment_predicted",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG Ltd",
+    "amount": 0.14,
     "currency": "EUR",
     "predicted": true
   }
