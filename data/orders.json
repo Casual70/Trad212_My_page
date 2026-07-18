@@ -8068,7 +8068,6 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 16.32,
-        "realisedProfitLoss": 5.15,
         "fxRate": 1,
         "taxes": []
       }
@@ -8105,7 +8104,6 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 11.61,
-        "realisedProfitLoss": -8.05,
         "fxRate": 1.15778159,
         "taxes": [
           {
