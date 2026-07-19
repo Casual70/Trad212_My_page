@@ -1368,16 +1368,6 @@
     "predicted": false
   },
   {
-    "date": "2026-07-05",
-    "type": "ex_date",
-    "ticker": "PSEC_US_EQ",
-    "name": "Prospect Capital",
-    "amount": 0.17,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-19"
-  },
-  {
     "date": "2026-07-09",
     "type": "payment",
     "ticker": "GSKl_EQ",
@@ -1444,15 +1434,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-07-31"
-  },
-  {
-    "date": "2026-07-19",
-    "type": "payment_predicted",
-    "ticker": "PSEC_US_EQ",
-    "name": "Prospect Capital",
-    "amount": 0.17,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-07-21",
