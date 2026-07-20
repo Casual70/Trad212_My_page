@@ -2851,7 +2851,7 @@
       "createdAt": "2026-06-12T04:42:50.000Z",
       "instrument": {
         "ticker": "DCCl_EQ",
-        "name": "DCC",
+        "name": "DCC Energy",
         "isin": "IE0002424939",
         "currency": "GBX"
       }
@@ -3666,7 +3666,7 @@
       "createdAt": "2026-05-28T18:18:03.000Z",
       "instrument": {
         "ticker": "DCCl_EQ",
-        "name": "DCC",
+        "name": "DCC Energy",
         "isin": "IE0002424939",
         "currency": "GBX"
       }
@@ -5980,7 +5980,7 @@
       "createdAt": "2026-04-14T07:00:46.000Z",
       "instrument": {
         "ticker": "DCCl_EQ",
-        "name": "DCC",
+        "name": "DCC Energy",
         "isin": "IE0002424939",
         "currency": "GBX"
       }
