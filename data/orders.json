@@ -1,6 +1,78 @@
 [
   {
     "order": {
+      "id": 54456786312,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "LMT_US_EQ",
+      "status": "FILLED",
+      "value": 2.25,
+      "filledValue": 2.25,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-07-21T01:07:29.000Z",
+      "instrument": {
+        "ticker": "LMT_US_EQ",
+        "name": "Lockheed Martin",
+        "isin": "US5398301094",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54505408441,
+      "quantity": 0.00513146,
+      "price": 500.34,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-21T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 2.25,
+        "fxRate": 1.14109986,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54456786311,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "WMT_US_EQ",
+      "status": "FILLED",
+      "value": 1.68,
+      "filledValue": 1.68,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-07-21T01:07:29.000Z",
+      "instrument": {
+        "ticker": "WMT_US_EQ",
+        "name": "Walmart",
+        "isin": "US9311421039",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54502294231,
+      "quantity": 0.01713792,
+      "price": 111.86,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-21T13:30:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.68,
+        "fxRate": 1.14109984,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54456786313,
       "strategy": "VALUE",
       "type": "MARKET",
