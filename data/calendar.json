@@ -1377,16 +1377,6 @@
     "predicted": false
   },
   {
-    "date": "2026-07-09",
-    "type": "ex_date",
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
-    "amount": 0.14,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-23"
-  },
-  {
     "date": "2026-07-15",
     "type": "payment",
     "ticker": "MAIN_US_EQ",
@@ -1446,13 +1436,22 @@
     "payment_date": "2026-08-04"
   },
   {
-    "date": "2026-07-23",
-    "type": "payment_predicted",
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
-    "amount": 0.14,
+    "date": "2026-07-22",
+    "type": "payment",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.5,
     "currency": "EUR",
-    "predicted": true
+    "predicted": false
+  },
+  {
+    "date": "2026-07-22",
+    "type": "payment",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.67,
+    "currency": "EUR",
+    "predicted": false
   },
   {
     "date": "2026-07-28",
@@ -1530,6 +1529,16 @@
     "payment_date": "2026-08-18"
   },
   {
+    "date": "2026-08-07",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-08-21"
+  },
+  {
     "date": "2026-08-08",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -1585,6 +1594,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-03"
+  },
+  {
+    "date": "2026-08-21",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-08-22",
@@ -1672,6 +1690,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-17"
+  },
+  {
+    "date": "2026-09-06",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-09-20"
   },
   {
     "date": "2026-09-07",
@@ -1796,6 +1824,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-03"
+  },
+  {
+    "date": "2026-09-20",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-09-21",
@@ -1940,6 +1977,16 @@
     "predicted": true
   },
   {
+    "date": "2026-10-06",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-10-20"
+  },
+  {
     "date": "2026-10-07",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -2054,6 +2101,15 @@
     "payment_date": "2026-11-02"
   },
   {
+    "date": "2026-10-20",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2026-10-21",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -2148,6 +2204,16 @@
     "payment_date": "2026-11-16"
   },
   {
+    "date": "2026-11-05",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-11-19"
+  },
+  {
     "date": "2026-11-06",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -2212,6 +2278,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-02"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-11-20",
@@ -2318,6 +2393,16 @@
     "amount": 0.09,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2026-12-05",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-19"
   },
   {
     "date": "2026-12-06",
@@ -2434,6 +2519,15 @@
     "payment_date": "2027-01-01"
   },
   {
+    "date": "2026-12-19",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2026-12-20",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -2536,6 +2630,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-01-15"
+  },
+  {
+    "date": "2027-01-04",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-18"
   },
   {
     "date": "2027-01-05",
@@ -2643,6 +2747,15 @@
     "payment_date": "2027-01-31"
   },
   {
+    "date": "2027-01-18",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-01-19",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -2727,6 +2840,16 @@
     "payment_date": "2027-02-14"
   },
   {
+    "date": "2027-02-03",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-17"
+  },
+  {
     "date": "2027-02-04",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -2782,6 +2905,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-02"
+  },
+  {
+    "date": "2027-02-17",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-02-18",
@@ -2869,6 +3001,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-16"
+  },
+  {
+    "date": "2027-03-05",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-19"
   },
   {
     "date": "2027-03-06",
@@ -2975,6 +3117,15 @@
     "payment_date": "2027-04-01"
   },
   {
+    "date": "2027-03-19",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-03-20",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -3078,6 +3229,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-15"
+  },
+  {
+    "date": "2027-04-04",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-18"
   },
   {
     "date": "2027-04-05",
@@ -3194,6 +3355,15 @@
     "payment_date": "2027-05-01"
   },
   {
+    "date": "2027-04-18",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-04-19",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -3306,6 +3476,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-05-16"
+  },
+  {
+    "date": "2027-05-04",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-18"
   },
   {
     "date": "2027-05-05",
@@ -3450,6 +3630,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-05-31"
+  },
+  {
+    "date": "2027-05-18",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-05-19",
@@ -3684,6 +3873,16 @@
   {
     "date": "2027-06-03",
     "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-17"
+  },
+  {
+    "date": "2027-06-03",
+    "type": "ex_date",
     "ticker": "AVY_US_EQ",
     "name": "Avery Dennison",
     "amount": 0.04,
@@ -3911,6 +4110,15 @@
   {
     "date": "2027-06-17",
     "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-06-17",
+    "type": "payment_predicted",
     "ticker": "AVY_US_EQ",
     "name": "Avery Dennison",
     "amount": 0.04,
@@ -4106,6 +4314,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-03",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-17"
+  },
+  {
     "date": "2027-07-04",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -4152,6 +4370,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-10",
+    "type": "ex_date",
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "amount": 0.32,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-24"
+  },
+  {
     "date": "2027-07-13",
     "type": "payment_predicted",
     "ticker": "KTFd_EQ",
@@ -4170,11 +4398,29 @@
     "predicted": true
   },
   {
+    "date": "2027-07-17",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-07-18",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-24",
+    "type": "payment_predicted",
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "amount": 0.32,
     "currency": "EUR",
     "predicted": true
   }

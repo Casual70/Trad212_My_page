@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-23",
-    "next_ex_date": "2026-07-09",
-    "next_payment_date": "2026-07-23",
-    "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -104,6 +92,18 @@
     "next_ex_date": "2026-08-04",
     "next_payment_date": "2026-08-18",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2026-08-07",
+    "next_payment_date": "2026-08-21",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -212,6 +212,18 @@
     "next_ex_date": "2026-09-03",
     "next_payment_date": "2026-09-17",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2026-09-06",
+    "next_payment_date": "2026-09-20",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -384,6 +396,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2026-10-06",
+    "next_payment_date": "2026-10-20",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "frequency": "Mensile",
@@ -504,6 +528,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2026-11-05",
+    "next_payment_date": "2026-11-19",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "frequency": "Mensile",
@@ -620,6 +656,18 @@
     "next_ex_date": "2026-12-02",
     "next_payment_date": "2026-12-16",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2026-12-05",
+    "next_payment_date": "2026-12-19",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -756,6 +804,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-01-04",
+    "next_payment_date": "2027-01-18",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "frequency": "Mensile",
@@ -864,6 +924,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-02-03",
+    "next_payment_date": "2027-02-17",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "frequency": "Mensile",
@@ -968,6 +1040,18 @@
     "next_ex_date": "2027-03-02",
     "next_payment_date": "2027-03-16",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-03-05",
+    "next_payment_date": "2027-03-19",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -1100,6 +1184,18 @@
     "next_ex_date": "2027-04-01",
     "next_payment_date": "2027-04-15",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-04-04",
+    "next_payment_date": "2027-04-18",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -1244,6 +1340,18 @@
     "next_ex_date": "2027-05-02",
     "next_payment_date": "2027-05-16",
     "amount_est": 0.07,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-05-04",
+    "next_payment_date": "2027-05-18",
+    "amount_est": 6.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -1524,6 +1632,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-06-03",
+    "next_payment_date": "2027-06-17",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AVY_US_EQ",
     "name": "Avery Dennison",
     "frequency": "Annuale",
@@ -1752,6 +1872,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-07-03",
+    "next_payment_date": "2027-07-17",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG Ltd",
     "frequency": "Mensile",
@@ -1760,6 +1892,18 @@
     "next_ex_date": "2027-07-04",
     "next_payment_date": "2027-07-18",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-03-31",
+    "next_ex_date": "2027-07-10",
+    "next_payment_date": "2027-07-24",
+    "amount_est": 0.32,
     "predicted": true,
     "source": "Storico"
   }

@@ -1,5 +1,39 @@
 [
   {
+    "ticker": "G6P0d_EQ",
+    "instrument": {
+      "ticker": "G6P0d_EQ",
+      "name": "Going Public Media",
+      "isin": "DE000A40KXC8",
+      "currency": "EUR"
+    },
+    "reference": "7d18d710-440c-4e04-a6c0-8b164af419cd",
+    "quantity": 31.0,
+    "amount": 6.5,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2849,
+    "amountInEuro": 6.5,
+    "paidOn": "2026-07-22T17:21:00.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "instrument": {
+      "ticker": "G6P0d_EQ",
+      "name": "Going Public Media",
+      "isin": "DE000A40KXC8",
+      "currency": "EUR"
+    },
+    "reference": "46f68463-2e6e-43cf-85c4-22da99bf889b",
+    "quantity": 31.0,
+    "amount": 6.67,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2151,
+    "amountInEuro": 6.67,
+    "paidOn": "2026-07-22T17:21:00.000+03:00",
+    "type": "TAX_EXEMPTED"
+  },
+  {
     "ticker": "MAIN_US_EQ",
     "instrument": {
       "ticker": "MAIN_US_EQ",

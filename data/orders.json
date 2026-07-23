@@ -1,6 +1,93 @@
 [
   {
     "order": {
+      "id": 54558977803,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "WDFC_US_EQ",
+      "status": "FILLED",
+      "value": 198.12,
+      "filledValue": 198.12,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-22T19:50:28.000Z",
+      "instrument": {
+        "ticker": "WDFC_US_EQ",
+        "name": "WD-40",
+        "isin": "US9292361071",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54558977869,
+      "quantity": 0.94934964,
+      "price": 237.78,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-22T19:50:55.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 198.12,
+        "fxRate": 1.14111999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.3,
+            "currency": "EUR",
+            "chargedAt": "2026-07-22T19:50:55.772Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54558974754,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "PRCT_US_EQ",
+      "quantity": -10.80823837,
+      "filledQuantity": -10.80823837,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-07-22T19:32:02.000Z",
+      "instrument": {
+        "ticker": "PRCT_US_EQ",
+        "name": "PROCEPT BioRobotics",
+        "isin": "US74276L1052",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54558974804,
+      "quantity": -10.80823837,
+      "price": 17.86,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-22T19:32:33.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 168.91,
+        "realisedProfitLoss": -224.76,
+        "fxRate": 1.14113937,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.25,
+            "currency": "EUR",
+            "chargedAt": "2026-07-22T19:32:33.487Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54456786312,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -13829,7 +13916,7 @@
       "createdAt": "2025-07-21T10:06:58.000Z",
       "instrument": {
         "ticker": "NUCGl_EQ",
-        "name": "VanEck Uranium and Nuclear Technologies",
+        "name": "VanEck Uranium and Nuclear Technologies (Acc)",
         "isin": "IE000M7V94E1",
         "currency": "GBP"
       }
@@ -15022,7 +15109,7 @@
       "createdAt": "2025-06-23T17:28:45.000Z",
       "instrument": {
         "ticker": "NUCGl_EQ",
-        "name": "VanEck Uranium and Nuclear Technologies",
+        "name": "VanEck Uranium and Nuclear Technologies (Acc)",
         "isin": "IE000M7V94E1",
         "currency": "GBP"
       }
@@ -26352,7 +26439,7 @@
       "createdAt": "2024-05-08T18:46:16.000Z",
       "instrument": {
         "ticker": "NUCGl_EQ",
-        "name": "VanEck Uranium and Nuclear Technologies",
+        "name": "VanEck Uranium and Nuclear Technologies (Acc)",
         "isin": "IE000M7V94E1",
         "currency": "GBP"
       }
@@ -26934,7 +27021,7 @@
       "createdAt": "2024-04-23T12:18:01.000Z",
       "instrument": {
         "ticker": "NUCGl_EQ",
-        "name": "VanEck Uranium and Nuclear Technologies",
+        "name": "VanEck Uranium and Nuclear Technologies (Acc)",
         "isin": "IE000M7V94E1",
         "currency": "GBP"
       }
@@ -27903,7 +27990,7 @@
       "createdAt": "2024-01-16T10:24:07.000Z",
       "instrument": {
         "ticker": "NUCGl_EQ",
-        "name": "VanEck Uranium and Nuclear Technologies",
+        "name": "VanEck Uranium and Nuclear Technologies (Acc)",
         "isin": "IE000M7V94E1",
         "currency": "GBP"
       }
