@@ -109,7 +109,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -229,7 +229,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -409,7 +409,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -541,7 +541,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -673,7 +673,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -817,7 +817,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -937,7 +937,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -1057,7 +1057,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -1201,7 +1201,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -1357,7 +1357,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -1657,7 +1657,7 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
@@ -1885,13 +1885,37 @@
   },
   {
     "ticker": "BWLP_US_EQ",
-    "name": "BW LPG Ltd",
+    "name": "BW LPG",
     "frequency": "Mensile",
     "frequency_days": 30,
     "last_paid": "2026-06-23",
     "next_ex_date": "2027-07-04",
     "next_payment_date": "2027-07-18",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "NGl_EQ",
+    "name": "National Grid",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2026-07-23",
+    "next_ex_date": "2027-07-09",
+    "next_payment_date": "2027-07-23",
+    "amount_est": 0.21,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "DCCl_EQ",
+    "name": "DCC Energy",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2026-07-23",
+    "next_ex_date": "2027-07-09",
+    "next_payment_date": "2027-07-23",
+    "amount_est": 0.19,
     "predicted": true,
     "source": "Storico"
   },

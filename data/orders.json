@@ -1409,7 +1409,7 @@
       "createdAt": "2026-06-24T13:13:57.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -1545,7 +1545,7 @@
       "createdAt": "2026-06-23T16:57:16.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -3181,7 +3181,7 @@
       "createdAt": "2026-06-12T13:22:44.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -3224,7 +3224,7 @@
       "createdAt": "2026-06-12T04:41:12.000Z",
       "instrument": {
         "ticker": "BWLP_US_EQ",
-        "name": "BW LPG Ltd",
+        "name": "BW LPG",
         "isin": "SGXZ69436764",
         "currency": "USD"
       }
@@ -3415,7 +3415,7 @@
       "createdAt": "2026-06-01T07:00:07.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -3451,7 +3451,7 @@
       "createdAt": "2026-05-30T01:07:35.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -4379,7 +4379,7 @@
       "createdAt": "2026-05-28T18:18:03.000Z",
       "instrument": {
         "ticker": "BWLP_US_EQ",
-        "name": "BW LPG Ltd",
+        "name": "BW LPG",
         "isin": "SGXZ69436764",
         "currency": "USD"
       }
@@ -4638,7 +4638,7 @@
       "createdAt": "2026-05-27T01:07:28.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -4674,7 +4674,7 @@
       "createdAt": "2026-05-25T01:08:54.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -4710,7 +4710,7 @@
       "createdAt": "2026-05-21T08:11:53.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -4753,7 +4753,7 @@
       "createdAt": "2026-05-20T18:28:36.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -4796,7 +4796,7 @@
       "createdAt": "2026-05-21T01:07:51.000Z",
       "instrument": {
         "ticker": "3CFLl_EQ",
-        "name": "WisdomTree Coffee 3x Leveraged",
+        "name": "WisdomTree Coffee 3x Daily Leveraged",
         "isin": "JE00BYQY3Z98",
         "currency": "USD"
       }
@@ -5625,7 +5625,7 @@
       "createdAt": "2026-04-14T07:00:46.000Z",
       "instrument": {
         "ticker": "BWLP_US_EQ",
-        "name": "BW LPG Ltd",
+        "name": "BW LPG",
         "isin": "SGXZ69436764",
         "currency": "USD"
       }
@@ -8383,7 +8383,7 @@
       "createdAt": "2026-03-25T14:32:00.000Z",
       "instrument": {
         "ticker": "VACQ_US_EQ",
-        "name": "Rocket Lab Corporation",
+        "name": "Rocket Lab",
         "isin": "US7731211089",
         "currency": "USD"
       }
@@ -8427,7 +8427,7 @@
       "createdAt": "2026-03-16T18:32:32.000Z",
       "instrument": {
         "ticker": "VACQ_US_EQ",
-        "name": "Rocket Lab Corporation",
+        "name": "Rocket Lab",
         "isin": "US7731211089",
         "currency": "USD"
       }
@@ -12607,7 +12607,7 @@
       "createdAt": "2025-08-20T18:22:38.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -13378,7 +13378,7 @@
       "createdAt": "2025-07-30T16:49:53.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -15152,7 +15152,7 @@
       "createdAt": "2025-06-23T17:28:24.000Z",
       "instrument": {
         "ticker": "3OILl_EQ",
-        "name": "WisdomTree WTI Crude Oil 3x Leveraged",
+        "name": "WisdomTree WTI Crude Oil 3x Daily Leveraged",
         "isin": "IE00BMTM6B32",
         "currency": "USD"
       }
@@ -17735,7 +17735,7 @@
       "createdAt": "2025-02-26T13:48:42.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -17893,7 +17893,7 @@
       "createdAt": "2025-02-24T09:47:38.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -19405,7 +19405,7 @@
       "createdAt": "2025-01-24T14:12:14.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -21688,7 +21688,7 @@
       "createdAt": "2024-12-19T12:48:23.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -21817,7 +21817,7 @@
       "createdAt": "2024-12-16T13:23:17.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -21932,7 +21932,7 @@
       "createdAt": "2024-12-11T21:29:10.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }
@@ -22155,7 +22155,7 @@
       "createdAt": "2024-11-28T09:22:07.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -22234,7 +22234,7 @@
       "createdAt": "2024-11-27T19:20:51.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -22817,7 +22817,7 @@
       "createdAt": "2024-11-15T16:05:26.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -22946,7 +22946,7 @@
       "createdAt": "2024-11-14T16:07:51.000Z",
       "instrument": {
         "ticker": "3NGLl_EQ",
-        "name": "WisdomTree Natural Gas 3x Leveraged",
+        "name": "WisdomTree Natural Gas 3x Daily Leveraged",
         "isin": "XS2819843900",
         "currency": "USD"
       }
@@ -24912,7 +24912,7 @@
       "createdAt": "2024-07-11T15:33:49.000Z",
       "instrument": {
         "ticker": "VOW3d_EQ",
-        "name": "Volkswagen  (Preferred)",
+        "name": "Volkswagen (Preferred)",
         "isin": "DE0007664039",
         "currency": "EUR"
       }

@@ -1,5 +1,39 @@
 [
   {
+    "ticker": "NGl_EQ",
+    "instrument": {
+      "ticker": "NGl_EQ",
+      "name": "National Grid",
+      "isin": "GB00BDR05C01",
+      "currency": "GBX"
+    },
+    "reference": "3161db7a-5a58-47d3-9314-87d827227353",
+    "quantity": 0.55685564,
+    "amount": 0.21,
+    "currency": "EUR",
+    "grossAmountPerShare": 32.14,
+    "amountInEuro": 0.21,
+    "paidOn": "2026-07-23T17:14:08.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "DCCl_EQ",
+    "instrument": {
+      "ticker": "DCCl_EQ",
+      "name": "DCC Energy",
+      "isin": "IE0002424939",
+      "currency": "GBX"
+    },
+    "reference": "71b69bbc-8092-4b76-b4ca-33e618d83cea",
+    "quantity": 0.14353519,
+    "amount": 0.19,
+    "currency": "EUR",
+    "grossAmountPerShare": 147.22,
+    "amountInEuro": 0.19,
+    "paidOn": "2026-07-23T17:13:42.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "G6P0d_EQ",
     "instrument": {
       "ticker": "G6P0d_EQ",
@@ -190,7 +224,7 @@
     "ticker": "BWLP_US_EQ",
     "instrument": {
       "ticker": "BWLP_US_EQ",
-      "name": "BW LPG Ltd",
+      "name": "BW LPG",
       "isin": "SGXZ69436764",
       "currency": "USD"
     },
@@ -207,7 +241,7 @@
     "ticker": "BWLP_US_EQ",
     "instrument": {
       "ticker": "BWLP_US_EQ",
-      "name": "BW LPG Ltd",
+      "name": "BW LPG",
       "isin": "SGXZ69436764",
       "currency": "USD"
     },
