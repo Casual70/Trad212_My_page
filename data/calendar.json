@@ -4436,6 +4436,26 @@
     "predicted": true
   },
   {
+    "date": "2027-07-15",
+    "type": "ex_date",
+    "ticker": "MO_US_EQ",
+    "name": "Altria",
+    "amount": 0.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-29"
+  },
+  {
+    "date": "2027-07-15",
+    "type": "ex_date",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 2.05,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-29"
+  },
+  {
     "date": "2027-07-17",
     "type": "payment_predicted",
     "ticker": "G6P0d_EQ",
@@ -4477,6 +4497,24 @@
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-29",
+    "type": "payment_predicted",
+    "ticker": "MO_US_EQ",
+    "name": "Altria",
+    "amount": 0.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-29",
+    "type": "payment_predicted",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 2.05,
     "currency": "EUR",
     "predicted": true
   }
