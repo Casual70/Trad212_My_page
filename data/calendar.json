@@ -1386,16 +1386,6 @@
     "predicted": false
   },
   {
-    "date": "2026-07-15",
-    "type": "ex_date",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-29"
-  },
-  {
     "date": "2026-07-16",
     "type": "ex_date",
     "ticker": "MO_US_EQ",
@@ -1480,15 +1470,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-08-11"
-  },
-  {
-    "date": "2026-07-29",
-    "type": "payment_predicted",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-07-30",
@@ -4456,6 +4437,26 @@
     "payment_date": "2027-07-29"
   },
   {
+    "date": "2027-07-16",
+    "type": "ex_date",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-30"
+  },
+  {
+    "date": "2027-07-16",
+    "type": "ex_date",
+    "ticker": "PKE_US_EQ",
+    "name": "Park Aerospace",
+    "amount": 0.19,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-30"
+  },
+  {
     "date": "2027-07-17",
     "type": "payment_predicted",
     "ticker": "G6P0d_EQ",
@@ -4515,6 +4516,24 @@
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
     "amount": 2.05,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-30",
+    "type": "payment_predicted",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-30",
+    "type": "payment_predicted",
+    "ticker": "PKE_US_EQ",
+    "name": "Park Aerospace",
+    "amount": 0.19,
     "currency": "EUR",
     "predicted": true
   }

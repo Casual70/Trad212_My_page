@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-03-31",
-    "next_ex_date": "2026-07-15",
-    "next_payment_date": "2026-07-29",
-    "amount_est": 0.32,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "MO_US_EQ",
     "name": "Altria",
     "frequency": "Trimestrale",
@@ -1952,6 +1940,30 @@
     "next_ex_date": "2027-07-15",
     "next_payment_date": "2027-07-29",
     "amount_est": 2.05,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-06-05",
+    "next_ex_date": "2027-07-16",
+    "next_payment_date": "2027-07-30",
+    "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "PKE_US_EQ",
+    "name": "Park Aerospace",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2025-05-02",
+    "next_ex_date": "2027-07-16",
+    "next_payment_date": "2027-07-30",
+    "amount_est": 0.19,
     "predicted": true,
     "source": "Storico"
   }
