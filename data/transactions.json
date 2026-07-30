@@ -1,6 +1,34 @@
 [
   {
     "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.02,
+    "currency": "EUR",
+    "reference": "019fb08b-3738-7447-9fb5-c8fb142dc3aa",
+    "dateTime": "2026-07-30T01:02:21.486Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -24.69,
+    "currency": "EUR",
+    "reference": "019fae2d-2c53-762c-9f3a-b5ceb4e7cde6",
+    "dateTime": "2026-07-29T14:00:23.887Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -48.24,
+    "currency": "EUR",
+    "reference": "019fad83-e417-762e-bb3d-53173da9cef6",
+    "dateTime": "2026-07-29T10:55:29.811Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -7.0,
+    "currency": "EUR",
+    "reference": "019fad72-0f3b-76f7-800c-aa85a0528b5f",
+    "dateTime": "2026-07-29T10:36:01.207Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
     "amount": 0.04,
     "currency": "EUR",
     "reference": "019fab64-db14-7b43-b021-ccf91a0c2489",
