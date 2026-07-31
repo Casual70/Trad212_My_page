@@ -1,6 +1,93 @@
 [
   {
     "order": {
+      "id": 54963288355,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "WAVS_US_EQ",
+      "status": "FILLED",
+      "value": 9.92,
+      "filledValue": 9.92,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-07-30T21:44:16.000Z",
+      "instrument": {
+        "ticker": "WAVS_US_EQ",
+        "name": "Cycurion",
+        "isin": "US95758L3050",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54963288368,
+      "quantity": 5.38837551,
+      "price": 2.12,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-30T21:44:17.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 9.92,
+        "fxRate": 1.15270999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-07-30T21:44:17.998Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 54951589541,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "AVY_US_EQ",
+      "quantity": -0.05770454,
+      "filledQuantity": -0.05770454,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-07-30T11:23:58.000Z",
+      "instrument": {
+        "ticker": "AVY_US_EQ",
+        "name": "Avery Dennison",
+        "isin": "US0536111091",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 54951590925,
+      "quantity": -0.05770454,
+      "price": 184.01,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-07-30T11:30:34.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 9.25,
+        "realisedProfitLoss": 0.79,
+        "fxRate": 1.1466752,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-07-30T11:30:34.672Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54558977803,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -8485,6 +8572,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 16.32,
+        "realisedProfitLoss": 5.15,
         "fxRate": 1,
         "taxes": []
       }
@@ -8521,6 +8609,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 11.61,
+        "realisedProfitLoss": -8.05,
         "fxRate": 1.15778159,
         "taxes": [
           {
@@ -9902,6 +9991,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 65.1,
+        "realisedProfitLoss": -37.45,
         "fxRate": 1.17552147,
         "taxes": [
           {
@@ -10306,6 +10396,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 113.87,
+        "realisedProfitLoss": 6.9,
         "fxRate": 1.1750579,
         "taxes": [
           {
@@ -10711,6 +10802,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 106.4,
+        "realisedProfitLoss": 6.71,
         "fxRate": 1.15108747,
         "taxes": [
           {
@@ -11085,6 +11177,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 11.56,
+        "realisedProfitLoss": -13.02,
         "fxRate": 1.16616148,
         "taxes": [
           {
@@ -11128,6 +11221,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 17.02,
+        "realisedProfitLoss": -2.98,
         "fxRate": 1,
         "taxes": []
       }
@@ -11797,6 +11891,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 120.91,
+        "realisedProfitLoss": 4.0,
         "fxRate": 1,
         "taxes": []
       }
@@ -11912,6 +12007,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 13.48,
+        "realisedProfitLoss": 1.1,
         "fxRate": 1.17571666,
         "taxes": [
           {
@@ -12100,6 +12196,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 266.63,
+        "realisedProfitLoss": 8.87,
         "fxRate": 86.64868184,
         "taxes": [
           {
@@ -12530,6 +12627,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 465.08,
+        "realisedProfitLoss": 48.46,
         "fxRate": 1.16545205,
         "taxes": [
           {
@@ -12622,6 +12720,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 65.01,
+        "realisedProfitLoss": 5.01,
         "fxRate": 1,
         "taxes": []
       }
@@ -13186,6 +13285,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 419.88,
+        "realisedProfitLoss": 30.01,
         "fxRate": 1.15747261,
         "taxes": [
           {
@@ -13301,6 +13401,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 55.89,
+        "realisedProfitLoss": 3.79,
         "fxRate": 1.14278678,
         "taxes": [
           {
@@ -13816,6 +13917,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 332.19,
+        "realisedProfitLoss": 33.14,
         "fxRate": 1.14697299,
         "taxes": [
           {
@@ -13931,6 +14033,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.89,
+        "realisedProfitLoss": 3.0,
         "fxRate": 0.86531209,
         "taxes": [
           {
@@ -14017,6 +14120,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 54.84,
+        "realisedProfitLoss": 2.73,
         "fxRate": 1.16833584,
         "taxes": [
           {
@@ -14146,6 +14250,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 101.95,
+        "realisedProfitLoss": 0.37,
         "fxRate": 1,
         "taxes": []
       }
@@ -14268,6 +14373,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 567.95,
+        "realisedProfitLoss": 176.13,
         "fxRate": 1.17126872,
         "taxes": [
           {
@@ -14376,6 +14482,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 12.52,
+        "realisedProfitLoss": 1.39,
         "fxRate": 1.17114455,
         "taxes": [
           {
@@ -14757,6 +14864,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 10.59,
+        "realisedProfitLoss": 0.63,
         "fxRate": 1.17387686,
         "taxes": [
           {
@@ -14843,6 +14951,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 11.85,
+        "realisedProfitLoss": 1.89,
         "fxRate": 1.17664034,
         "taxes": [
           {
@@ -15038,6 +15147,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.89,
+        "realisedProfitLoss": 3.76,
         "fxRate": 1.17296438,
         "taxes": [
           {
@@ -15965,6 +16075,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 68.59,
+        "realisedProfitLoss": -8.89,
         "fxRate": 1,
         "taxes": []
       }
@@ -16001,6 +16112,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.78,
+        "realisedProfitLoss": -7.13,
         "fxRate": 1.13482659,
         "taxes": [
           {
@@ -16087,6 +16199,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 51.82,
+        "realisedProfitLoss": 1.62,
         "fxRate": 0.93669,
         "taxes": [
           {
@@ -16209,6 +16322,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 58.22,
+        "realisedProfitLoss": 1.81,
         "fxRate": 84.9784484,
         "taxes": [
           {
@@ -16696,6 +16810,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 53.44,
+        "realisedProfitLoss": 3.39,
         "fxRate": 1,
         "taxes": []
       }
@@ -16940,6 +17055,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 77.36,
+        "realisedProfitLoss": 4.36,
         "fxRate": 1,
         "taxes": []
       }
@@ -17019,6 +17135,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 26.54,
+        "realisedProfitLoss": 1.62,
         "fxRate": 1.09257543,
         "taxes": [
           {
@@ -17105,6 +17222,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.41,
+        "realisedProfitLoss": 0.41,
         "fxRate": 1,
         "taxes": []
       }
@@ -17299,6 +17417,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 274.32,
+        "realisedProfitLoss": 11.83,
         "fxRate": 1.04214916,
         "taxes": [
           {
@@ -17385,6 +17504,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 48.34,
+        "realisedProfitLoss": 8.47,
         "fxRate": 1.04885238,
         "taxes": [
           {
@@ -17556,6 +17676,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.0,
+        "realisedProfitLoss": -0.01,
         "fxRate": 1.05038948,
         "taxes": []
       }
@@ -17592,6 +17713,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 22.55,
+        "realisedProfitLoss": 3.43,
         "fxRate": 1.04885873,
         "taxes": [
           {
@@ -17635,6 +17757,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.0,
+        "realisedProfitLoss": -0.01,
         "fxRate": 1.0503948,
         "taxes": []
       }
@@ -17671,6 +17794,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.0,
+        "realisedProfitLoss": 0.06,
         "fxRate": 1.05038575,
         "taxes": []
       }
@@ -17750,6 +17874,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 226.0,
+        "realisedProfitLoss": 10.68,
         "fxRate": 1,
         "taxes": []
       }
@@ -17786,6 +17911,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 21.46,
+        "realisedProfitLoss": 1.4,
         "fxRate": 83.02349589,
         "taxes": [
           {
@@ -17865,6 +17991,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 23.34,
+        "realisedProfitLoss": 1.41,
         "fxRate": 1.04659139,
         "taxes": [
           {
@@ -17944,6 +18071,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 0.77,
+        "realisedProfitLoss": 0.11,
         "fxRate": 0.93742659,
         "taxes": []
       }
@@ -17980,6 +18108,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 125.42,
+        "realisedProfitLoss": 17.43,
         "fxRate": 0.94139765,
         "taxes": [
           {
@@ -18174,6 +18303,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 101.02,
+        "realisedProfitLoss": 1.53,
         "fxRate": 1,
         "taxes": []
       }
@@ -18210,6 +18340,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 109.09,
+        "realisedProfitLoss": 4.03,
         "fxRate": 1.04039935,
         "taxes": [
           {
@@ -18253,6 +18384,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.13,
+        "realisedProfitLoss": -2.85,
         "fxRate": 83.52581415,
         "taxes": []
       }
@@ -18375,6 +18507,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 63.11,
+        "realisedProfitLoss": -87.17,
         "fxRate": 1.03069881,
         "taxes": [
           {
@@ -18461,6 +18594,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 22.67,
+        "realisedProfitLoss": 2.42,
         "fxRate": 1.03727011,
         "taxes": [
           {
@@ -18526,6 +18660,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 107.0,
+        "realisedProfitLoss": 0.69,
         "fxRate": 1,
         "taxes": []
       }
@@ -18997,6 +19132,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 46.81,
+        "realisedProfitLoss": -3.19,
         "fxRate": 1,
         "taxes": []
       }
@@ -19033,6 +19169,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 52.06,
+        "realisedProfitLoss": 2.21,
         "fxRate": 1.02578943,
         "taxes": [
           {
@@ -19119,6 +19256,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 14.59,
+        "realisedProfitLoss": 1.0,
         "fxRate": 1.04267675,
         "taxes": [
           {
@@ -19205,6 +19343,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 54.91,
+        "realisedProfitLoss": 5.07,
         "fxRate": 1.04325157,
         "taxes": [
           {
@@ -19291,6 +19430,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.0,
+        "realisedProfitLoss": 0.87,
         "fxRate": 1.04902047,
         "taxes": [
           {
@@ -19377,6 +19517,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 41.15,
+        "realisedProfitLoss": 1.27,
         "fxRate": 1.04935087,
         "taxes": [
           {
@@ -19456,6 +19597,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 19.82,
+        "realisedProfitLoss": -0.02,
         "fxRate": 84.37648715,
         "taxes": [
           {
@@ -19657,6 +19799,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 42.17,
+        "realisedProfitLoss": 2.29,
         "fxRate": 1,
         "taxes": []
       }
@@ -20250,6 +20393,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 96.87,
+        "realisedProfitLoss": 2.14,
         "fxRate": 1.02967218,
         "taxes": [
           {
@@ -20731,6 +20875,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 66.84,
+        "realisedProfitLoss": 4.67,
         "fxRate": 1.02557888,
         "taxes": [
           {
@@ -20894,6 +21039,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 100.27,
+        "realisedProfitLoss": 0.57,
         "fxRate": 1.026419,
         "taxes": [
           {
@@ -21023,6 +21169,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 99.52,
+        "realisedProfitLoss": 19.55,
         "fxRate": 83.83393287,
         "taxes": [
           {
@@ -21109,6 +21256,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 40.0,
+        "realisedProfitLoss": 2.18,
         "fxRate": 1.02838985,
         "taxes": [
           {
@@ -21195,6 +21343,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 37.28,
+        "realisedProfitLoss": 4.15,
         "fxRate": 1.03852168,
         "taxes": [
           {
@@ -21281,6 +21430,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 100.0,
+        "realisedProfitLoss": 3.27,
         "fxRate": 1.029852,
         "taxes": [
           {
@@ -21367,6 +21517,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 40.0,
+        "realisedProfitLoss": 0.42,
         "fxRate": 1.0301921,
         "taxes": [
           {
@@ -21410,6 +21561,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 29.99,
+        "realisedProfitLoss": 0.43,
         "fxRate": 1.02924892,
         "taxes": [
           {
@@ -21532,6 +21684,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.28,
+        "realisedProfitLoss": 0.44,
         "fxRate": 82.92949056,
         "taxes": [
           {
@@ -21703,6 +21856,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 133.17,
+        "realisedProfitLoss": 13.55,
         "fxRate": 1.04049938,
         "taxes": [
           {
@@ -21789,6 +21943,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 21.45,
+        "realisedProfitLoss": 3.36,
         "fxRate": 1.0502951,
         "taxes": [
           {
@@ -21875,6 +22030,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 111.41,
+        "realisedProfitLoss": 5.96,
         "fxRate": 1,
         "taxes": []
       }
@@ -21983,6 +22139,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 42.69,
+        "realisedProfitLoss": 7.81,
         "fxRate": 1.05095815,
         "taxes": [
           {
@@ -22091,6 +22248,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 23.14,
+        "realisedProfitLoss": 4.17,
         "fxRate": 1.05294108,
         "taxes": [
           {
@@ -22170,6 +22328,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 63.94,
+        "realisedProfitLoss": 4.13,
         "fxRate": 1.05345778,
         "taxes": [
           {
@@ -22213,6 +22372,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.48,
+        "realisedProfitLoss": 7.48,
         "fxRate": 1,
         "taxes": []
       }
@@ -22343,6 +22503,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 158.62,
+        "realisedProfitLoss": 27.02,
         "fxRate": 0.83521712,
         "taxes": [
           {
@@ -22488,6 +22649,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 10.84,
+        "realisedProfitLoss": 2.32,
         "fxRate": 1.04143086,
         "taxes": [
           {
@@ -22617,6 +22779,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.0,
+        "realisedProfitLoss": 3.06,
         "fxRate": 1.04784583,
         "taxes": [
           {
@@ -22703,6 +22866,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 10.7,
+        "realisedProfitLoss": 0.74,
         "fxRate": 1.04760631,
         "taxes": [
           {
@@ -22789,6 +22953,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 43.14,
+        "realisedProfitLoss": 7.72,
         "fxRate": 1.05388178,
         "taxes": [
           {
@@ -22875,6 +23040,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 49.98,
+        "realisedProfitLoss": 0.13,
         "fxRate": 1.05465574,
         "taxes": [
           {
@@ -22918,6 +23084,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 25.0,
+        "realisedProfitLoss": 1.22,
         "fxRate": 1.05670505,
         "taxes": [
           {
@@ -23040,6 +23207,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 44.0,
+        "realisedProfitLoss": 9.65,
         "fxRate": 1.05713633,
         "taxes": [
           {
@@ -23126,6 +23294,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 24.0,
+        "realisedProfitLoss": 2.54,
         "fxRate": 1.09050733,
         "taxes": [
           {
@@ -23169,6 +23338,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 17.6,
+        "realisedProfitLoss": 2.65,
         "fxRate": 1.09071685,
         "taxes": [
           {
@@ -23284,6 +23454,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 59.91,
+        "realisedProfitLoss": 13.37,
         "fxRate": 1.08887736,
         "taxes": [
           {
@@ -23535,6 +23706,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 80.14,
+        "realisedProfitLoss": 0.38,
         "fxRate": 1,
         "taxes": []
       }
@@ -23614,6 +23786,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.25,
+        "realisedProfitLoss": 0.31,
         "fxRate": 1.08369482,
         "taxes": [
           {
@@ -23786,6 +23959,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.07,
+        "realisedProfitLoss": 18.14,
         "fxRate": 1.08521997,
         "taxes": [
           {
@@ -23901,6 +24075,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 3.13,
+        "realisedProfitLoss": -11.86,
         "fxRate": 1.09059105,
         "taxes": []
       }
@@ -24023,6 +24198,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 74.09,
+        "realisedProfitLoss": 14.29,
         "fxRate": 1.11510644,
         "taxes": [
           {
@@ -24102,6 +24278,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.33,
+        "realisedProfitLoss": 0.09,
         "fxRate": 1.11389715,
         "taxes": []
       }
@@ -24296,6 +24473,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 50.59,
+        "realisedProfitLoss": 0.74,
         "fxRate": 1.08195512,
         "taxes": [
           {
@@ -24461,6 +24639,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 33.1,
+        "realisedProfitLoss": 3.58,
         "fxRate": 1.08156498,
         "taxes": [
           {
@@ -24590,6 +24769,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 79.54,
+        "realisedProfitLoss": 18.25,
         "fxRate": 1.09391006,
         "taxes": [
           {
@@ -24762,6 +24942,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 10.82,
+        "realisedProfitLoss": 0.36,
         "fxRate": 1.08761804,
         "taxes": [
           {
@@ -24805,6 +24986,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 35.98,
+        "realisedProfitLoss": 0.53,
         "fxRate": 1.08773735,
         "taxes": [
           {
@@ -24884,6 +25066,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 24.37,
+        "realisedProfitLoss": 2.87,
         "fxRate": 1.08963791,
         "taxes": [
           {
@@ -24963,6 +25146,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 50.94,
+        "realisedProfitLoss": 1.27,
         "fxRate": 1.08693491,
         "taxes": [
           {
@@ -25049,6 +25233,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 9.99,
+        "realisedProfitLoss": 0.03,
         "fxRate": 1.08048794,
         "taxes": [
           {
@@ -25135,6 +25320,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 5.0,
+        "realisedProfitLoss": -7.96,
         "fxRate": 1.07187217,
         "taxes": [
           {
@@ -25221,6 +25407,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 40.7,
+        "realisedProfitLoss": 0.82,
         "fxRate": 1.06964629,
         "taxes": [
           {
@@ -25307,6 +25494,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 49.7,
+        "realisedProfitLoss": -0.16,
         "fxRate": 1.07089022,
         "taxes": [
           {
@@ -25522,6 +25710,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 149.91,
+        "realisedProfitLoss": 127.97,
         "fxRate": 1.07159307,
         "taxes": [
           {
@@ -25730,6 +25919,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 1.59,
+        "realisedProfitLoss": -1.41,
         "fxRate": 85.13919229,
         "taxes": []
       }
@@ -25852,6 +26042,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 10.35,
+        "realisedProfitLoss": 1.39,
         "fxRate": 1.08526368,
         "taxes": [
           {
@@ -25938,6 +26129,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 11.7,
+        "realisedProfitLoss": 0.24,
         "fxRate": 1.08605822,
         "taxes": [
           {
@@ -25981,6 +26173,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 31.53,
+        "realisedProfitLoss": 4.04,
         "fxRate": 1.08558714,
         "taxes": [
           {
@@ -26110,6 +26303,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.0,
+        "realisedProfitLoss": 3.04,
         "fxRate": 1.08223058,
         "taxes": [
           {
@@ -26282,6 +26476,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 31.29,
+        "realisedProfitLoss": 6.38,
         "fxRate": 1.07917213,
         "taxes": [
           {
@@ -26454,6 +26649,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 59.19,
+        "realisedProfitLoss": 4.36,
         "fxRate": 0.86057942,
         "taxes": [
           {
@@ -26748,6 +26944,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 34.84,
+        "realisedProfitLoss": 8.93,
         "fxRate": 1.06804709,
         "taxes": [
           {
@@ -26870,6 +27067,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 20.51,
+        "realisedProfitLoss": 0.57,
         "fxRate": 85.42089316,
         "taxes": [
           {
@@ -26913,6 +27111,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 14.67,
+        "realisedProfitLoss": 0.21,
         "fxRate": 1.070923,
         "taxes": [
           {
@@ -26999,6 +27198,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 9.81,
+        "realisedProfitLoss": 1.61,
         "fxRate": 1,
         "taxes": []
       }
@@ -27144,6 +27344,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 41.42,
+        "realisedProfitLoss": 7.53,
         "fxRate": 1.06518183,
         "taxes": [
           {
@@ -27467,6 +27668,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 14.61,
+        "realisedProfitLoss": 8.7,
         "fxRate": 1.0762893,
         "taxes": [
           {
@@ -27668,6 +27870,7 @@
       "walletImpact": {
         "currency": "EUR",
         "netValue": 6.0,
+        "realisedProfitLoss": 1.96,
         "fxRate": 1.08217778,
         "taxes": [
           {

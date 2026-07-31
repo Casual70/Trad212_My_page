@@ -1386,16 +1386,6 @@
     "predicted": false
   },
   {
-    "date": "2026-07-17",
-    "type": "ex_date",
-    "ticker": "PKE_US_EQ",
-    "name": "Park Aerospace",
-    "amount": 0.19,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-07-31"
-  },
-  {
     "date": "2026-07-21",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -1450,15 +1440,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-08-11"
-  },
-  {
-    "date": "2026-07-31",
-    "type": "payment_predicted",
-    "ticker": "PKE_US_EQ",
-    "name": "Park Aerospace",
-    "amount": 0.19,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-07-31",

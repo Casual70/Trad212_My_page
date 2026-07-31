@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "PKE_US_EQ",
-    "name": "Park Aerospace",
-    "frequency": "Trimestrale",
-    "frequency_days": 91,
-    "last_paid": "2025-05-02",
-    "next_ex_date": "2026-07-17",
-    "next_payment_date": "2026-07-31",
-    "amount_est": 0.19,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
     "frequency": "Mensile",
