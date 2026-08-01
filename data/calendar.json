@@ -1443,6 +1443,33 @@
   },
   {
     "date": "2026-07-31",
+    "type": "payment",
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "amount": 0.15,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-07-31",
+    "type": "payment",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 10.21,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-07-31",
+    "type": "payment",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.59,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-07-31",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -2004,14 +2031,14 @@
     "payment_date": "2026-10-29"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "type": "ex_date",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2026-10-29"
+    "payment_date": "2026-10-30"
   },
   {
     "date": "2026-10-16",
@@ -2100,15 +2127,6 @@
   },
   {
     "date": "2026-10-29",
-    "type": "payment_predicted",
-    "ticker": "MITT_US_EQ",
-    "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-10-29",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -2116,6 +2134,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-12"
+  },
+  {
+    "date": "2026-10-30",
+    "type": "payment_predicted",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 3.22,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-10-30",
@@ -2650,16 +2677,6 @@
     "payment_date": "2027-01-28"
   },
   {
-    "date": "2027-01-14",
-    "type": "ex_date",
-    "ticker": "MITT_US_EQ",
-    "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-01-28"
-  },
-  {
     "date": "2027-01-15",
     "type": "payment_predicted",
     "ticker": "PSEC_US_EQ",
@@ -2667,6 +2684,16 @@
     "amount": 0.17,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-01-15",
+    "type": "ex_date",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 3.22,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-29"
   },
   {
     "date": "2027-01-15",
@@ -2745,11 +2772,11 @@
     "predicted": true
   },
   {
-    "date": "2027-01-28",
+    "date": "2027-01-29",
     "type": "payment_predicted",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true
   },
@@ -3267,14 +3294,14 @@
     "payment_date": "2027-04-29"
   },
   {
-    "date": "2027-04-15",
+    "date": "2027-04-16",
     "type": "ex_date",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-04-29"
+    "payment_date": "2027-04-30"
   },
   {
     "date": "2027-04-16",
@@ -3363,11 +3390,11 @@
     "predicted": true
   },
   {
-    "date": "2027-04-29",
+    "date": "2027-04-30",
     "type": "payment_predicted",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true
   },
@@ -4370,14 +4397,14 @@
     "payment_date": "2027-07-29"
   },
   {
-    "date": "2027-07-15",
+    "date": "2027-07-16",
     "type": "ex_date",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-07-29"
+    "payment_date": "2027-07-30"
   },
   {
     "date": "2027-07-16",
@@ -4407,6 +4434,26 @@
     "amount": 6.58,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-07-17",
+    "type": "ex_date",
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "amount": 0.15,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-31"
+  },
+  {
+    "date": "2027-07-17",
+    "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.59,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-31"
   },
   {
     "date": "2027-07-18",
@@ -4454,11 +4501,11 @@
     "predicted": true
   },
   {
-    "date": "2027-07-29",
+    "date": "2027-07-30",
     "type": "payment_predicted",
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
-    "amount": 2.05,
+    "amount": 3.22,
     "currency": "EUR",
     "predicted": true
   },
@@ -4477,6 +4524,24 @@
     "ticker": "PKE_US_EQ",
     "name": "Park Aerospace",
     "amount": 0.19,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-31",
+    "type": "payment_predicted",
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "amount": 0.15,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-31",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.59,
     "currency": "EUR",
     "predicted": true
   }

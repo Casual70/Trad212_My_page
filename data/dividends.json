@@ -1,5 +1,56 @@
 [
   {
+    "ticker": "WDFC_US_EQ",
+    "instrument": {
+      "ticker": "WDFC_US_EQ",
+      "name": "WD-40",
+      "isin": "US9292361071",
+      "currency": "USD"
+    },
+    "reference": "a877c97c-9323-4fff-afe0-cf3399b4ce58",
+    "quantity": 0.2,
+    "amount": 0.15,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.02,
+    "amountInEuro": 0.15,
+    "paidOn": "2026-07-31T19:05:43.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "MITT_US_EQ",
+    "instrument": {
+      "ticker": "MITT_US_EQ",
+      "name": "TPG Mortgage Investment Trust",
+      "isin": "US0012285013",
+      "currency": "USD"
+    },
+    "reference": "4359dae0-a39b-466d-9586-e61ef3f77db8",
+    "quantity": 57.60775239,
+    "amount": 10.21,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.24,
+    "amountInEuro": 10.21,
+    "paidOn": "2026-07-31T19:04:26.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "instrument": {
+      "ticker": "CION_US_EQ",
+      "name": "CION Investment",
+      "isin": "US17259U2042",
+      "currency": "USD"
+    },
+    "reference": "35b71ccd-e0c2-4c3f-99e5-7463ba466e35",
+    "quantity": 8.0,
+    "amount": 0.59,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.1,
+    "amountInEuro": 0.59,
+    "paidOn": "2026-07-31T17:41:39.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "NGl_EQ",
     "instrument": {
       "ticker": "NGl_EQ",
