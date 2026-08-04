@@ -1386,16 +1386,6 @@
     "predicted": false
   },
   {
-    "date": "2026-07-21",
-    "type": "ex_date",
-    "ticker": "ADMl_EQ",
-    "name": "Admiral Group",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-08-04"
-  },
-  {
     "date": "2026-07-22",
     "type": "payment",
     "ticker": "G6P0d_EQ",
@@ -1479,13 +1469,13 @@
     "payment_date": "2026-08-14"
   },
   {
-    "date": "2026-08-04",
-    "type": "payment_predicted",
-    "ticker": "ADMl_EQ",
-    "name": "Admiral Group",
-    "amount": 0.12,
+    "date": "2026-08-03",
+    "type": "payment",
+    "ticker": "T_US_EQ",
+    "name": "AT&T",
+    "amount": 0.08,
     "currency": "EUR",
-    "predicted": true
+    "predicted": false
   },
   {
     "date": "2026-08-04",
@@ -4465,6 +4455,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-20",
+    "type": "ex_date",
+    "ticker": "T_US_EQ",
+    "name": "AT&T",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-03"
+  },
+  {
     "date": "2027-07-23",
     "type": "payment_predicted",
     "ticker": "NGl_EQ",
@@ -4542,6 +4542,15 @@
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "amount": 0.59,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-03",
+    "type": "payment_predicted",
+    "ticker": "T_US_EQ",
+    "name": "AT&T",
+    "amount": 0.08,
     "currency": "EUR",
     "predicted": true
   }

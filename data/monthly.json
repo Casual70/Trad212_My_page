@@ -148,5 +148,10 @@
     "month": "2026-07",
     "dividends": 24.88,
     "realized_pl": -177.7
+  },
+  {
+    "month": "2026-08",
+    "dividends": 0.08,
+    "realized_pl": 0.0
   }
 ]
