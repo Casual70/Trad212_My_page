@@ -1,6 +1,49 @@
 [
   {
     "order": {
+      "id": 55178893410,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "WAVS_US_EQ",
+      "status": "FILLED",
+      "value": 11.11,
+      "filledValue": 11.11,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-04T04:53:18.000Z",
+      "instrument": {
+        "ticker": "WAVS_US_EQ",
+        "name": "Cycurion",
+        "isin": "US95758L3050",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 55201555825,
+      "quantity": 14.83865975,
+      "price": 0.8603,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-04T08:00:34.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 11.11,
+        "fxRate": 1.15109999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-08-04T08:00:34.352Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 54963288355,
       "strategy": "VALUE",
       "type": "MARKET",

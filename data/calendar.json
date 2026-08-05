@@ -4483,6 +4483,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-23",
+    "type": "ex_date",
+    "ticker": "AIRp_EQ",
+    "name": "Airbus",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-06"
+  },
+  {
     "date": "2027-07-24",
     "type": "payment_predicted",
     "ticker": "GAIN_US_EQ",
@@ -4551,6 +4561,15 @@
     "ticker": "T_US_EQ",
     "name": "AT&T",
     "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-06",
+    "type": "payment_predicted",
+    "ticker": "AIRp_EQ",
+    "name": "Airbus",
+    "amount": 0.41,
     "currency": "EUR",
     "predicted": true
   }

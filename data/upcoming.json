@@ -1954,5 +1954,17 @@
     "amount_est": 0.08,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "AIRp_EQ",
+    "name": "Airbus",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2024-04-23",
+    "next_ex_date": "2027-07-23",
+    "next_payment_date": "2027-08-06",
+    "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
   }
 ]
