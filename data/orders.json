@@ -1,6 +1,202 @@
 [
   {
     "order": {
+      "id": 55312404408,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "3SBEl_EQ",
+      "status": "FILLED",
+      "value": 22.77,
+      "filledValue": 22.77,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-06T20:24:44.000Z",
+      "instrument": {
+        "ticker": "3SBEl_EQ",
+        "name": "Leverage Shares -3x Short Alibaba BABA",
+        "isin": "XS3037640110",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 55350055846,
+      "quantity": 1.33393829,
+      "price": 5.51,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-07T07:05:01.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 7.35,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55312404408,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "3SBEl_EQ",
+      "status": "FILLED",
+      "value": 22.77,
+      "filledValue": 22.77,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-06T20:24:44.000Z",
+      "instrument": {
+        "ticker": "3SBEl_EQ",
+        "name": "Leverage Shares -3x Short Alibaba BABA",
+        "isin": "XS3037640110",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 55350055415,
+      "quantity": 2.0,
+      "price": 5.51,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-07T07:04:56.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 11.02,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55312404408,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "3SBEl_EQ",
+      "status": "FILLED",
+      "value": 22.77,
+      "filledValue": 22.77,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-06T20:24:44.000Z",
+      "instrument": {
+        "ticker": "3SBEl_EQ",
+        "name": "Leverage Shares -3x Short Alibaba BABA",
+        "isin": "XS3037640110",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 55312427969,
+      "quantity": 0.7915588,
+      "price": 5.56,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-07T07:00:27.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 4.4,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55302770960,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "UKWl_EQ",
+      "quantity": -7.8384832,
+      "filledQuantity": -7.8384832,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-06T11:48:47.000Z",
+      "instrument": {
+        "ticker": "UKWl_EQ",
+        "name": "Greencoat UK Wind",
+        "isin": "GB00B8SC6K54",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55302771132,
+      "quantity": -7.8384832,
+      "price": 115.4,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-06T11:49:45.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 10.53,
+        "realisedProfitLoss": 1.01,
+        "fxRate": 85.74037547,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-08-06T11:49:45.773Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55302770917,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "MNDIl_EQ",
+      "quantity": -1.12051052,
+      "filledQuantity": -1.12051052,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-06T11:48:34.000Z",
+      "instrument": {
+        "ticker": "MNDIl_EQ",
+        "name": "Mondi",
+        "isin": "GB00BMWC6P49",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55302771046,
+      "quantity": -1.12051052,
+      "price": 932.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-06T11:49:16.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 12.16,
+        "realisedProfitLoss": 1.35,
+        "fxRate": 85.74021384,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-08-06T11:49:16.554Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55178893410,
       "strategy": "VALUE",
       "type": "MARKET",
