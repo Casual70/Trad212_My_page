@@ -4502,6 +4502,16 @@
     "predicted": true
   },
   {
+    "date": "2027-07-26",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-09"
+  },
+  {
     "date": "2027-07-29",
     "type": "payment_predicted",
     "ticker": "MO_US_EQ",
@@ -4570,6 +4580,15 @@
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-09",
+    "type": "payment_predicted",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.1,
     "currency": "EUR",
     "predicted": true
   }
