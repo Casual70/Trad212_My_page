@@ -1,6 +1,178 @@
 [
   {
     "order": {
+      "id": 55514110137,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "ITHl_EQ",
+      "status": "FILLED",
+      "value": 1.0,
+      "filledValue": 1.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "ITHl_EQ",
+        "name": "Ithaca Energy",
+        "isin": "GB00BPJHV584",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55518919694,
+      "quantity": 0.34322142,
+      "price": 246.4,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T07:00:40.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.0,
+        "fxRate": 85.42399786,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-11T07:01:34.084Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55514110134,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NGl_EQ",
+      "status": "FILLED",
+      "value": 1.51,
+      "filledValue": 1.51,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "NGl_EQ",
+        "name": "National Grid",
+        "isin": "GB00BDR05C01",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55518916442,
+      "quantity": 0.10872804,
+      "price": 1178.5,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T07:00:33.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.51,
+        "fxRate": 85.42399676,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-11T07:01:18.241Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55514110138,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "HLMAl_EQ",
+      "status": "FILLED",
+      "value": 1.51,
+      "filledValue": 1.51,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "HLMAl_EQ",
+        "name": "Halma",
+        "isin": "GB0004052071",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55518912682,
+      "quantity": 0.03459354,
+      "price": 3704.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T07:00:31.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.51,
+        "fxRate": 85.42298144,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-11T07:00:53.114Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55514110133,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "GSKl_EQ",
+      "status": "FILLED",
+      "value": 2.01,
+      "filledValue": 2.01,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "GSKl_EQ",
+        "name": "GSK",
+        "isin": "GB00BN7SWP63",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55518912599,
+      "quantity": 0.08863605,
+      "price": 1927.5,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T07:00:31.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 2.01,
+        "fxRate": 85.42299318,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-11T07:00:53.085Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55312404408,
       "strategy": "VALUE",
       "type": "MARKET",

@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2024-04-23",
-    "next_ex_date": "2026-07-28",
-    "next_payment_date": "2026-08-11",
-    "amount_est": 0.41,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "frequency": "Mensile",
