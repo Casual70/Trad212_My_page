@@ -1,6 +1,78 @@
 [
   {
     "order": {
+      "id": 55514110136,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "LMT_US_EQ",
+      "status": "FILLED",
+      "value": 2.01,
+      "filledValue": 2.01,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "LMT_US_EQ",
+        "name": "Lockheed Martin",
+        "isin": "US5398301094",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 55554237486,
+      "quantity": 0.00386647,
+      "price": 600.01,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 2.01,
+        "fxRate": 1.15418938,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55514110135,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "WMT_US_EQ",
+      "status": "FILLED",
+      "value": 2.01,
+      "filledValue": 2.01,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "WMT_US_EQ",
+        "name": "Walmart",
+        "isin": "US9311421039",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 55554215347,
+      "quantity": 0.02059424,
+      "price": 112.65,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T13:30:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 2.01,
+        "fxRate": 1.15419957,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55514110137,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -26439,7 +26511,7 @@
       "instrument": {
         "ticker": "TCNNF_US_EQ",
         "name": "Trulieve Cannabis",
-        "isin": "CA89788C1041",
+        "isin": "US89790E1064",
         "currency": "USD"
       }
     },
@@ -26917,7 +26989,7 @@
       "instrument": {
         "ticker": "TCNNF_US_EQ",
         "name": "Trulieve Cannabis",
-        "isin": "CA89788C1041",
+        "isin": "US89790E1064",
         "currency": "USD"
       }
     },
@@ -27219,7 +27291,7 @@
       "instrument": {
         "ticker": "TCNNF_US_EQ",
         "name": "Trulieve Cannabis",
-        "isin": "CA89788C1041",
+        "isin": "US89790E1064",
         "currency": "USD"
       }
     },
@@ -28311,7 +28383,7 @@
       "instrument": {
         "ticker": "TCNNF_US_EQ",
         "name": "Trulieve Cannabis",
-        "isin": "CA89788C1041",
+        "isin": "US89790E1064",
         "currency": "USD"
       }
     },
