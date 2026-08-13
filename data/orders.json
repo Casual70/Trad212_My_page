@@ -1,6 +1,86 @@
 [
   {
     "order": {
+      "id": 55564486518,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOVCd_EQ",
+      "status": "FILLED",
+      "value": 8.94,
+      "filledValue": 8.94,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-12T09:01:52.000Z",
+      "instrument": {
+        "ticker": "NOVCd_EQ",
+        "name": "Novo Nordisk",
+        "isin": "DK0062498333",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 55564486602,
+      "quantity": 0.22451029,
+      "price": 39.82,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-12T09:02:06.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.94,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55564486425,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "TWl_EQ",
+      "quantity": -8.59216849,
+      "filledQuantity": -8.59216849,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-12T09:01:23.000Z",
+      "instrument": {
+        "ticker": "TWl_EQ",
+        "name": "Taylor Wimpey",
+        "isin": "GB0008782301",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55564486442,
+      "quantity": -8.59216849,
+      "price": 86.26,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-12T09:01:26.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.67,
+        "realisedProfitLoss": 0.25,
+        "fxRate": 85.38714907,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-12T09:01:26.594Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55514110136,
       "strategy": "VALUE",
       "type": "MARKET",
