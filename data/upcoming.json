@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-07-15",
-    "next_ex_date": "2026-07-31",
-    "next_payment_date": "2026-08-14",
-    "amount_est": 0.1,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "frequency": "Mensile",
