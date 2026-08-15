@@ -1,5 +1,39 @@
 [
   {
+    "ticker": "HLMAl_EQ",
+    "instrument": {
+      "ticker": "HLMAl_EQ",
+      "name": "Halma",
+      "isin": "GB0004052071",
+      "currency": "GBX"
+    },
+    "reference": "ce8c0d4e-b728-4920-b7be-2b7cb0cd6f27",
+    "quantity": 0.15803618,
+    "amount": 0.03,
+    "currency": "EUR",
+    "grossAmountPerShare": 15.11,
+    "amountInEuro": 0.03,
+    "paidOn": "2026-08-14T17:35:16.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "b938f0b7-4742-43e9-84f0-24f2d2024756",
+    "quantity": 1.00276247,
+    "amount": 0.2,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.265,
+    "amountInEuro": 0.2,
+    "paidOn": "2026-08-14T17:11:17.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "T_US_EQ",
     "instrument": {
       "ticker": "T_US_EQ",
