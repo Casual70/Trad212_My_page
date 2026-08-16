@@ -4585,6 +4585,16 @@
     "predicted": true
   },
   {
+    "date": "2027-08-03",
+    "type": "ex_date",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-17"
+  },
+  {
     "date": "2027-08-06",
     "type": "payment_predicted",
     "ticker": "AIRp_EQ",
@@ -4626,6 +4636,15 @@
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-17",
+    "type": "payment_predicted",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
     "currency": "EUR",
     "predicted": true
   }
