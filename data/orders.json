@@ -1,6 +1,93 @@
 [
   {
     "order": {
+      "id": 55867989603,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 50.44,
+      "filledValue": 50.44,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-17T20:11:29.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 55867989987,
+      "quantity": 7.29753586,
+      "price": 7.99,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-17T20:15:12.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 50.44,
+        "fxRate": 1.15780999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.08,
+            "currency": "EUR",
+            "chargedAt": "2026-08-17T20:15:12.149Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55865443439,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "CION_US_EQ",
+      "quantity": -8.0,
+      "filledQuantity": -8.0,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-17T16:09:11.000Z",
+      "instrument": {
+        "ticker": "CION_US_EQ",
+        "name": "CION Investment",
+        "isin": "US17259U2042",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 55865443977,
+      "quantity": -8.0,
+      "price": 7.27,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-17T16:10:20.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 50.11,
+        "realisedProfitLoss": 4.85,
+        "fxRate": 1.15879657,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.08,
+            "currency": "EUR",
+            "chargedAt": "2026-08-17T16:10:20.811Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55564486518,
       "strategy": "VALUE",
       "type": "MARKET",
