@@ -192,18 +192,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "frequency": "Semestrale",
-    "frequency_days": 182,
-    "last_paid": "2026-03-31",
-    "next_ex_date": "2026-09-15",
-    "next_payment_date": "2026-09-29",
-    "amount_est": 3.33,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
     "frequency": "Mensile",
@@ -828,6 +816,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "frequency": "Semestrale",
+    "frequency_days": 182,
+    "last_paid": "2026-08-18",
+    "next_ex_date": "2027-02-02",
+    "next_payment_date": "2027-02-16",
+    "amount_est": 3.35,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "frequency": "Mensile",
@@ -992,18 +992,6 @@
     "next_ex_date": "2027-03-12",
     "next_payment_date": "2027-03-26",
     "amount_est": 0.32,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "frequency": "Semestrale",
-    "frequency_days": 182,
-    "last_paid": "2026-03-31",
-    "next_ex_date": "2027-03-16",
-    "next_payment_date": "2027-03-30",
-    "amount_est": 3.33,
     "predicted": true,
     "source": "Storico"
   },
@@ -1976,6 +1964,18 @@
     "next_ex_date": "2027-08-02",
     "next_payment_date": "2027-08-16",
     "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "frequency": "Semestrale",
+    "frequency_days": 182,
+    "last_paid": "2026-08-18",
+    "next_ex_date": "2027-08-03",
+    "next_payment_date": "2027-08-17",
+    "amount_est": 3.35,
     "predicted": true,
     "source": "Storico"
   },

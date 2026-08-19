@@ -1506,6 +1506,15 @@
     "payment_date": "2026-08-28"
   },
   {
+    "date": "2026-08-18",
+    "type": "payment",
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "amount": 3.43,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-08-20",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -1717,16 +1726,6 @@
     "predicted": true
   },
   {
-    "date": "2026-09-15",
-    "type": "ex_date",
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "amount": 3.33,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-29"
-  },
-  {
     "date": "2026-09-17",
     "type": "payment_predicted",
     "ticker": "PSEC_US_EQ",
@@ -1826,15 +1825,6 @@
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-09-29",
-    "type": "payment_predicted",
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "amount": 3.33,
     "currency": "EUR",
     "predicted": true
   },
@@ -2760,6 +2750,16 @@
     "payment_date": "2027-02-14"
   },
   {
+    "date": "2027-02-02",
+    "type": "ex_date",
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "amount": 3.35,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-16"
+  },
+  {
     "date": "2027-02-03",
     "type": "ex_date",
     "ticker": "G6P0d_EQ",
@@ -2813,6 +2813,15 @@
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-02-16",
+    "type": "payment_predicted",
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "amount": 3.35,
     "currency": "EUR",
     "predicted": true
   },
@@ -3017,16 +3026,6 @@
     "predicted": true
   },
   {
-    "date": "2027-03-16",
-    "type": "ex_date",
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "amount": 3.33,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-03-30"
-  },
-  {
     "date": "2027-03-18",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -3101,15 +3100,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-11"
-  },
-  {
-    "date": "2027-03-30",
-    "type": "payment_predicted",
-    "ticker": "NOVCd_EQ",
-    "name": "Novo Nordisk",
-    "amount": 3.33,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2027-03-30",
@@ -4568,6 +4558,16 @@
   {
     "date": "2027-08-03",
     "type": "ex_date",
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "amount": 3.35,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-17"
+  },
+  {
+    "date": "2027-08-03",
+    "type": "ex_date",
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
@@ -4617,6 +4617,15 @@
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-17",
+    "type": "payment_predicted",
+    "ticker": "NOVCd_EQ",
+    "name": "Novo Nordisk",
+    "amount": 3.35,
     "currency": "EUR",
     "predicted": true
   },
