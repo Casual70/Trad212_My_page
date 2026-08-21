@@ -1458,16 +1458,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-07",
-    "type": "ex_date",
-    "ticker": "G6P0d_EQ",
-    "name": "Going Public Media",
-    "amount": 6.58,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-08-21"
-  },
-  {
     "date": "2026-08-08",
     "type": "ex_date",
     "ticker": "BWLP_US_EQ",
@@ -1523,15 +1513,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-03"
-  },
-  {
-    "date": "2026-08-21",
-    "type": "payment_predicted",
-    "ticker": "G6P0d_EQ",
-    "name": "Going Public Media",
-    "amount": 6.58,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-08-22",
