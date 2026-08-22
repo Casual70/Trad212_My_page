@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-23",
-    "next_ex_date": "2026-08-08",
-    "next_payment_date": "2026-08-22",
-    "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -1976,6 +1964,18 @@
     "next_ex_date": "2027-08-03",
     "next_payment_date": "2027-08-17",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-03-31",
+    "next_ex_date": "2027-08-09",
+    "next_payment_date": "2027-08-23",
+    "amount_est": 0.32,
     "predicted": true,
     "source": "Storico"
   }
