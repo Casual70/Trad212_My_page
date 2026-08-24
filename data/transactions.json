@@ -1,5 +1,26 @@
 [
   {
+    "type": "LENDING_INTEREST",
+    "amount": 0.02,
+    "currency": "EUR",
+    "reference": "01a031f0-460c-7e4d-a70d-a2f8e3f31f13",
+    "dateTime": "2026-08-24T04:03:31.158Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -21.99,
+    "currency": "EUR",
+    "reference": "01a031ed-300d-7f58-880b-e67ad3e81bb6",
+    "dateTime": "2026-08-24T04:00:23.049Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.03,
+    "currency": "EUR",
+    "reference": "01a0314a-58a0-7c1a-bfde-ce2c067dc7a3",
+    "dateTime": "2026-08-24T01:02:31.060Z"
+  },
+  {
     "type": "INTEREST_ON_FREE_CASH",
     "amount": 0.02,
     "currency": "EUR",
