@@ -1,6 +1,123 @@
 [
   {
     "order": {
+      "id": 56216634351,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 26.0,
+      "filledValue": 26.0,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-24T15:01:09.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56216634439,
+      "quantity": 4.04889235,
+      "price": 7.48,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-24T15:01:13.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 26.0,
+        "fxRate": 1.16662999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.04,
+            "currency": "EUR",
+            "chargedAt": "2026-08-24T15:01:13.695Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 56201831441,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "3SBEl_EQ",
+      "quantity": -4.12549709,
+      "filledQuantity": -4.12549709,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-24T07:55:41.000Z",
+      "instrument": {
+        "ticker": "3SBEl_EQ",
+        "name": "Leverage Shares -3x Short Alibaba BABA",
+        "isin": "XS3037640110",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 56059994737,
+      "quantity": -4.0,
+      "price": 6.238,
+      "type": "TRADE",
+      "tradingMethod": "TOTV",
+      "filledAt": "2026-08-24T08:33:51.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 24.95,
+        "realisedProfitLoss": 2.87,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 56201831441,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "3SBEl_EQ",
+      "quantity": -4.12549709,
+      "filledQuantity": -4.12549709,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-24T07:55:41.000Z",
+      "instrument": {
+        "ticker": "3SBEl_EQ",
+        "name": "Leverage Shares -3x Short Alibaba BABA",
+        "isin": "XS3037640110",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 56201831455,
+      "quantity": -0.12549709,
+      "price": 6.65,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-24T08:33:51.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 0.83,
+        "realisedProfitLoss": 0.14,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 55867989603,
       "strategy": "VALUE",
       "type": "MARKET",
