@@ -1,6 +1,93 @@
 [
   {
     "order": {
+      "id": 56260709588,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 12.77,
+      "filledValue": 12.77,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-08-25T18:21:30.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56260709606,
+      "quantity": 1.98733177,
+      "price": 7.49,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-25T18:21:41.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 12.77,
+        "fxRate": 1.16745999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-08-25T18:21:41.773Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 56250746713,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "ITHl_EQ",
+      "quantity": -4.07961095,
+      "filledQuantity": -4.07961095,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-08-25T09:25:44.000Z",
+      "instrument": {
+        "ticker": "ITHl_EQ",
+        "name": "Ithaca Energy",
+        "isin": "GB00BPJHV584",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 56250746745,
+      "quantity": -4.07961095,
+      "price": 267.6,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-25T09:25:58.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 12.74,
+        "realisedProfitLoss": 1.12,
+        "fxRate": 85.5567312,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-08-25T09:25:58.315Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 56216634351,
       "strategy": "VALUE",
       "type": "MARKET",
