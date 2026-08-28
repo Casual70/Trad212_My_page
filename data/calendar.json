@@ -1476,16 +1476,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-14",
-    "type": "ex_date",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-08-28"
-  },
-  {
     "date": "2026-08-18",
     "type": "payment",
     "ticker": "NOVCd_EQ",
@@ -1533,15 +1523,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-10"
-  },
-  {
-    "date": "2026-08-28",
-    "type": "payment_predicted",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-08-30",
@@ -4584,6 +4565,16 @@
     "predicted": true
   },
   {
+    "date": "2027-08-15",
+    "type": "ex_date",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-29"
+  },
+  {
     "date": "2027-08-16",
     "type": "payment_predicted",
     "ticker": "G6P0d_EQ",
@@ -4616,6 +4607,15 @@
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-29",
+    "type": "payment_predicted",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   }

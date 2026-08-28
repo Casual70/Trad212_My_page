@@ -1,6 +1,77 @@
 [
   {
     "order": {
+      "id": 56401611951,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "WAVS_US_EQ",
+      "quantity": 2.5283794,
+      "filledQuantity": 2.5283794,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "side": "BUY",
+      "createdAt": "2026-08-28T07:23:50.000Z",
+      "instrument": {
+        "ticker": "WAVS_US_EQ",
+        "name": "Cycurion",
+        "isin": "US95758L4041",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56401611955,
+      "quantity": 2.5283794,
+      "price": 9.56739325,
+      "type": "STOCK_SPLIT",
+      "tradingMethod": null,
+      "filledAt": "2026-08-28T07:23:50.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 21.0,
+        "fxRate": 1.15190476,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 56401611948,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "WAVS_US_EQ",
+      "quantity": -20.22703526,
+      "filledQuantity": -20.22703526,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "side": "SELL",
+      "createdAt": "2026-08-28T07:23:50.000Z",
+      "instrument": {
+        "ticker": "WAVS_US_EQ",
+        "name": "Cycurion",
+        "isin": "US95758L4041",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56401611950,
+      "quantity": -20.22703526,
+      "price": 1.19592415,
+      "type": "STOCK_SPLIT",
+      "tradingMethod": null,
+      "filledAt": "2026-08-28T07:23:50.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 21.0,
+        "realisedProfitLoss": 0,
+        "fxRate": 1.15190475,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 56259301772,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -863,7 +934,7 @@
       "instrument": {
         "ticker": "WAVS_US_EQ",
         "name": "Cycurion",
-        "isin": "US95758L3050",
+        "isin": "US95758L4041",
         "currency": "USD"
       }
     },
@@ -906,7 +977,7 @@
       "instrument": {
         "ticker": "WAVS_US_EQ",
         "name": "Cycurion",
-        "isin": "US95758L3050",
+        "isin": "US95758L4041",
         "currency": "USD"
       }
     },
