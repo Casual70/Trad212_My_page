@@ -144,6 +144,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2026-09-13",
+    "next_payment_date": "2026-09-27",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -276,6 +288,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2026-10-13",
+    "next_payment_date": "2026-10-27",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -404,6 +428,18 @@
     "next_ex_date": "2026-11-06",
     "next_payment_date": "2026-11-20",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2026-11-12",
+    "next_payment_date": "2026-11-26",
+    "amount_est": 0.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -552,6 +588,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2026-12-12",
+    "next_payment_date": "2026-12-26",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -680,6 +728,18 @@
     "next_ex_date": "2027-01-05",
     "next_payment_date": "2027-01-19",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-01-11",
+    "next_payment_date": "2027-01-25",
+    "amount_est": 0.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -816,6 +876,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-02-10",
+    "next_payment_date": "2027-02-24",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -948,6 +1020,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-03-12",
+    "next_payment_date": "2027-03-26",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -1064,6 +1148,18 @@
     "next_ex_date": "2027-04-05",
     "next_payment_date": "2027-04-19",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-04-11",
+    "next_payment_date": "2027-04-25",
+    "amount_est": 0.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -1232,6 +1328,18 @@
     "next_ex_date": "2027-05-05",
     "next_payment_date": "2027-05-19",
     "amount_est": 0.01,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-05-11",
+    "next_payment_date": "2027-05-25",
+    "amount_est": 0.58,
     "predicted": true,
     "source": "Storico"
   },
@@ -1548,6 +1656,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-06-10",
+    "next_payment_date": "2027-06-24",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -1776,6 +1896,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-07-10",
+    "next_payment_date": "2027-07-24",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "frequency": "Mensile",
@@ -1844,18 +1976,6 @@
     "next_ex_date": "2027-07-17",
     "next_payment_date": "2027-07-31",
     "amount_est": 0.15,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-07-31",
-    "next_ex_date": "2027-07-17",
-    "next_payment_date": "2027-07-31",
-    "amount_est": 0.59,
     "predicted": true,
     "source": "Storico"
   },
@@ -1952,6 +2072,18 @@
     "next_ex_date": "2027-08-03",
     "next_payment_date": "2027-08-17",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-08-09",
+    "next_payment_date": "2027-08-23",
+    "amount_est": 0.58,
     "predicted": true,
     "source": "Storico"
   },

@@ -1,16 +1,16 @@
 {
   "id": 5278448,
   "currency": "EUR",
-  "totalValue": 2135.42,
+  "totalValue": 2143.7,
   "cash": {
-    "availableToTrade": 0.05,
+    "availableToTrade": 0.64,
     "reservedForOrders": 0,
-    "inPies": 8.84
+    "inPies": 7.8
   },
   "investments": {
-    "currentValue": 2035.27,
+    "currentValue": 2042.96,
     "totalCost": 2412.39,
     "realizedProfitLoss": 466.12,
-    "unrealizedProfitLoss": -377.12
+    "unrealizedProfitLoss": -369.43
   }
 }

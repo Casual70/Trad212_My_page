@@ -1525,6 +1525,15 @@
     "payment_date": "2026-09-10"
   },
   {
+    "date": "2026-08-28",
+    "type": "payment",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-08-30",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
@@ -1652,6 +1661,16 @@
   {
     "date": "2026-09-13",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-09-27"
+  },
+  {
+    "date": "2026-09-13",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -1761,6 +1780,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-10"
+  },
+  {
+    "date": "2026-09-27",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-09-27",
@@ -1888,6 +1916,16 @@
   {
     "date": "2026-10-13",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-10-27"
+  },
+  {
+    "date": "2026-10-13",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -1980,6 +2018,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-09"
+  },
+  {
+    "date": "2026-10-27",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-10-27",
@@ -2106,6 +2153,16 @@
   {
     "date": "2026-11-12",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-11-26"
+  },
+  {
+    "date": "2026-11-12",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2189,6 +2246,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-09"
+  },
+  {
+    "date": "2026-11-26",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-11-26",
@@ -2316,6 +2382,16 @@
   {
     "date": "2026-12-12",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-26"
+  },
+  {
+    "date": "2026-12-12",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2417,6 +2493,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-01-08"
+  },
+  {
+    "date": "2026-12-26",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-12-26",
@@ -2534,6 +2619,16 @@
   {
     "date": "2027-01-11",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-25"
+  },
+  {
+    "date": "2027-01-11",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2626,6 +2721,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-02-07"
+  },
+  {
+    "date": "2027-01-25",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-01-25",
@@ -2743,6 +2847,16 @@
   {
     "date": "2027-02-10",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-24"
+  },
+  {
+    "date": "2027-02-10",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -2805,6 +2919,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-09"
+  },
+  {
+    "date": "2027-02-24",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-02-24",
@@ -2943,6 +3066,16 @@
   {
     "date": "2027-03-12",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-26"
+  },
+  {
+    "date": "2027-03-12",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -3024,6 +3157,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-08"
+  },
+  {
+    "date": "2027-03-26",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-26",
@@ -3133,6 +3275,16 @@
   {
     "date": "2027-04-11",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-25"
+  },
+  {
+    "date": "2027-04-11",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -3234,6 +3386,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-05-08"
+  },
+  {
+    "date": "2027-04-25",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-04-25",
@@ -3377,6 +3538,16 @@
     "amount": 0.11,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-05-11",
+    "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-25"
   },
   {
     "date": "2027-05-11",
@@ -3560,6 +3731,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-07"
+  },
+  {
+    "date": "2027-05-25",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-05-25",
@@ -3848,6 +4028,16 @@
   {
     "date": "2027-06-10",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-24"
+  },
+  {
+    "date": "2027-06-10",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -4044,6 +4234,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-07-07"
+  },
+  {
+    "date": "2027-06-24",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-06-24",
@@ -4245,6 +4444,16 @@
   {
     "date": "2027-07-10",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-24"
+  },
+  {
+    "date": "2027-07-10",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -4330,16 +4539,6 @@
     "payment_date": "2027-07-31"
   },
   {
-    "date": "2027-07-17",
-    "type": "ex_date",
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "amount": 0.59,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-07-31"
-  },
-  {
     "date": "2027-07-18",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -4385,6 +4584,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-08-06"
+  },
+  {
+    "date": "2027-07-24",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-07-24",
@@ -4462,15 +4670,6 @@
   },
   {
     "date": "2027-07-31",
-    "type": "payment_predicted",
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "amount": 0.59,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-07-31",
     "type": "ex_date",
     "ticker": "HLMAl_EQ",
     "name": "Halma",
@@ -4539,6 +4738,16 @@
   {
     "date": "2027-08-09",
     "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-23"
+  },
+  {
+    "date": "2027-08-09",
+    "type": "ex_date",
     "ticker": "GAIN_US_EQ",
     "name": "Gladstone Investment",
     "amount": 0.32,
@@ -4598,6 +4807,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-23",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
     "currency": "EUR",
     "predicted": true
   },

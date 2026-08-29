@@ -1,6 +1,42 @@
 [
   {
     "order": {
+      "id": 56353777571,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.04,
+      "filledValue": 1.04,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-28T01:00:42.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56407074455,
+      "quantity": 0.15933757,
+      "price": 7.6,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-28T13:30:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.04,
+        "fxRate": 1.16438993,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 56401611951,
       "strategy": "QUANTITY",
       "type": "MARKET",

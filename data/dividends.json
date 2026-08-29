@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "CION_US_EQ",
+    "instrument": {
+      "ticker": "CION_US_EQ",
+      "name": "CION Investment",
+      "isin": "US17259U2042",
+      "currency": "USD"
+    },
+    "reference": "c2ce4dec-0c2e-4808-bdfc-e8105c3eb486",
+    "quantity": 8.0,
+    "amount": 0.58,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.1,
+    "amountInEuro": 0.58,
+    "paidOn": "2026-08-28T18:05:02.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "NOVCd_EQ",
     "instrument": {
       "ticker": "NOVCd_EQ",
