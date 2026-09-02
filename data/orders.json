@@ -1,6 +1,93 @@
 [
   {
     "order": {
+      "id": 56619328353,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "UBER_US_EQ",
+      "status": "FILLED",
+      "value": 57.72,
+      "filledValue": 57.72,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-09-01T14:19:03.000Z",
+      "instrument": {
+        "ticker": "UBER_US_EQ",
+        "name": "Uber Technologies",
+        "isin": "US90353T1007",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56619328362,
+      "quantity": 0.88637918,
+      "price": 75.45,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-01T14:19:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 57.72,
+        "fxRate": 1.16045998,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.09,
+            "currency": "EUR",
+            "chargedAt": "2026-09-01T14:19:03.537Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 56619328181,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "PFE_US_EQ",
+      "quantity": -2.26785247,
+      "filledQuantity": -2.26785247,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-09-01T14:18:35.000Z",
+      "instrument": {
+        "ticker": "PFE_US_EQ",
+        "name": "Pfizer",
+        "isin": "US7170811035",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 56619328185,
+      "quantity": -2.26785247,
+      "price": 28.87,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-01T14:18:36.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 56.34,
+        "realisedProfitLoss": 6.46,
+        "fxRate": 1.16045552,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.08,
+            "currency": "EUR",
+            "chargedAt": "2026-09-01T14:18:36.138Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 56353777571,
       "strategy": "VALUE",
       "type": "MARKET",

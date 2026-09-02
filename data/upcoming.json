@@ -456,6 +456,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-01",
+    "next_ex_date": "2026-11-17",
+    "next_payment_date": "2026-12-01",
+    "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
     "frequency": "Mensile",
@@ -896,6 +908,18 @@
     "next_ex_date": "2027-02-10",
     "next_payment_date": "2027-02-24",
     "amount_est": 0.32,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-01",
+    "next_ex_date": "2027-02-16",
+    "next_payment_date": "2027-03-02",
+    "amount_est": 0.41,
     "predicted": true,
     "source": "Storico"
   },
@@ -1428,6 +1452,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-01",
+    "next_ex_date": "2027-05-18",
+    "next_payment_date": "2027-06-01",
+    "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "RRl_EQ",
     "name": "Rolls-Royce",
     "frequency": "Annuale",
@@ -1532,18 +1568,6 @@
     "next_ex_date": "2027-05-27",
     "next_payment_date": "2027-06-10",
     "amount_est": 0.11,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "PFE_US_EQ",
-    "name": "Pfizer",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-06-12",
-    "next_ex_date": "2027-05-29",
-    "next_payment_date": "2027-06-12",
-    "amount_est": 0.12,
     "predicted": true,
     "source": "Storico"
   },
@@ -2108,6 +2132,18 @@
     "next_ex_date": "2027-08-15",
     "next_payment_date": "2027-08-29",
     "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-01",
+    "next_ex_date": "2027-08-17",
+    "next_payment_date": "2027-08-31",
+    "amount_est": 0.41,
     "predicted": true,
     "source": "Storico"
   }

@@ -1554,6 +1554,15 @@
     "payment_date": "2026-09-14"
   },
   {
+    "date": "2026-09-01",
+    "type": "payment",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.71,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-09-03",
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
@@ -2180,6 +2189,16 @@
     "predicted": true
   },
   {
+    "date": "2026-11-17",
+    "type": "ex_date",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-01"
+  },
+  {
     "date": "2026-11-18",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -2284,6 +2303,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-14"
+  },
+  {
+    "date": "2026-12-01",
+    "type": "payment_predicted",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-12-02",
@@ -2885,6 +2913,16 @@
   {
     "date": "2027-02-16",
     "type": "ex_date",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-02"
+  },
+  {
+    "date": "2027-02-16",
+    "type": "ex_date",
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
     "amount": 0.12,
@@ -2977,6 +3015,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-15"
+  },
+  {
+    "date": "2027-03-02",
+    "type": "payment_predicted",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-02",
@@ -3665,6 +3712,16 @@
     "predicted": true
   },
   {
+    "date": "2027-05-18",
+    "type": "ex_date",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-01"
+  },
+  {
     "date": "2027-05-19",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -3838,16 +3895,6 @@
   {
     "date": "2027-05-29",
     "type": "ex_date",
-    "ticker": "PFE_US_EQ",
-    "name": "Pfizer",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-12"
-  },
-  {
-    "date": "2027-05-29",
-    "type": "ex_date",
     "ticker": "DPLMl_EQ",
     "name": "Diploma",
     "amount": 0.02,
@@ -3883,6 +3930,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-14"
+  },
+  {
+    "date": "2027-06-01",
+    "type": "payment_predicted",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-06-02",
@@ -4044,15 +4100,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-24"
-  },
-  {
-    "date": "2027-06-12",
-    "type": "payment_predicted",
-    "ticker": "PFE_US_EQ",
-    "name": "Pfizer",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2027-06-12",
@@ -4811,6 +4858,16 @@
     "predicted": true
   },
   {
+    "date": "2027-08-17",
+    "type": "ex_date",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-31"
+  },
+  {
     "date": "2027-08-23",
     "type": "payment_predicted",
     "ticker": "CION_US_EQ",
@@ -4834,6 +4891,15 @@
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
     "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-31",
+    "type": "payment_predicted",
+    "ticker": "PFE_US_EQ",
+    "name": "Pfizer",
+    "amount": 0.41,
     "currency": "EUR",
     "predicted": true
   }

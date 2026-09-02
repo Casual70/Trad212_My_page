@@ -1,5 +1,26 @@
 [
   {
+    "type": "WITHDRAW",
+    "amount": -10.2,
+    "currency": "EUR",
+    "reference": "01a061ae-522f-7a15-8467-e58c3cb0db12",
+    "dateTime": "2026-09-02T10:33:29.388Z"
+  },
+  {
+    "type": "LENDING_INTEREST",
+    "amount": 0.01,
+    "currency": "EUR",
+    "reference": "01a06052-90d4-7237-b33b-c7baac244ada",
+    "dateTime": "2026-09-02T04:13:29.148Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -0.11,
+    "currency": "EUR",
+    "reference": "01a06039-e0d2-7099-81a1-83809af1b8e1",
+    "dateTime": "2026-09-02T03:46:40.975Z"
+  },
+  {
     "type": "LENDING_INTEREST",
     "amount": 0.01,
     "currency": "EUR",

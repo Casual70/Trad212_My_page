@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "PFE_US_EQ",
+    "instrument": {
+      "ticker": "PFE_US_EQ",
+      "name": "Pfizer",
+      "isin": "US7170811035",
+      "currency": "USD"
+    },
+    "reference": "71135c0d-e2e9-4e61-b326-a66742f77c35",
+    "quantity": 2.26785247,
+    "amount": 0.71,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.43,
+    "amountInEuro": 0.71,
+    "paidOn": "2026-09-01T16:13:44.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "CION_US_EQ",
     "instrument": {
       "ticker": "CION_US_EQ",
