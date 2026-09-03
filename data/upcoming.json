@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "ADMl_EQ",
-    "name": "Admiral Group",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-05",
-    "next_ex_date": "2026-08-20",
-    "next_payment_date": "2026-09-03",
-    "amount_est": 0.12,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "CVX_US_EQ",
     "name": "Chevron",
     "frequency": "Trimestrale",
