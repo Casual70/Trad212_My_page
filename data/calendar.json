@@ -4849,6 +4849,16 @@
     "payment_date": "2027-08-31"
   },
   {
+    "date": "2027-08-22",
+    "type": "ex_date",
+    "ticker": "AIRp_EQ",
+    "name": "Airbus",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-05"
+  },
+  {
     "date": "2027-08-23",
     "type": "payment_predicted",
     "ticker": "CION_US_EQ",
@@ -4880,6 +4890,15 @@
     "type": "payment_predicted",
     "ticker": "PFE_US_EQ",
     "name": "Pfizer",
+    "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-05",
+    "type": "payment_predicted",
+    "ticker": "AIRp_EQ",
+    "name": "Airbus",
     "amount": 0.41,
     "currency": "EUR",
     "predicted": true
