@@ -1,5 +1,12 @@
 [
   {
+    "type": "DEPOSIT",
+    "amount": 0.24,
+    "currency": "EUR",
+    "reference": "01a07441-558b-76e8-8315-cabdfe216c9c",
+    "dateTime": "2026-09-06T01:07:13.926Z"
+  },
+  {
     "type": "WITHDRAW",
     "amount": -16.2,
     "currency": "EUR",
