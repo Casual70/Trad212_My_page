@@ -4877,6 +4877,36 @@
     "predicted": true
   },
   {
+    "date": "2027-08-25",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.11,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-08"
+  },
+  {
+    "date": "2027-08-25",
+    "type": "ex_date",
+    "ticker": "CVX_US_EQ",
+    "name": "Chevron",
+    "amount": 0.26,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-08"
+  },
+  {
+    "date": "2027-08-25",
+    "type": "ex_date",
+    "ticker": "XOM_US_EQ",
+    "name": "ExxonMobil",
+    "amount": 0.21,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-08"
+  },
+  {
     "date": "2027-08-29",
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
@@ -4900,6 +4930,33 @@
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-08",
+    "type": "payment_predicted",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.11,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-08",
+    "type": "payment_predicted",
+    "ticker": "CVX_US_EQ",
+    "name": "Chevron",
+    "amount": 0.26,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-08",
+    "type": "payment_predicted",
+    "ticker": "XOM_US_EQ",
+    "name": "ExxonMobil",
+    "amount": 0.21,
     "currency": "EUR",
     "predicted": true
   }
