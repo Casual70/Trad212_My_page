@@ -1,5 +1,12 @@
 [
   {
+    "type": "LENDING_INTEREST",
+    "amount": 0.01,
+    "currency": "EUR",
+    "reference": "01a07f2e-58e7-70b4-95f7-ff3fc400d38d",
+    "dateTime": "2026-09-08T04:02:11.148Z"
+  },
+  {
     "type": "DEPOSIT",
     "amount": 0.24,
     "currency": "EUR",
