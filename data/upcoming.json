@@ -1,29 +1,5 @@
 [
   {
-    "ticker": "CVX_US_EQ",
-    "name": "Chevron",
-    "frequency": "Trimestrale",
-    "frequency_days": 91,
-    "last_paid": "2026-06-10",
-    "next_ex_date": "2026-08-26",
-    "next_payment_date": "2026-09-09",
-    "amount_est": 0.26,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "XOM_US_EQ",
-    "name": "ExxonMobil",
-    "frequency": "Trimestrale",
-    "frequency_days": 91,
-    "last_paid": "2026-06-10",
-    "next_ex_date": "2026-08-26",
-    "next_payment_date": "2026-09-09",
-    "amount_est": 0.21,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -480,6 +456,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-08",
+    "next_ex_date": "2026-11-24",
+    "next_payment_date": "2026-12-08",
+    "amount_est": 0.03,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CVX_US_EQ",
     "name": "Chevron",
     "frequency": "Trimestrale",
@@ -920,6 +908,18 @@
     "next_ex_date": "2027-02-16",
     "next_payment_date": "2027-03-02",
     "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-08",
+    "next_ex_date": "2027-02-23",
+    "next_payment_date": "2027-03-09",
+    "amount_est": 0.03,
     "predicted": true,
     "source": "Storico"
   },
@@ -1368,18 +1368,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "WMT_US_EQ",
-    "name": "Walmart",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-05-26",
-    "next_ex_date": "2027-05-12",
-    "next_payment_date": "2027-05-26",
-    "amount_est": 0.01,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "ATAC_US_EQ",
     "name": "Blue Owl Capital",
     "frequency": "Annuale",
@@ -1508,6 +1496,18 @@
     "next_ex_date": "2027-05-24",
     "next_payment_date": "2027-06-07",
     "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-08",
+    "next_ex_date": "2027-05-25",
+    "next_payment_date": "2027-06-08",
+    "amount_est": 0.03,
     "predicted": true,
     "source": "Storico"
   },
@@ -2144,6 +2144,18 @@
     "next_ex_date": "2027-08-22",
     "next_payment_date": "2027-09-05",
     "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-08",
+    "next_ex_date": "2027-08-24",
+    "next_payment_date": "2027-09-07",
+    "amount_est": 0.03,
     "predicted": true,
     "source": "Storico"
   },

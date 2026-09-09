@@ -1485,26 +1485,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-26",
-    "type": "ex_date",
-    "ticker": "CVX_US_EQ",
-    "name": "Chevron",
-    "amount": 0.26,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-09"
-  },
-  {
-    "date": "2026-08-26",
-    "type": "ex_date",
-    "ticker": "XOM_US_EQ",
-    "name": "ExxonMobil",
-    "amount": 0.21,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-09"
-  },
-  {
     "date": "2026-08-27",
     "type": "ex_date",
     "ticker": "AIRp_EQ",
@@ -1583,22 +1563,13 @@
     "payment_date": "2026-09-21"
   },
   {
-    "date": "2026-09-09",
-    "type": "payment_predicted",
-    "ticker": "CVX_US_EQ",
-    "name": "Chevron",
-    "amount": 0.26,
+    "date": "2026-09-08",
+    "type": "payment",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.04,
     "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-09-09",
-    "type": "payment_predicted",
-    "ticker": "XOM_US_EQ",
-    "name": "ExxonMobil",
-    "amount": 0.21,
-    "currency": "EUR",
-    "predicted": true
+    "predicted": false
   },
   {
     "date": "2026-09-09",
@@ -2218,6 +2189,16 @@
     "payment_date": "2026-12-05"
   },
   {
+    "date": "2026-11-24",
+    "type": "ex_date",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-08"
+  },
+  {
     "date": "2026-11-25",
     "type": "ex_date",
     "ticker": "CVX_US_EQ",
@@ -2341,6 +2322,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-20"
+  },
+  {
+    "date": "2026-12-08",
+    "type": "payment_predicted",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-12-09",
@@ -2932,6 +2922,16 @@
   {
     "date": "2027-02-23",
     "type": "ex_date",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-09"
+  },
+  {
+    "date": "2027-02-23",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -3044,6 +3044,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-20"
+  },
+  {
+    "date": "2027-03-09",
+    "type": "payment_predicted",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-09",
@@ -3597,16 +3606,6 @@
     "predicted": true
   },
   {
-    "date": "2027-05-12",
-    "type": "ex_date",
-    "ticker": "WMT_US_EQ",
-    "name": "Walmart",
-    "amount": 0.01,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-05-26"
-  },
-  {
     "date": "2027-05-13",
     "type": "ex_date",
     "ticker": "ATAC_US_EQ",
@@ -3789,13 +3788,14 @@
     "predicted": true
   },
   {
-    "date": "2027-05-26",
-    "type": "payment_predicted",
+    "date": "2027-05-25",
+    "type": "ex_date",
     "ticker": "WMT_US_EQ",
     "name": "Walmart",
-    "amount": 0.01,
+    "amount": 0.03,
     "currency": "EUR",
-    "predicted": true
+    "predicted": true,
+    "payment_date": "2027-06-08"
   },
   {
     "date": "2027-05-26",
@@ -4013,6 +4013,15 @@
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-06-08",
+    "type": "payment_predicted",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
     "currency": "EUR",
     "predicted": true
   },
@@ -4877,6 +4886,16 @@
     "predicted": true
   },
   {
+    "date": "2027-08-24",
+    "type": "ex_date",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-07"
+  },
+  {
     "date": "2027-08-25",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
@@ -4930,6 +4949,15 @@
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-07",
+    "type": "payment_predicted",
+    "ticker": "WMT_US_EQ",
+    "name": "Walmart",
+    "amount": 0.03,
     "currency": "EUR",
     "predicted": true
   },

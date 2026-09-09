@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "WMT_US_EQ",
+    "instrument": {
+      "ticker": "WMT_US_EQ",
+      "name": "Walmart",
+      "isin": "US9311421039",
+      "currency": "USD"
+    },
+    "reference": "56a1c768-7cbe-4f49-9eba-2a661e0906c2",
+    "quantity": 0.20831326,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2475,
+    "amountInEuro": 0.04,
+    "paidOn": "2026-09-08T16:34:37.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "PFE_US_EQ",
     "instrument": {
       "ticker": "PFE_US_EQ",
