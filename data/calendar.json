@@ -1485,16 +1485,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-27",
-    "type": "ex_date",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-10"
-  },
-  {
     "date": "2026-08-28",
     "type": "payment",
     "ticker": "CION_US_EQ",
@@ -1580,15 +1570,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-23"
-  },
-  {
-    "date": "2026-09-10",
-    "type": "payment_predicted",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-09-10",
