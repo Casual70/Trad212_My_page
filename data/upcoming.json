@@ -144,6 +144,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2026-09-26",
+    "next_payment_date": "2026-10-10",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "MPW_US_EQ",
     "name": "Medical Properties Trust",
     "frequency": "Annuale",
@@ -312,6 +324,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2026-10-26",
+    "next_payment_date": "2026-11-09",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -452,6 +476,18 @@
     "next_ex_date": "2026-11-24",
     "next_payment_date": "2026-12-08",
     "amount_est": 0.03,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2026-11-25",
+    "next_payment_date": "2026-12-09",
+    "amount_est": 0.08,
     "predicted": true,
     "source": "Storico"
   },
@@ -636,6 +672,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2026-12-25",
+    "next_payment_date": "2027-01-08",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -780,6 +828,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-01-24",
+    "next_payment_date": "2027-02-07",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -900,6 +960,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-02-23",
+    "next_payment_date": "2027-03-09",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "WMT_US_EQ",
     "name": "Walmart",
     "frequency": "Trimestrale",
@@ -944,6 +1016,18 @@
     "next_ex_date": "2027-02-24",
     "next_payment_date": "2027-03-10",
     "amount_est": 0.21,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "frequency": "Semestrale",
+    "frequency_days": 182,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-02-25",
+    "next_payment_date": "2027-03-11",
+    "amount_est": 4.68,
     "predicted": true,
     "source": "Storico"
   },
@@ -1064,6 +1148,18 @@
     "next_ex_date": "2027-03-23",
     "next_payment_date": "2027-04-06",
     "amount_est": 0.38,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-03-25",
+    "next_payment_date": "2027-04-08",
+    "amount_est": 0.08,
     "predicted": true,
     "source": "Storico"
   },
@@ -1220,6 +1316,18 @@
     "next_ex_date": "2027-04-17",
     "next_payment_date": "2027-05-01",
     "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-04-24",
+    "next_payment_date": "2027-05-08",
+    "amount_est": 0.08,
     "predicted": true,
     "source": "Storico"
   },
@@ -1476,6 +1584,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-05-24",
+    "next_payment_date": "2027-06-07",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -1632,18 +1752,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "RELl_EQ",
-    "name": "RELX",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-06-18",
-    "next_ex_date": "2027-06-04",
-    "next_payment_date": "2027-06-18",
-    "amount_est": 5.0,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "frequency": "Trimestrale",
@@ -1784,6 +1892,18 @@
     "next_ex_date": "2027-06-22",
     "next_payment_date": "2027-07-06",
     "amount_est": 0.38,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-06-23",
+    "next_payment_date": "2027-07-07",
+    "amount_est": 0.08,
     "predicted": true,
     "source": "Storico"
   },
@@ -1992,6 +2112,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-07-23",
+    "next_payment_date": "2027-08-06",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -2124,6 +2256,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-08-22",
+    "next_payment_date": "2027-09-05",
+    "amount_est": 0.08,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "frequency": "Mensile",
@@ -2180,6 +2324,30 @@
     "next_ex_date": "2027-08-25",
     "next_payment_date": "2027-09-08",
     "amount_est": 0.21,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "frequency": "Semestrale",
+    "frequency_days": 182,
+    "last_paid": "2026-09-10",
+    "next_ex_date": "2027-08-26",
+    "next_payment_date": "2027-09-09",
+    "amount_est": 4.68,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2025-10-22",
+    "next_ex_date": "2027-08-29",
+    "next_payment_date": "2027-09-12",
+    "amount_est": 0.17,
     "predicted": true,
     "source": "Storico"
   }

@@ -1,5 +1,56 @@
 [
   {
+    "ticker": "RELl_EQ",
+    "instrument": {
+      "ticker": "RELl_EQ",
+      "name": "RELX",
+      "isin": "GB00B2B0DG97",
+      "currency": "GBX"
+    },
+    "reference": "aed56c35-ec44-4a4c-9ebd-47fcb1ea6b2b",
+    "quantity": 16.58591296,
+    "amount": 4.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 20.9,
+    "amountInEuro": 4.04,
+    "paidOn": "2026-09-10T17:18:28.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "instrument": {
+      "ticker": "VALE_US_EQ",
+      "name": "Vale",
+      "isin": "US91912E1055",
+      "currency": "USD"
+    },
+    "reference": "9607ae15-6925-4e79-8e66-2ca380408e40",
+    "quantity": 0.57072127,
+    "amount": 0.04,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.089929,
+    "amountInEuro": 0.04,
+    "paidOn": "2026-09-10T16:43:51.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "VALE_US_EQ",
+    "instrument": {
+      "ticker": "VALE_US_EQ",
+      "name": "Vale",
+      "isin": "US91912E1055",
+      "currency": "USD"
+    },
+    "reference": "fc08697c-576a-4acd-bf82-8656eb30f974",
+    "quantity": 0.57072127,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.30534,
+    "amountInEuro": 0.12,
+    "paidOn": "2026-09-10T16:42:33.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "WMT_US_EQ",
     "instrument": {
       "ticker": "WMT_US_EQ",

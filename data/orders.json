@@ -1,6 +1,55 @@
 [
   {
     "order": {
+      "id": 57161753009,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "RELl_EQ",
+      "status": "FILLED",
+      "value": 4.32,
+      "filledValue": 4.32,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-09-10T20:20:43.000Z",
+      "instrument": {
+        "ticker": "RELl_EQ",
+        "name": "RELX",
+        "isin": "GB00B2B0DG97",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 57161773365,
+      "quantity": 0.14886334,
+      "price": 2474.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-11T07:00:31.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 4.32,
+        "fxRate": 85.84799607,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2026-09-11T07:00:34.277Z"
+          },
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-09-11T07:00:34.251Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 57009731217,
       "strategy": "VALUE",
       "type": "MARKET",

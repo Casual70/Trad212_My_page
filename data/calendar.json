@@ -1573,6 +1573,33 @@
   },
   {
     "date": "2026-09-10",
+    "type": "payment",
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.04,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-09-10",
+    "type": "payment",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.04,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-09-10",
+    "type": "payment",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-09-10",
     "type": "ex_date",
     "ticker": "TFSL_US_EQ",
     "name": "TFS Financial",
@@ -1706,6 +1733,16 @@
   {
     "date": "2026-09-26",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-10-10"
+  },
+  {
+    "date": "2026-09-26",
+    "type": "ex_date",
     "ticker": "MPW_US_EQ",
     "name": "Medical Properties Trust",
     "amount": 0.85,
@@ -1818,6 +1855,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-21"
+  },
+  {
+    "date": "2026-10-10",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-10-10",
@@ -1954,6 +2000,16 @@
   {
     "date": "2026-10-26",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-11-09"
+  },
+  {
+    "date": "2026-10-26",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -2068,6 +2124,15 @@
   {
     "date": "2026-11-09",
     "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2026-11-09",
+    "type": "payment_predicted",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -2178,6 +2243,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-08"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-09"
   },
   {
     "date": "2026-11-25",
@@ -2310,6 +2385,15 @@
     "ticker": "WMT_US_EQ",
     "name": "Walmart",
     "amount": 0.03,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2026-12-09",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
     "currency": "EUR",
     "predicted": true
   },
@@ -2467,6 +2551,16 @@
   {
     "date": "2026-12-25",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-08"
+  },
+  {
+    "date": "2026-12-25",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -2577,6 +2671,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-01-19"
+  },
+  {
+    "date": "2027-01-08",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-01-08",
@@ -2695,6 +2798,16 @@
   {
     "date": "2027-01-24",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-07"
+  },
+  {
+    "date": "2027-01-24",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -2809,6 +2922,15 @@
   {
     "date": "2027-02-07",
     "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-02-07",
+    "type": "payment_predicted",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -2903,6 +3025,16 @@
   {
     "date": "2027-02-23",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-09"
+  },
+  {
+    "date": "2027-02-23",
+    "type": "ex_date",
     "ticker": "WMT_US_EQ",
     "name": "Walmart",
     "amount": 0.03,
@@ -2957,6 +3089,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-10"
+  },
+  {
+    "date": "2027-02-25",
+    "type": "ex_date",
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.68,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-11"
   },
   {
     "date": "2027-02-26",
@@ -3029,6 +3171,15 @@
   {
     "date": "2027-03-09",
     "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-03-09",
+    "type": "payment_predicted",
     "ticker": "WMT_US_EQ",
     "name": "Walmart",
     "amount": 0.03,
@@ -3071,6 +3222,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-24"
+  },
+  {
+    "date": "2027-03-11",
+    "type": "payment_predicted",
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.68,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-12",
@@ -3165,6 +3325,16 @@
     "amount": 4.36,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-03-25",
+    "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-08"
   },
   {
     "date": "2027-03-25",
@@ -3269,6 +3439,15 @@
     "ticker": "CNQ_US_EQ",
     "name": "Canadian Natural Resources",
     "amount": 0.38,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-04-08",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
     "currency": "EUR",
     "predicted": true
   },
@@ -3394,6 +3573,16 @@
     "amount": 0.14,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-04-24",
+    "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-08"
   },
   {
     "date": "2027-04-24",
@@ -3538,6 +3727,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-05-19"
+  },
+  {
+    "date": "2027-05-08",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-05-08",
@@ -3739,6 +3937,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-04"
+  },
+  {
+    "date": "2027-05-24",
+    "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-07"
   },
   {
     "date": "2027-05-24",
@@ -3979,14 +4187,13 @@
     "payment_date": "2027-06-18"
   },
   {
-    "date": "2027-06-04",
-    "type": "ex_date",
-    "ticker": "RELl_EQ",
-    "name": "RELX",
-    "amount": 5.0,
+    "date": "2027-06-07",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
     "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-18"
+    "predicted": true
   },
   {
     "date": "2027-06-07",
@@ -4197,15 +4404,6 @@
   },
   {
     "date": "2027-06-18",
-    "type": "payment_predicted",
-    "ticker": "RELl_EQ",
-    "name": "RELX",
-    "amount": 5.0,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-06-18",
     "type": "ex_date",
     "ticker": "KMB_US_EQ",
     "name": "Kimberly-Clark",
@@ -4242,6 +4440,16 @@
     "amount": 4.36,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-06-23",
+    "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-07"
   },
   {
     "date": "2027-06-23",
@@ -4409,6 +4617,15 @@
     "ticker": "CNQ_US_EQ",
     "name": "Canadian Natural Resources",
     "amount": 0.38,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-07",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
     "currency": "EUR",
     "predicted": true
   },
@@ -4596,6 +4813,16 @@
   {
     "date": "2027-07-23",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-06"
+  },
+  {
+    "date": "2027-07-23",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -4738,6 +4965,15 @@
   {
     "date": "2027-08-06",
     "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-08-06",
+    "type": "payment_predicted",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -4841,6 +5077,16 @@
   {
     "date": "2027-08-22",
     "type": "ex_date",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-05"
+  },
+  {
+    "date": "2027-08-22",
+    "type": "ex_date",
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
@@ -4907,6 +5153,16 @@
     "payment_date": "2027-09-08"
   },
   {
+    "date": "2027-08-26",
+    "type": "ex_date",
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.68,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-09"
+  },
+  {
     "date": "2027-08-29",
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
@@ -4916,11 +5172,30 @@
     "predicted": true
   },
   {
+    "date": "2027-08-29",
+    "type": "ex_date",
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-12"
+  },
+  {
     "date": "2027-08-31",
     "type": "payment_predicted",
     "ticker": "PFE_US_EQ",
     "name": "Pfizer",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-05",
+    "type": "payment_predicted",
+    "ticker": "VALE_US_EQ",
+    "name": "Vale",
+    "amount": 0.08,
     "currency": "EUR",
     "predicted": true
   },
@@ -4966,6 +5241,24 @@
     "ticker": "XOM_US_EQ",
     "name": "ExxonMobil",
     "amount": 0.21,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-09",
+    "type": "payment_predicted",
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.68,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-12",
+    "type": "payment_predicted",
+    "ticker": "PSEC_US_EQ",
+    "name": "Prospect Capital",
+    "amount": 0.17,
     "currency": "EUR",
     "predicted": true
   }
