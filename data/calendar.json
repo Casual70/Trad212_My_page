@@ -5182,6 +5182,16 @@
     "payment_date": "2027-09-12"
   },
   {
+    "date": "2027-08-30",
+    "type": "ex_date",
+    "ticker": "GOOGL_US_EQ",
+    "name": "Alphabet (Class A)",
+    "amount": 0.15,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-13"
+  },
+  {
     "date": "2027-08-31",
     "type": "payment_predicted",
     "ticker": "PFE_US_EQ",
@@ -5259,6 +5269,15 @@
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-13",
+    "type": "payment_predicted",
+    "ticker": "GOOGL_US_EQ",
+    "name": "Alphabet (Class A)",
+    "amount": 0.15,
     "currency": "EUR",
     "predicted": true
   }
