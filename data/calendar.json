@@ -1494,16 +1494,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-30",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-13"
-  },
-  {
     "date": "2026-08-31",
     "type": "ex_date",
     "ticker": "GOOGL_US_EQ",
@@ -1617,15 +1607,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-25"
-  },
-  {
-    "date": "2026-09-13",
-    "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-09-13",
