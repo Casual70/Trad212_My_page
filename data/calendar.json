@@ -1494,16 +1494,6 @@
     "predicted": false
   },
   {
-    "date": "2026-08-31",
-    "type": "ex_date",
-    "ticker": "GOOGL_US_EQ",
-    "name": "Alphabet (Class A)",
-    "amount": 0.15,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-14"
-  },
-  {
     "date": "2026-09-01",
     "type": "payment",
     "ticker": "PFE_US_EQ",
@@ -1627,15 +1617,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-09-27"
-  },
-  {
-    "date": "2026-09-14",
-    "type": "payment_predicted",
-    "ticker": "GOOGL_US_EQ",
-    "name": "Alphabet (Class A)",
-    "amount": 0.15,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-09-17",
@@ -5182,6 +5163,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-01",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-15"
+  },
+  {
     "date": "2027-09-05",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5259,6 +5250,15 @@
     "ticker": "GOOGL_US_EQ",
     "name": "Alphabet (Class A)",
     "amount": 0.15,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-15",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
     "currency": "EUR",
     "predicted": true
   }
