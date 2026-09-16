@@ -1,6 +1,86 @@
 [
   {
     "order": {
+      "id": 57405389707,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOVCd_EQ",
+      "status": "FILLED",
+      "value": 10.11,
+      "filledValue": 10.11,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-09-15T14:26:56.000Z",
+      "instrument": {
+        "ticker": "NOVCd_EQ",
+        "name": "Novo Nordisk",
+        "isin": "DK0062498333",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 57405389717,
+      "quantity": 0.27376116,
+      "price": 36.93,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-15T14:26:57.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 10.11,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 57405389494,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "HAFN_US_EQ",
+      "quantity": -1.2141431,
+      "filledQuantity": -1.2141431,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-09-15T14:26:19.000Z",
+      "instrument": {
+        "ticker": "HAFN_US_EQ",
+        "name": "Hafnia",
+        "isin": "SGXZ53070850",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 57405389506,
+      "quantity": -1.2141431,
+      "price": 9.45,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-15T14:26:19.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 9.92,
+        "realisedProfitLoss": 1.46,
+        "fxRate": 1.1554534,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-09-15T14:26:20.023Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 57161753009,
       "strategy": "VALUE",
       "type": "MARKET",

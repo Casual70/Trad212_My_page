@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "MAIN_US_EQ",
+    "instrument": {
+      "ticker": "MAIN_US_EQ",
+      "name": "Main Street Capital",
+      "isin": "US56035L1044",
+      "currency": "USD"
+    },
+    "reference": "33207d30-ba44-40fe-afd0-255f43f2bdd8",
+    "quantity": 1.00276247,
+    "amount": 0.2,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.265,
+    "amountInEuro": 0.2,
+    "paidOn": "2026-09-15T18:14:55.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "RELl_EQ",
     "instrument": {
       "ticker": "RELl_EQ",
