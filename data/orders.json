@@ -1,6 +1,78 @@
 [
   {
     "order": {
+      "id": 57502368492,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOVCd_EQ",
+      "status": "FILLED",
+      "value": 8.98,
+      "filledValue": 8.98,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-09-17T12:22:56.000Z",
+      "instrument": {
+        "ticker": "NOVCd_EQ",
+        "name": "Novo Nordisk",
+        "isin": "DK0062498333",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 57502368496,
+      "quantity": 0.24602739,
+      "price": 36.5,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-17T12:22:57.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.98,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 57405165395,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.25,
+      "filledValue": 1.25,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-09-16T01:06:15.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 57451993065,
+      "quantity": 0.21521455,
+      "price": 6.7,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-16T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.25,
+        "fxRate": 1.15354998,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 57405389707,
       "strategy": "VALUE",
       "type": "MARKET",

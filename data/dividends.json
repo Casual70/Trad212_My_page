@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "SSEl_EQ",
+    "instrument": {
+      "ticker": "SSEl_EQ",
+      "name": "SSE",
+      "isin": "GB0007908733",
+      "currency": "GBX"
+    },
+    "reference": "ec625871-12cc-4add-9522-0868e7f27ed1",
+    "quantity": 15.78039107,
+    "amount": 8.71,
+    "currency": "EUR",
+    "grossAmountPerShare": 47.3,
+    "amountInEuro": 8.71,
+    "paidOn": "2026-09-17T13:42:55.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "MAIN_US_EQ",
     "instrument": {
       "ticker": "MAIN_US_EQ",

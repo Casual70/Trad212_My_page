@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "PSEC_US_EQ",
-    "name": "Prospect Capital",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2025-10-22",
-    "next_ex_date": "2026-09-03",
-    "next_payment_date": "2026-09-17",
-    "amount_est": 0.17,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "frequency": "Mensile",
@@ -2360,6 +2348,18 @@
     "next_ex_date": "2027-09-02",
     "next_payment_date": "2027-09-16",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "SSEl_EQ",
+    "name": "SSE",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2026-09-17",
+    "next_ex_date": "2027-09-03",
+    "next_payment_date": "2027-09-17",
+    "amount_est": 8.71,
     "predicted": true,
     "source": "Storico"
   }
