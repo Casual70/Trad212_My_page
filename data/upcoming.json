@@ -528,6 +528,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-18",
+    "next_ex_date": "2026-12-04",
+    "next_payment_date": "2026-12-18",
+    "amount_est": 0.42,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "frequency": "Mensile",
@@ -1028,6 +1040,18 @@
     "next_ex_date": "2027-03-02",
     "next_payment_date": "2027-03-16",
     "amount_est": 0.17,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-18",
+    "next_ex_date": "2027-03-05",
+    "next_payment_date": "2027-03-19",
+    "amount_est": 0.42,
     "predicted": true,
     "source": "Storico"
   },
@@ -1668,18 +1692,6 @@
     "source": "Storico"
   },
   {
-    "ticker": "HAFN_US_EQ",
-    "name": "Hafnia",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-06-16",
-    "next_ex_date": "2027-06-02",
-    "next_payment_date": "2027-06-16",
-    "amount_est": 0.3,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "frequency": "Mensile",
@@ -1700,6 +1712,18 @@
     "next_ex_date": "2027-06-03",
     "next_payment_date": "2027-06-17",
     "amount_est": 0.04,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-18",
+    "next_ex_date": "2027-06-04",
+    "next_payment_date": "2027-06-18",
+    "amount_est": 0.42,
     "predicted": true,
     "source": "Storico"
   },
@@ -2348,6 +2372,18 @@
     "next_ex_date": "2027-09-02",
     "next_payment_date": "2027-09-16",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-18",
+    "next_ex_date": "2027-09-03",
+    "next_payment_date": "2027-09-17",
+    "amount_est": 0.42,
     "predicted": true,
     "source": "Storico"
   },

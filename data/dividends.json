@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "HAFN_US_EQ",
+    "instrument": {
+      "ticker": "HAFN_US_EQ",
+      "name": "Hafnia",
+      "isin": "SGXZ53070850",
+      "currency": "USD"
+    },
+    "reference": "4eeee1c2-fa08-461a-a85d-cf24539059c5",
+    "quantity": 1.2141431,
+    "amount": 0.53,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.5003,
+    "amountInEuro": 0.53,
+    "paidOn": "2026-09-18T13:56:29.000+03:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
     "ticker": "SSEl_EQ",
     "instrument": {
       "ticker": "SSEl_EQ",

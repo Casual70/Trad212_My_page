@@ -1627,6 +1627,15 @@
     "predicted": false
   },
   {
+    "date": "2026-09-18",
+    "type": "payment",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.53,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-09-19",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -2312,6 +2321,16 @@
     "payment_date": "2026-12-16"
   },
   {
+    "date": "2026-12-04",
+    "type": "ex_date",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-18"
+  },
+  {
     "date": "2026-12-05",
     "type": "payment_predicted",
     "ticker": "HOp_EQ",
@@ -2451,6 +2470,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-31"
+  },
+  {
+    "date": "2026-12-18",
+    "type": "payment_predicted",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-12-18",
@@ -3112,6 +3140,16 @@
   {
     "date": "2027-03-05",
     "type": "ex_date",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-19"
+  },
+  {
+    "date": "2027-03-05",
+    "type": "ex_date",
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "amount": 6.58,
@@ -3249,6 +3287,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-01"
+  },
+  {
+    "date": "2027-03-19",
+    "type": "payment_predicted",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-19",
@@ -4072,16 +4119,6 @@
     "predicted": true
   },
   {
-    "date": "2027-06-02",
-    "type": "ex_date",
-    "ticker": "HAFN_US_EQ",
-    "name": "Hafnia",
-    "amount": 0.3,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-16"
-  },
-  {
     "date": "2027-06-03",
     "type": "payment_predicted",
     "ticker": "RRl_EQ",
@@ -4136,6 +4173,16 @@
     "amount": 0.51,
     "currency": "EUR",
     "predicted": true
+  },
+  {
+    "date": "2027-06-04",
+    "type": "ex_date",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-18"
   },
   {
     "date": "2027-06-04",
@@ -4299,15 +4346,6 @@
   },
   {
     "date": "2027-06-16",
-    "type": "payment_predicted",
-    "ticker": "HAFN_US_EQ",
-    "name": "Hafnia",
-    "amount": 0.3,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-06-16",
     "type": "ex_date",
     "ticker": "SPG_US_EQ",
     "name": "Simon Property",
@@ -4351,6 +4389,15 @@
     "ticker": "AVY_US_EQ",
     "name": "Avery Dennison",
     "amount": 0.04,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-06-18",
+    "type": "payment_predicted",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
     "currency": "EUR",
     "predicted": true
   },
@@ -5184,6 +5231,16 @@
   {
     "date": "2027-09-03",
     "type": "ex_date",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-17"
+  },
+  {
+    "date": "2027-09-03",
+    "type": "ex_date",
     "ticker": "SSEl_EQ",
     "name": "SSE",
     "amount": 8.71,
@@ -5287,6 +5344,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-17",
+    "type": "payment_predicted",
+    "ticker": "HAFN_US_EQ",
+    "name": "Hafnia",
+    "amount": 0.42,
     "currency": "EUR",
     "predicted": true
   },
