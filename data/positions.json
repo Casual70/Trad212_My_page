@@ -22,27 +22,6 @@
   },
   {
     "instrument": {
-      "ticker": "VALE_US_EQ",
-      "name": "Vale",
-      "isin": "US91912E1055",
-      "currency": "USD"
-    },
-    "createdAt": "2026-04-14T16:30:03.000+03:00",
-    "quantity": 0.57072127,
-    "quantityAvailableForTrading": 0.57072127,
-    "quantityInPies": 0,
-    "currentPrice": 14.24,
-    "averagePricePaid": 17.50416626,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 8.47,
-      "currentValue": 7.07,
-      "unrealizedProfitLoss": -1.4,
-      "fxImpact": 0.22
-    }
-  },
-  {
-    "instrument": {
       "ticker": "NGl_EQ",
       "name": "National Grid",
       "isin": "GB00BDR05C01",
@@ -60,6 +39,27 @@
       "currentValue": 11.05,
       "unrealizedProfitLoss": -1.1,
       "fxImpact": 0.11
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "VALE_US_EQ",
+      "name": "Vale",
+      "isin": "US91912E1055",
+      "currency": "USD"
+    },
+    "createdAt": "2026-04-14T16:30:03.000+03:00",
+    "quantity": 0.57072127,
+    "quantityAvailableForTrading": 0.57072127,
+    "quantityInPies": 0,
+    "currentPrice": 14.24,
+    "averagePricePaid": 17.50416626,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 8.47,
+      "currentValue": 7.07,
+      "unrealizedProfitLoss": -1.4,
+      "fxImpact": 0.22
     }
   },
   {
@@ -232,27 +232,6 @@
   },
   {
     "instrument": {
-      "ticker": "SSEl_EQ",
-      "name": "SSE",
-      "isin": "GB0007908733",
-      "currency": "GBX"
-    },
-    "createdAt": "2026-07-06T14:48:31.000+03:00",
-    "quantity": 15.78039107,
-    "quantityAvailableForTrading": 15.78039107,
-    "quantityInPies": 0,
-    "currentPrice": 2432.0,
-    "averagePricePaid": 2471.00023232,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 455.78,
-      "currentValue": 447.38,
-      "unrealizedProfitLoss": -8.4,
-      "fxImpact": -1.23
-    }
-  },
-  {
-    "instrument": {
       "ticker": "GSKl_EQ",
       "name": "GSK",
       "isin": "GB00BN7SWP63",
@@ -270,6 +249,27 @@
       "currentValue": 14.1,
       "unrealizedProfitLoss": -1.02,
       "fxImpact": 0.11
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "SSEl_EQ",
+      "name": "SSE",
+      "isin": "GB0007908733",
+      "currency": "GBX"
+    },
+    "createdAt": "2026-07-06T14:48:31.000+03:00",
+    "quantity": 15.78039107,
+    "quantityAvailableForTrading": 15.78039107,
+    "quantityInPies": 0,
+    "currentPrice": 2432.0,
+    "averagePricePaid": 2471.00023232,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 455.78,
+      "currentValue": 447.38,
+      "unrealizedProfitLoss": -8.4,
+      "fxImpact": -1.23
     }
   },
   {
