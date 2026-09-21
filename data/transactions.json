@@ -3,6 +3,20 @@
     "type": "INTEREST_ON_FREE_CASH",
     "amount": 0.02,
     "currency": "EUR",
+    "reference": "01a0c17c-65aa-7e69-b65d-df8db4369314",
+    "dateTime": "2026-09-21T01:02:30.307Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -47.94,
+    "currency": "EUR",
+    "reference": "01a0c169-165e-7de3-8135-8dd1de34886f",
+    "dateTime": "2026-09-21T00:41:24.827Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.02,
+    "currency": "EUR",
     "reference": "01a0bc56-8def-7c6a-b8dd-66d96868e5bf",
     "dateTime": "2026-09-20T01:03:04.167Z"
   },

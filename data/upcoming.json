@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-06-23",
-    "next_ex_date": "2026-09-07",
-    "next_payment_date": "2026-09-21",
-    "amount_est": 0.14,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "frequency": "Trimestrale",
@@ -2384,6 +2372,42 @@
     "next_ex_date": "2027-09-03",
     "next_payment_date": "2027-09-17",
     "amount_est": 8.71,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-08-28",
+    "next_ex_date": "2027-09-08",
+    "next_payment_date": "2027-09-22",
+    "amount_est": 0.58,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-03-31",
+    "next_ex_date": "2027-09-08",
+    "next_payment_date": "2027-09-22",
+    "amount_est": 0.32,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "TRMD_US_EQ",
+    "name": "TORM",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-03-25",
+    "next_ex_date": "2027-09-08",
+    "next_payment_date": "2027-09-22",
+    "amount_est": 4.36,
     "predicted": true,
     "source": "Storico"
   }
