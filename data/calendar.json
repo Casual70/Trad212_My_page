@@ -1539,16 +1539,6 @@
     "predicted": false
   },
   {
-    "date": "2026-09-10",
-    "type": "ex_date",
-    "ticker": "TFSL_US_EQ",
-    "name": "TFS Financial",
-    "amount": 1.76,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-24"
-  },
-  {
     "date": "2026-09-11",
     "type": "ex_date",
     "ticker": "A58d_EQ",
@@ -1624,15 +1614,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-06"
-  },
-  {
-    "date": "2026-09-24",
-    "type": "payment_predicted",
-    "ticker": "TFSL_US_EQ",
-    "name": "TFS Financial",
-    "amount": 1.76,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-09-25",
@@ -5295,6 +5276,16 @@
     "payment_date": "2027-09-24"
   },
   {
+    "date": "2027-09-11",
+    "type": "ex_date",
+    "ticker": "A58d_EQ",
+    "name": "Elevance Health",
+    "amount": 0.54,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-25"
+  },
+  {
     "date": "2027-09-12",
     "type": "payment_predicted",
     "ticker": "PSEC_US_EQ",
@@ -5381,6 +5372,15 @@
     "ticker": "TFSL_US_EQ",
     "name": "TFS Financial",
     "amount": 1.76,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-25",
+    "type": "payment_predicted",
+    "ticker": "A58d_EQ",
+    "name": "Elevance Health",
+    "amount": 0.54,
     "currency": "EUR",
     "predicted": true
   }
