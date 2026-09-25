@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "A58d_EQ",
-    "name": "Elevance Health",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2025-09-25",
-    "next_ex_date": "2026-09-11",
-    "next_payment_date": "2026-09-25",
-    "amount_est": 0.54,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
