@@ -1606,6 +1606,15 @@
     "payment_date": "2026-10-06"
   },
   {
+    "date": "2026-09-25",
+    "type": "payment",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.07,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-09-26",
     "type": "ex_date",
     "ticker": "VALE_US_EQ",
@@ -2320,6 +2329,16 @@
     "payment_date": "2026-12-23"
   },
   {
+    "date": "2026-12-11",
+    "type": "ex_date",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-25"
+  },
+  {
     "date": "2026-12-12",
     "type": "ex_date",
     "ticker": "CION_US_EQ",
@@ -2439,6 +2458,15 @@
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "amount": 4.36,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2026-12-25",
+    "type": "payment_predicted",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
     "currency": "EUR",
     "predicted": true
   },
@@ -3139,6 +3167,16 @@
   {
     "date": "2027-03-12",
     "type": "ex_date",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-26"
+  },
+  {
+    "date": "2027-03-12",
+    "type": "ex_date",
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "amount": 0.58,
@@ -3258,6 +3296,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-08"
+  },
+  {
+    "date": "2027-03-26",
+    "type": "payment_predicted",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-03-26",
@@ -4184,6 +4231,16 @@
     "payment_date": "2027-06-24"
   },
   {
+    "date": "2027-06-11",
+    "type": "ex_date",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-25"
+  },
+  {
     "date": "2027-06-12",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
@@ -4206,16 +4263,6 @@
     "type": "ex_date",
     "ticker": "HSBAl_EQ",
     "name": "HSBC",
-    "amount": 0.05,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-26"
-  },
-  {
-    "date": "2027-06-12",
-    "type": "ex_date",
-    "ticker": "LMT_US_EQ",
-    "name": "Lockheed Martin",
     "amount": 0.05,
     "currency": "EUR",
     "predicted": true,
@@ -4394,6 +4441,15 @@
   },
   {
     "date": "2027-06-25",
+    "type": "payment_predicted",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-06-25",
     "type": "ex_date",
     "ticker": "GSKl_EQ",
     "name": "GSK",
@@ -4407,15 +4463,6 @@
     "type": "payment_predicted",
     "ticker": "HSBAl_EQ",
     "name": "HSBC",
-    "amount": 0.05,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2027-06-26",
-    "type": "payment_predicted",
-    "ticker": "LMT_US_EQ",
-    "name": "Lockheed Martin",
     "amount": 0.05,
     "currency": "EUR",
     "predicted": true
@@ -5249,6 +5296,16 @@
   {
     "date": "2027-09-10",
     "type": "ex_date",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-24"
+  },
+  {
+    "date": "2027-09-10",
+    "type": "ex_date",
     "ticker": "TFSL_US_EQ",
     "name": "TFS Financial",
     "amount": 1.76,
@@ -5344,6 +5401,15 @@
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "amount": 4.36,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-24",
+    "type": "payment_predicted",
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "amount": 0.06,
     "currency": "EUR",
     "predicted": true
   },

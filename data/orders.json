@@ -1,6 +1,129 @@
 [
   {
     "order": {
+      "id": 57911478329,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOG_US_EQ",
+      "status": "FILLED",
+      "value": 457.48,
+      "filledValue": 457.48,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "WEB",
+      "side": "BUY",
+      "createdAt": "2026-09-25T17:52:25.000Z",
+      "instrument": {
+        "ticker": "NOG_US_EQ",
+        "name": "Northern Oil and Gas",
+        "isin": "US6655313079",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 57911478346,
+      "quantity": 22.49666063,
+      "price": 23.13,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-25T17:52:39.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 457.48,
+        "fxRate": 1.13913999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.69,
+            "currency": "EUR",
+            "chargedAt": "2026-09-25T17:52:39.432Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 57851741697,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.28,
+      "filledValue": 1.28,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-09-25T01:00:51.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 57907156998,
+      "quantity": 0.2102317,
+      "price": 6.94,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-25T13:30:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.28,
+        "fxRate": 1.13984999,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 57904500266,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "SSEl_EQ",
+      "quantity": -15.78039107,
+      "filledQuantity": -15.78039107,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-09-25T11:49:54.000Z",
+      "instrument": {
+        "ticker": "SSEl_EQ",
+        "name": "SSE",
+        "isin": "GB0007908733",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 57904500270,
+      "quantity": -15.78039107,
+      "price": 2495.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-09-25T11:50:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 456.82,
+        "realisedProfitLoss": 1.73,
+        "fxRate": 86.05730086,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.69,
+            "currency": "EUR",
+            "chargedAt": "2026-09-25T11:50:00.187Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 57808003480,
       "strategy": "VALUE",
       "type": "MARKET",

@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "LMT_US_EQ",
+    "instrument": {
+      "ticker": "LMT_US_EQ",
+      "name": "Lockheed Martin",
+      "isin": "US5398301094",
+      "currency": "USD"
+    },
+    "reference": "f06fea9d-b39a-4b4a-b52e-12256cd87340",
+    "quantity": 0.02779167,
+    "amount": 0.07,
+    "currency": "EUR",
+    "grossAmountPerShare": 3.45,
+    "amountInEuro": 0.07,
+    "paidOn": "2026-09-25T15:26:56.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "HAFN_US_EQ",
     "instrument": {
       "ticker": "HAFN_US_EQ",

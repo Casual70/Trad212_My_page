@@ -516,6 +516,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-25",
+    "next_ex_date": "2026-12-11",
+    "next_payment_date": "2026-12-25",
+    "amount_est": 0.06,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
@@ -1028,6 +1040,18 @@
     "next_ex_date": "2027-03-10",
     "next_payment_date": "2027-03-24",
     "amount_est": 4.36,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-25",
+    "next_ex_date": "2027-03-12",
+    "next_payment_date": "2027-03-26",
+    "amount_est": 0.06,
     "predicted": true,
     "source": "Storico"
   },
@@ -1716,20 +1740,20 @@
     "source": "Storico"
   },
   {
-    "ticker": "HSBAl_EQ",
-    "name": "HSBC",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-06-26",
-    "next_ex_date": "2027-06-12",
-    "next_payment_date": "2027-06-26",
-    "amount_est": 0.05,
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-25",
+    "next_ex_date": "2027-06-11",
+    "next_payment_date": "2027-06-25",
+    "amount_est": 0.06,
     "predicted": true,
     "source": "Storico"
   },
   {
-    "ticker": "LMT_US_EQ",
-    "name": "Lockheed Martin",
+    "ticker": "HSBAl_EQ",
+    "name": "HSBC",
     "frequency": "Annuale",
     "frequency_days": 365,
     "last_paid": "2026-06-26",
@@ -2372,6 +2396,18 @@
     "next_ex_date": "2027-09-08",
     "next_payment_date": "2027-09-22",
     "amount_est": 4.36,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "LMT_US_EQ",
+    "name": "Lockheed Martin",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-25",
+    "next_ex_date": "2027-09-10",
+    "next_payment_date": "2027-09-24",
+    "amount_est": 0.06,
     "predicted": true,
     "source": "Storico"
   },
