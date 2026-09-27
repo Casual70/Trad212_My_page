@@ -1539,26 +1539,6 @@
     "predicted": false
   },
   {
-    "date": "2026-09-13",
-    "type": "ex_date",
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "amount": 0.58,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-27"
-  },
-  {
-    "date": "2026-09-13",
-    "type": "ex_date",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-09-27"
-  },
-  {
     "date": "2026-09-15",
     "type": "payment",
     "ticker": "MAIN_US_EQ",
@@ -1643,24 +1623,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-10"
-  },
-  {
-    "date": "2026-09-27",
-    "type": "payment_predicted",
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "amount": 0.58,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-09-27",
-    "type": "payment_predicted",
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "amount": 0.32,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-09-29",
@@ -5342,6 +5304,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-14",
+    "type": "ex_date",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-28"
+  },
+  {
     "date": "2027-09-15",
     "type": "payment_predicted",
     "ticker": "G6P0d_EQ",
@@ -5428,6 +5400,15 @@
     "ticker": "A58d_EQ",
     "name": "Elevance Health",
     "amount": 0.54,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-28",
+    "type": "payment_predicted",
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   }

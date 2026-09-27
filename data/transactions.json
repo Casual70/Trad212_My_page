@@ -1,5 +1,12 @@
 [
   {
+    "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.07,
+    "currency": "EUR",
+    "reference": "01a0e063-0c9a-7d15-bcd3-0a04d4a68dbe",
+    "dateTime": "2026-09-27T01:03:02.803Z"
+  },
+  {
     "type": "DEPOSIT",
     "amount": 0.41,
     "currency": "EUR",
