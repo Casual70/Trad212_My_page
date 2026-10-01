@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "IMBl_EQ",
+    "instrument": {
+      "ticker": "IMBl_EQ",
+      "name": "Imperial Brands",
+      "isin": "GB0004544929",
+      "currency": "GBX"
+    },
+    "reference": "a5c972a7-2dcf-4a28-b3e0-aa21cc16aadb",
+    "quantity": 0.24639928,
+    "amount": 0.12,
+    "currency": "EUR",
+    "grossAmountPerShare": 41.68,
+    "amountInEuro": 0.12,
+    "paidOn": "2026-09-30T19:10:11.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "MAIN_US_EQ",
     "instrument": {
       "ticker": "MAIN_US_EQ",

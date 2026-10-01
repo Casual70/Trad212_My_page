@@ -1644,6 +1644,15 @@
     "payment_date": "2026-10-13"
   },
   {
+    "date": "2026-09-30",
+    "type": "payment",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-10-01",
     "type": "ex_date",
     "ticker": "RIOl_EQ",
@@ -2348,6 +2357,16 @@
     "predicted": true
   },
   {
+    "date": "2026-12-16",
+    "type": "ex_date",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-30"
+  },
+  {
     "date": "2026-12-17",
     "type": "ex_date",
     "ticker": "IRDM_US_EQ",
@@ -2488,6 +2507,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-01-12"
+  },
+  {
+    "date": "2026-12-30",
+    "type": "payment_predicted",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2026-12-31",
@@ -3184,6 +3212,16 @@
     "predicted": true
   },
   {
+    "date": "2027-03-17",
+    "type": "ex_date",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-31"
+  },
+  {
     "date": "2027-03-18",
     "type": "ex_date",
     "ticker": "ADMl_EQ",
@@ -3304,6 +3342,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-04-13"
+  },
+  {
+    "date": "2027-03-31",
+    "type": "payment_predicted",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-04-01",
@@ -4261,9 +4308,9 @@
   {
     "date": "2027-06-16",
     "type": "ex_date",
-    "ticker": "SPG_US_EQ",
-    "name": "Simon Property",
-    "amount": 0.07,
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-30"
@@ -4271,9 +4318,9 @@
   {
     "date": "2027-06-16",
     "type": "ex_date",
-    "ticker": "IMBl_EQ",
-    "name": "Imperial Brands",
-    "amount": 0.12,
+    "ticker": "SPG_US_EQ",
+    "name": "Simon Property",
+    "amount": 0.07,
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-30"
@@ -4460,18 +4507,18 @@
   {
     "date": "2027-06-30",
     "type": "payment_predicted",
-    "ticker": "SPG_US_EQ",
-    "name": "Simon Property",
-    "amount": 0.07,
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   },
   {
     "date": "2027-06-30",
     "type": "payment_predicted",
-    "ticker": "IMBl_EQ",
-    "name": "Imperial Brands",
-    "amount": 0.12,
+    "ticker": "SPG_US_EQ",
+    "name": "Simon Property",
+    "amount": 0.07,
     "currency": "EUR",
     "predicted": true
   },
@@ -5323,6 +5370,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-15",
+    "type": "ex_date",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-29"
+  },
+  {
     "date": "2027-09-16",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -5417,6 +5474,15 @@
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
     "name": "Admiral Group",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-29",
+    "type": "payment_predicted",
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true

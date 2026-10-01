@@ -528,6 +528,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-30",
+    "next_ex_date": "2026-12-16",
+    "next_payment_date": "2026-12-30",
+    "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "IRDM_US_EQ",
     "name": "Iridium Communications",
     "frequency": "Annuale",
@@ -1052,6 +1064,18 @@
     "next_ex_date": "2027-03-13",
     "next_payment_date": "2027-03-27",
     "amount_est": 0.11,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-30",
+    "next_ex_date": "2027-03-17",
+    "next_payment_date": "2027-03-31",
+    "amount_est": 0.12,
     "predicted": true,
     "source": "Storico"
   },
@@ -1752,6 +1776,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-30",
+    "next_ex_date": "2027-06-16",
+    "next_payment_date": "2027-06-30",
+    "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "SPG_US_EQ",
     "name": "Simon Property",
     "frequency": "Annuale",
@@ -1760,18 +1796,6 @@
     "next_ex_date": "2027-06-16",
     "next_payment_date": "2027-06-30",
     "amount_est": 0.07,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "IMBl_EQ",
-    "name": "Imperial Brands",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-06-30",
-    "next_ex_date": "2027-06-16",
-    "next_payment_date": "2027-06-30",
-    "amount_est": 0.12,
     "predicted": true,
     "source": "Storico"
   },
@@ -2419,6 +2443,18 @@
     "last_paid": "2026-06-05",
     "next_ex_date": "2027-09-14",
     "next_payment_date": "2027-09-28",
+    "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "IMBl_EQ",
+    "name": "Imperial Brands",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-09-30",
+    "next_ex_date": "2027-09-15",
+    "next_payment_date": "2027-09-29",
     "amount_est": 0.12,
     "predicted": true,
     "source": "Storico"

@@ -1,6 +1,41 @@
 [
   {
     "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.06,
+    "currency": "EUR",
+    "reference": "01a0f4fc-68b6-7afa-a720-007c044b734b",
+    "dateTime": "2026-10-01T01:02:57.709Z"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 0.1,
+    "currency": "EUR",
+    "reference": "01a0f4fa-367d-7782-abc6-548beca74f1b",
+    "dateTime": "2026-10-01T01:00:33.786Z"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 0.42,
+    "currency": "EUR",
+    "reference": "01a0f4fa-366b-76d1-83ac-8cea6b1e8cb0",
+    "dateTime": "2026-10-01T01:00:33.767Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -7.0,
+    "currency": "EUR",
+    "reference": "01a0f1cc-c274-7d68-beb5-7b51cacb760a",
+    "dateTime": "2026-09-30T10:12:03.312Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -28.02,
+    "currency": "EUR",
+    "reference": "01a0f1cc-7f8b-7901-bf44-ba63d54a815d",
+    "dateTime": "2026-09-30T10:11:46.183Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
     "amount": 0.07,
     "currency": "EUR",
     "reference": "01a0efd5-7e4d-7d20-ab4c-f507d4b73be7",
