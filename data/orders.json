@@ -1,6 +1,42 @@
 [
   {
     "order": {
+      "id": 58303671346,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.07,
+      "filledValue": 1.07,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-10-05T01:08:06.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58411375097,
+      "quantity": 0.19714573,
+      "price": 6.08,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-05T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.07,
+        "fxRate": 1.12022994,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 58210822026,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -1501,49 +1537,6 @@
   },
   {
     "order": {
-      "id": 55514110138,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "HLMAl_EQ",
-      "status": "FILLED",
-      "value": 1.51,
-      "filledValue": 1.51,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-08-11T01:00:43.000Z",
-      "instrument": {
-        "ticker": "HLMAl_EQ",
-        "name": "Halma",
-        "isin": "GB0004052071",
-        "currency": "GBX"
-      }
-    },
-    "fill": {
-      "id": 55518912682,
-      "quantity": 0.03459354,
-      "price": 3704.0,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-08-11T07:00:31.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.51,
-        "fxRate": 85.42298144,
-        "taxes": [
-          {
-            "name": "STAMP_DUTY_RESERVE_TAX",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2026-08-11T07:00:53.114Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 55514110133,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -1580,6 +1573,49 @@
             "quantity": -0.01,
             "currency": "EUR",
             "chargedAt": "2026-08-11T07:00:53.085Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 55514110138,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "HLMAl_EQ",
+      "status": "FILLED",
+      "value": 1.51,
+      "filledValue": 1.51,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-08-11T01:00:43.000Z",
+      "instrument": {
+        "ticker": "HLMAl_EQ",
+        "name": "Halma",
+        "isin": "GB0004052071",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 55518912682,
+      "quantity": 0.03459354,
+      "price": 3704.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-08-11T07:00:31.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.51,
+        "fxRate": 85.42298144,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-08-11T07:00:53.114Z"
           }
         ]
       }
@@ -3181,16 +3217,16 @@
       }
     },
     "fill": {
-      "id": 53464549171,
-      "quantity": -6.0,
-      "price": 47.15,
+      "id": 53464549118,
+      "quantity": -0.2840796,
+      "price": 47.2,
       "type": "TRADE",
-      "tradingMethod": "TOTV",
+      "tradingMethod": "OTC",
       "filledAt": "2026-07-01T07:00:20.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 282.9,
-        "realisedProfitLoss": 41.7,
+        "netValue": 13.41,
+        "realisedProfitLoss": 1.99,
         "fxRate": 1,
         "taxes": []
       }
@@ -3218,16 +3254,16 @@
       }
     },
     "fill": {
-      "id": 53464549118,
-      "quantity": -0.2840796,
-      "price": 47.2,
+      "id": 53464549171,
+      "quantity": -6.0,
+      "price": 47.15,
       "type": "TRADE",
-      "tradingMethod": "OTC",
+      "tradingMethod": "TOTV",
       "filledAt": "2026-07-01T07:00:20.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 13.41,
-        "realisedProfitLoss": 1.99,
+        "netValue": 282.9,
+        "realisedProfitLoss": 41.7,
         "fxRate": 1,
         "taxes": []
       }
@@ -7308,49 +7344,6 @@
   },
   {
     "order": {
-      "id": 49508055308,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "ATAC_US_EQ",
-      "status": "FILLED",
-      "value": 8.48,
-      "filledValue": 8.48,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-04-14T07:00:46.000Z",
-      "instrument": {
-        "ticker": "ATAC_US_EQ",
-        "name": "Blue Owl Capital",
-        "isin": "US09581B1035",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 49554682571,
-      "quantity": 1.14206575,
-      "price": 8.75,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-04-14T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 8.48,
-        "fxRate": 1.17981998,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2026-04-14T13:33:57.783Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 49508055281,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -7430,92 +7423,6 @@
             "quantity": -0.01,
             "currency": "EUR",
             "chargedAt": "2026-04-14T13:33:57.738Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 49508055306,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "LPG_US_EQ",
-      "status": "FILLED",
-      "value": 8.48,
-      "filledValue": 8.48,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-04-14T07:00:46.000Z",
-      "instrument": {
-        "ticker": "LPG_US_EQ",
-        "name": "Dorian LPG",
-        "isin": "MHY2106R1100",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 49554682560,
-      "quantity": 0.27913618,
-      "price": 35.8,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-04-14T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 8.48,
-        "fxRate": 1.17981998,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2026-04-14T13:33:57.712Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 49508055276,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "CAT_US_EQ",
-      "status": "FILLED",
-      "value": 8.48,
-      "filledValue": 8.48,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-04-14T07:00:46.000Z",
-      "instrument": {
-        "ticker": "CAT_US_EQ",
-        "name": "Caterpillar",
-        "isin": "US1491231015",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 49554681041,
-      "quantity": 0.01253039,
-      "price": 797.5,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-04-14T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 8.48,
-        "fxRate": 1.17980944,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2026-04-14T13:33:52.295Z"
           }
         ]
       }
@@ -7652,10 +7559,10 @@
   },
   {
     "order": {
-      "id": 49508055287,
+      "id": 49508055308,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "CSCO_US_EQ",
+      "ticker": "ATAC_US_EQ",
       "status": "FILLED",
       "value": 8.48,
       "filledValue": 8.48,
@@ -7665,29 +7572,72 @@
       "side": "BUY",
       "createdAt": "2026-04-14T07:00:46.000Z",
       "instrument": {
-        "ticker": "CSCO_US_EQ",
-        "name": "Cisco Systems",
-        "isin": "US17275R1023",
+        "ticker": "ATAC_US_EQ",
+        "name": "Blue Owl Capital",
+        "isin": "US09581B1035",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 49554672343,
-      "quantity": 0.1217142,
-      "price": 82.1,
+      "id": 49554682571,
+      "quantity": 1.14206575,
+      "price": 8.75,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2026-04-14T13:30:01.000Z",
+      "filledAt": "2026-04-14T13:30:02.000Z",
       "walletImpact": {
         "currency": "EUR",
         "netValue": 8.48,
-        "fxRate": 1.1797799,
+        "fxRate": 1.17981998,
         "taxes": [
           {
             "name": "CURRENCY_CONVERSION_FEE",
             "quantity": -0.01,
             "currency": "EUR",
-            "chargedAt": "2026-04-14T13:33:30.869Z"
+            "chargedAt": "2026-04-14T13:33:57.783Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 49508055276,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "CAT_US_EQ",
+      "status": "FILLED",
+      "value": 8.48,
+      "filledValue": 8.48,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-04-14T07:00:46.000Z",
+      "instrument": {
+        "ticker": "CAT_US_EQ",
+        "name": "Caterpillar",
+        "isin": "US1491231015",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 49554681041,
+      "quantity": 0.01253039,
+      "price": 797.5,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-04-14T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.48,
+        "fxRate": 1.17980944,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-04-14T13:33:52.295Z"
           }
         ]
       }
@@ -7738,6 +7688,49 @@
   },
   {
     "order": {
+      "id": 49508055287,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "CSCO_US_EQ",
+      "status": "FILLED",
+      "value": 8.48,
+      "filledValue": 8.48,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-04-14T07:00:46.000Z",
+      "instrument": {
+        "ticker": "CSCO_US_EQ",
+        "name": "Cisco Systems",
+        "isin": "US17275R1023",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 49554672343,
+      "quantity": 0.1217142,
+      "price": 82.1,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-04-14T13:30:01.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.48,
+        "fxRate": 1.1797799,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-04-14T13:33:30.869Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 49508055284,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -7774,6 +7767,49 @@
             "quantity": -0.01,
             "currency": "EUR",
             "chargedAt": "2026-04-14T13:33:20.166Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 49508055306,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "LPG_US_EQ",
+      "status": "FILLED",
+      "value": 8.48,
+      "filledValue": 8.48,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-04-14T07:00:46.000Z",
+      "instrument": {
+        "ticker": "LPG_US_EQ",
+        "name": "Dorian LPG",
+        "isin": "MHY2106R1100",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 49554682560,
+      "quantity": 0.27913618,
+      "price": 35.8,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-04-14T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.48,
+        "fxRate": 1.17981998,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-04-14T13:33:57.712Z"
           }
         ]
       }
@@ -8436,55 +8472,6 @@
   },
   {
     "order": {
-      "id": 49508055273,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "BLNDl_EQ",
-      "status": "FILLED",
-      "value": 8.48,
-      "filledValue": 8.48,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-04-14T07:00:46.000Z",
-      "instrument": {
-        "ticker": "BLNDl_EQ",
-        "name": "British Land",
-        "isin": "GB0001367019",
-        "currency": "GBX"
-      }
-    },
-    "fill": {
-      "id": 49517808401,
-      "quantity": 1.9337936,
-      "price": 379.7,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-04-14T07:00:50.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 8.48,
-        "fxRate": 87.10099999,
-        "taxes": [
-          {
-            "name": "STAMP_DUTY_RESERVE_TAX",
-            "quantity": -0.04,
-            "currency": "EUR",
-            "chargedAt": "2026-04-14T07:01:37.228Z"
-          },
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2026-04-14T07:01:37.206Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 49508055291,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -8527,6 +8514,55 @@
             "quantity": -0.01,
             "currency": "EUR",
             "chargedAt": "2026-04-14T07:01:37.161Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 49508055273,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "BLNDl_EQ",
+      "status": "FILLED",
+      "value": 8.48,
+      "filledValue": 8.48,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-04-14T07:00:46.000Z",
+      "instrument": {
+        "ticker": "BLNDl_EQ",
+        "name": "British Land",
+        "isin": "GB0001367019",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 49517808401,
+      "quantity": 1.9337936,
+      "price": 379.7,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-04-14T07:00:50.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 8.48,
+        "fxRate": 87.10099999,
+        "taxes": [
+          {
+            "name": "STAMP_DUTY_RESERVE_TAX",
+            "quantity": -0.04,
+            "currency": "EUR",
+            "chargedAt": "2026-04-14T07:01:37.228Z"
+          },
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-04-14T07:01:37.206Z"
           }
         ]
       }
@@ -9481,50 +9517,6 @@
   },
   {
     "order": {
-      "id": 49502661533,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": -65.52,
-      "filledValue": -65.52,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "SELL",
-      "createdAt": "2026-04-13T12:11:53.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 49509224003,
-      "quantity": -2.60131822,
-      "price": 29.51,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-04-13T13:30:04.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 65.52,
-        "realisedProfitLoss": 20.77,
-        "fxRate": 1.16983999,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.1,
-            "currency": "EUR",
-            "chargedAt": "2026-04-13T13:35:45.635Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 49502661528,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -9562,6 +9554,50 @@
             "quantity": -0.06,
             "currency": "EUR",
             "chargedAt": "2026-04-13T13:34:50.110Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 49502661533,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "TRMD_US_EQ",
+      "status": "FILLED",
+      "value": -65.52,
+      "filledValue": -65.52,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "SELL",
+      "createdAt": "2026-04-13T12:11:53.000Z",
+      "instrument": {
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 49509224003,
+      "quantity": -2.60131822,
+      "price": 29.51,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-04-13T13:30:04.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 65.52,
+        "realisedProfitLoss": 20.77,
+        "fxRate": 1.16983999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.1,
+            "currency": "EUR",
+            "chargedAt": "2026-04-13T13:35:45.635Z"
           }
         ]
       }
@@ -10960,42 +10996,6 @@
   },
   {
     "order": {
-      "id": 47063650323,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.23,
-      "filledValue": 1.23,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-02-24T02:05:53.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 47105465328,
-      "quantity": 0.05287832,
-      "price": 27.39,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-02-24T14:30:01.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.23,
-        "fxRate": 1.1775099,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 47063650316,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -11062,6 +11062,42 @@
         "currency": "EUR",
         "netValue": 1.85,
         "fxRate": 1.17750996,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 47063650323,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "TRMD_US_EQ",
+      "status": "FILLED",
+      "value": 1.23,
+      "filledValue": 1.23,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-02-24T02:05:53.000Z",
+      "instrument": {
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 47105465328,
+      "quantity": 0.05287832,
+      "price": 27.39,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-02-24T14:30:01.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.23,
+        "fxRate": 1.1775099,
         "taxes": []
       }
     }
@@ -11226,42 +11262,6 @@
   },
   {
     "order": {
-      "id": 45860434895,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.2,
-      "filledValue": 1.2,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-01-31T02:05:41.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 46014641384,
-      "quantity": 0.05960588,
-      "price": 23.78,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-02-02T14:30:07.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.2,
-        "fxRate": 1.18118985,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 45860434891,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -11292,6 +11292,42 @@
         "currency": "EUR",
         "netValue": 1.0,
         "fxRate": 1.18118965,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 45860434890,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MO_US_EQ",
+      "status": "FILLED",
+      "value": 1.1,
+      "filledValue": 1.1,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-01-31T02:05:41.000Z",
+      "instrument": {
+        "ticker": "MO_US_EQ",
+        "name": "Altria",
+        "isin": "US02209S1033",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 46011923399,
+      "quantity": 0.02083315,
+      "price": 62.37,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-02-02T14:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.1,
+        "fxRate": 1.1812396,
         "taxes": []
       }
     }
@@ -11370,36 +11406,36 @@
   },
   {
     "order": {
-      "id": 45860434890,
+      "id": 45860434895,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MO_US_EQ",
+      "ticker": "TRMD_US_EQ",
       "status": "FILLED",
-      "value": 1.1,
-      "filledValue": 1.1,
+      "value": 1.2,
+      "filledValue": 1.2,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2026-01-31T02:05:41.000Z",
       "instrument": {
-        "ticker": "MO_US_EQ",
-        "name": "Altria",
-        "isin": "US02209S1033",
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 46011923399,
-      "quantity": 0.02083315,
-      "price": 62.37,
+      "id": 46014641384,
+      "quantity": 0.05960588,
+      "price": 23.78,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2026-02-02T14:30:02.000Z",
+      "filledAt": "2026-02-02T14:30:07.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.1,
-        "fxRate": 1.1812396,
+        "netValue": 1.2,
+        "fxRate": 1.18118985,
         "taxes": []
       }
     }
@@ -11521,6 +11557,42 @@
   },
   {
     "order": {
+      "id": 45010215697,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MO_US_EQ",
+      "status": "FILLED",
+      "value": 1.12,
+      "filledValue": 1.12,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-01-17T02:07:22.000Z",
+      "instrument": {
+        "ticker": "MO_US_EQ",
+        "name": "Altria",
+        "isin": "US02209S1033",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 45358102218,
+      "quantity": 0.02129797,
+      "price": 61.67,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-01-20T14:30:04.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.12,
+        "fxRate": 1.17271947,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 45010215698,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -11593,36 +11665,36 @@
   },
   {
     "order": {
-      "id": 45010215697,
+      "id": 45010215701,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MO_US_EQ",
+      "ticker": "MITT_US_EQ",
       "status": "FILLED",
-      "value": 1.12,
-      "filledValue": 1.12,
+      "value": 1.84,
+      "filledValue": 1.84,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2026-01-17T02:07:22.000Z",
       "instrument": {
-        "ticker": "MO_US_EQ",
-        "name": "Altria",
-        "isin": "US02209S1033",
+        "ticker": "MITT_US_EQ",
+        "name": "TPG Mortgage Investment Trust",
+        "isin": "US0012285013",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 45358102218,
-      "quantity": 0.02129797,
-      "price": 61.67,
+      "id": 45355694523,
+      "quantity": 0.23301831,
+      "price": 9.26,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2026-01-20T14:30:04.000Z",
+      "filledAt": "2026-01-20T14:30:03.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.12,
-        "fxRate": 1.17271947,
+        "netValue": 1.84,
+        "fxRate": 1.17268997,
         "taxes": []
       }
     }
@@ -11659,42 +11731,6 @@
         "currency": "EUR",
         "netValue": 1.12,
         "fxRate": 1.17269984,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 45010215701,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "MITT_US_EQ",
-      "status": "FILLED",
-      "value": 1.84,
-      "filledValue": 1.84,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2026-01-17T02:07:22.000Z",
-      "instrument": {
-        "ticker": "MITT_US_EQ",
-        "name": "TPG Mortgage Investment Trust",
-        "isin": "US0012285013",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 45355694523,
-      "quantity": 0.23301831,
-      "price": 9.26,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2026-01-20T14:30:03.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.84,
-        "fxRate": 1.17268997,
         "taxes": []
       }
     }
@@ -11926,42 +11962,6 @@
   },
   {
     "order": {
-      "id": 43606087789,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "CNQ_US_EQ",
-      "status": "FILLED",
-      "value": 1.1,
-      "filledValue": 1.1,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-12-21T02:08:09.000Z",
-      "instrument": {
-        "ticker": "CNQ_US_EQ",
-        "name": "Canadian Natural Resources",
-        "isin": "CA1363851017",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 43759700687,
-      "quantity": 0.03994549,
-      "price": 32.38,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-12-22T14:30:04.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.1,
-        "fxRate": 1.17584996,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 43606087792,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -11998,36 +11998,36 @@
   },
   {
     "order": {
-      "id": 43606087795,
+      "id": 43606087789,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MITT_US_EQ",
+      "ticker": "CNQ_US_EQ",
       "status": "FILLED",
-      "value": 1.8,
-      "filledValue": 1.8,
+      "value": 1.1,
+      "filledValue": 1.1,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-12-21T02:08:09.000Z",
       "instrument": {
-        "ticker": "MITT_US_EQ",
-        "name": "TPG Mortgage Investment Trust",
-        "isin": "US0012285013",
+        "ticker": "CNQ_US_EQ",
+        "name": "Canadian Natural Resources",
+        "isin": "CA1363851017",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 43755179367,
-      "quantity": 0.23569175,
-      "price": 8.98,
+      "id": 43759700687,
+      "quantity": 0.03994549,
+      "price": 32.38,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-12-22T14:30:02.000Z",
+      "filledAt": "2025-12-22T14:30:04.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.8,
-        "fxRate": 1.17583995,
+        "netValue": 1.1,
+        "fxRate": 1.17584996,
         "taxes": []
       }
     }
@@ -12064,6 +12064,42 @@
         "currency": "EUR",
         "netValue": 1.1,
         "fxRate": 1.17583946,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 43606087795,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MITT_US_EQ",
+      "status": "FILLED",
+      "value": 1.8,
+      "filledValue": 1.8,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-12-21T02:08:09.000Z",
+      "instrument": {
+        "ticker": "MITT_US_EQ",
+        "name": "TPG Mortgage Investment Trust",
+        "isin": "US0012285013",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 43755179367,
+      "quantity": 0.23569175,
+      "price": 8.98,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-12-22T14:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.8,
+        "fxRate": 1.17583995,
         "taxes": []
       }
     }
@@ -12367,36 +12403,36 @@
   },
   {
     "order": {
-      "id": 42555613060,
+      "id": 42555613055,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
+      "ticker": "MO_US_EQ",
       "status": "FILLED",
-      "value": 1.22,
-      "filledValue": 1.22,
+      "value": 1.12,
+      "filledValue": 1.12,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-11-29T02:06:45.000Z",
       "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
+        "ticker": "MO_US_EQ",
+        "name": "Altria",
+        "isin": "US02209S1033",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 42706841949,
-      "quantity": 0.06619395,
-      "price": 21.45,
+      "id": 42706816394,
+      "quantity": 0.02208892,
+      "price": 59.01,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-12-01T14:30:13.000Z",
+      "filledAt": "2025-12-01T14:30:06.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.22,
-        "fxRate": 1.16381985,
+        "netValue": 1.12,
+        "fxRate": 1.16380997,
         "taxes": []
       }
     }
@@ -12475,36 +12511,36 @@
   },
   {
     "order": {
-      "id": 42555613055,
+      "id": 42555613060,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MO_US_EQ",
+      "ticker": "TRMD_US_EQ",
       "status": "FILLED",
-      "value": 1.12,
-      "filledValue": 1.12,
+      "value": 1.22,
+      "filledValue": 1.22,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-11-29T02:06:45.000Z",
       "instrument": {
-        "ticker": "MO_US_EQ",
-        "name": "Altria",
-        "isin": "US02209S1033",
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 42706816394,
-      "quantity": 0.02208892,
-      "price": 59.01,
+      "id": 42706841949,
+      "quantity": 0.06619395,
+      "price": 21.45,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-12-01T14:30:06.000Z",
+      "filledAt": "2025-12-01T14:30:13.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.12,
-        "fxRate": 1.16380997,
+        "netValue": 1.22,
+        "fxRate": 1.16381985,
         "taxes": []
       }
     }
@@ -13162,78 +13198,6 @@
   },
   {
     "order": {
-      "id": 40056198915,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.2,
-      "filledValue": 1.2,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-10-11T01:01:28.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 40209338237,
-      "quantity": 0.06980633,
-      "price": 19.89,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-10-13T13:30:05.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.2,
-        "fxRate": 1.15703991,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 40056198911,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "MAIN_US_EQ",
-      "status": "FILLED",
-      "value": 1.0,
-      "filledValue": 1.0,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-10-11T01:01:28.000Z",
-      "instrument": {
-        "ticker": "MAIN_US_EQ",
-        "name": "Main Street Capital",
-        "isin": "US56035L1044",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 40209303472,
-      "quantity": 0.02058932,
-      "price": 56.2,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-10-13T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.0,
-        "fxRate": 1.15711978,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 40056198914,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -13300,6 +13264,78 @@
         "currency": "EUR",
         "netValue": 1.1,
         "fxRate": 1.1571498,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 40056198911,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MAIN_US_EQ",
+      "status": "FILLED",
+      "value": 1.0,
+      "filledValue": 1.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-10-11T01:01:28.000Z",
+      "instrument": {
+        "ticker": "MAIN_US_EQ",
+        "name": "Main Street Capital",
+        "isin": "US56035L1044",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 40209303472,
+      "quantity": 0.02058932,
+      "price": 56.2,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-10-13T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.0,
+        "fxRate": 1.15711978,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 40056198915,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "TRMD_US_EQ",
+      "status": "FILLED",
+      "value": 1.2,
+      "filledValue": 1.2,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-10-11T01:01:28.000Z",
+      "instrument": {
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 40209338237,
+      "quantity": 0.06980633,
+      "price": 19.89,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-10-13T13:30:05.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.2,
+        "fxRate": 1.15703991,
         "taxes": []
       }
     }
@@ -13464,78 +13500,6 @@
   },
   {
     "order": {
-      "id": 39300782501,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.33,
-      "filledValue": 1.33,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-09-25T11:19:35.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 39304947760,
-      "quantity": 0.07145666,
-      "price": 21.78,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-09-25T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.33,
-        "fxRate": 1.17016996,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 39300782497,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "MAIN_US_EQ",
-      "status": "FILLED",
-      "value": 1.11,
-      "filledValue": 1.11,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-09-25T11:19:35.000Z",
-      "instrument": {
-        "ticker": "MAIN_US_EQ",
-        "name": "Main Street Capital",
-        "isin": "US56035L1044",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 39304944459,
-      "quantity": 0.02071923,
-      "price": 62.69,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-09-25T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.11,
-        "fxRate": 1.17016984,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 39300782500,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -13566,6 +13530,42 @@
         "currency": "EUR",
         "netValue": 2.0,
         "fxRate": 1.17016996,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 39300782496,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MO_US_EQ",
+      "status": "FILLED",
+      "value": 1.22,
+      "filledValue": 1.22,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-09-25T11:19:35.000Z",
+      "instrument": {
+        "ticker": "MO_US_EQ",
+        "name": "Altria",
+        "isin": "US02209S1033",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 39304939536,
+      "quantity": 0.02171596,
+      "price": 65.74,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-09-25T13:30:01.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.22,
+        "fxRate": 1.17016984,
         "taxes": []
       }
     }
@@ -13608,36 +13608,72 @@
   },
   {
     "order": {
-      "id": 39300782496,
+      "id": 39300782497,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MO_US_EQ",
+      "ticker": "MAIN_US_EQ",
       "status": "FILLED",
-      "value": 1.22,
-      "filledValue": 1.22,
+      "value": 1.11,
+      "filledValue": 1.11,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-09-25T11:19:35.000Z",
       "instrument": {
-        "ticker": "MO_US_EQ",
-        "name": "Altria",
-        "isin": "US02209S1033",
+        "ticker": "MAIN_US_EQ",
+        "name": "Main Street Capital",
+        "isin": "US56035L1044",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 39304939536,
-      "quantity": 0.02171596,
-      "price": 65.74,
+      "id": 39304944459,
+      "quantity": 0.02071923,
+      "price": 62.69,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-09-25T13:30:01.000Z",
+      "filledAt": "2025-09-25T13:30:02.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.22,
+        "netValue": 1.11,
         "fxRate": 1.17016984,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 39300782501,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "TRMD_US_EQ",
+      "status": "FILLED",
+      "value": 1.33,
+      "filledValue": 1.33,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-09-25T11:19:35.000Z",
+      "instrument": {
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 39304947760,
+      "quantity": 0.07145666,
+      "price": 21.78,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-09-25T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.33,
+        "fxRate": 1.17016996,
         "taxes": []
       }
     }
@@ -14144,42 +14180,6 @@
   },
   {
     "order": {
-      "id": 38209788226,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.43,
-      "filledValue": 1.43,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-09-05T01:01:20.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 38301780156,
-      "quantity": 0.07364751,
-      "price": 22.76,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-09-05T13:30:01.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.43,
-        "fxRate": 1.17217994,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 38209788225,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -14210,6 +14210,42 @@
         "currency": "EUR",
         "netValue": 2.15,
         "fxRate": 1.17217998,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 38209788221,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MO_US_EQ",
+      "status": "FILLED",
+      "value": 1.31,
+      "filledValue": 1.31,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-09-05T01:01:20.000Z",
+      "instrument": {
+        "ticker": "MO_US_EQ",
+        "name": "Altria",
+        "isin": "US02209S1033",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 38301777400,
+      "quantity": 0.02305965,
+      "price": 66.59,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-09-05T13:30:01.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.31,
+        "fxRate": 1.17216953,
         "taxes": []
       }
     }
@@ -14252,36 +14288,36 @@
   },
   {
     "order": {
-      "id": 38209788221,
+      "id": 38209788226,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MO_US_EQ",
+      "ticker": "TRMD_US_EQ",
       "status": "FILLED",
-      "value": 1.31,
-      "filledValue": 1.31,
+      "value": 1.43,
+      "filledValue": 1.43,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-09-05T01:01:20.000Z",
       "instrument": {
-        "ticker": "MO_US_EQ",
-        "name": "Altria",
-        "isin": "US02209S1033",
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 38301777400,
-      "quantity": 0.02305965,
-      "price": 66.59,
+      "id": 38301780156,
+      "quantity": 0.07364751,
+      "price": 22.76,
       "type": "TRADE",
       "tradingMethod": "OTC",
       "filledAt": "2025-09-05T13:30:01.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 1.31,
-        "fxRate": 1.17216953,
+        "netValue": 1.43,
+        "fxRate": 1.17217994,
         "taxes": []
       }
     }
@@ -14711,78 +14747,6 @@
   },
   {
     "order": {
-      "id": 37152464913,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "TRMD_US_EQ",
-      "status": "FILLED",
-      "value": 1.22,
-      "filledValue": 1.22,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-08-14T01:01:07.000Z",
-      "instrument": {
-        "ticker": "TRMD_US_EQ",
-        "name": "TORM",
-        "isin": "GB00BZ3CNK81",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 37202925029,
-      "quantity": 0.07108451,
-      "price": 20.0,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-08-14T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.22,
-        "fxRate": 1.16531983,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 37152464912,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "MITT_US_EQ",
-      "status": "FILLED",
-      "value": 1.84,
-      "filledValue": 1.84,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-08-14T01:01:07.000Z",
-      "instrument": {
-        "ticker": "MITT_US_EQ",
-        "name": "TPG Mortgage Investment Trust",
-        "isin": "US0012285013",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 37202916167,
-      "quantity": 0.27631061,
-      "price": 7.76,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-08-14T13:30:02.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.84,
-        "fxRate": 1.16530996,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
       "id": 37152464908,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -14855,6 +14819,42 @@
   },
   {
     "order": {
+      "id": 37152464912,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "MITT_US_EQ",
+      "status": "FILLED",
+      "value": 1.84,
+      "filledValue": 1.84,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-08-14T01:01:07.000Z",
+      "instrument": {
+        "ticker": "MITT_US_EQ",
+        "name": "TPG Mortgage Investment Trust",
+        "isin": "US0012285013",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 37202916167,
+      "quantity": 0.27631061,
+      "price": 7.76,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-08-14T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.84,
+        "fxRate": 1.16530996,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 37152464909,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -14885,6 +14885,42 @@
         "currency": "EUR",
         "netValue": 1.02,
         "fxRate": 1.16528994,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 37152464913,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "TRMD_US_EQ",
+      "status": "FILLED",
+      "value": 1.22,
+      "filledValue": 1.22,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-08-14T01:01:07.000Z",
+      "instrument": {
+        "ticker": "TRMD_US_EQ",
+        "name": "TORM",
+        "isin": "GB00BZ3CNK81",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 37202925029,
+      "quantity": 0.07108451,
+      "price": 20.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-08-14T13:30:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.22,
+        "fxRate": 1.16531983,
         "taxes": []
       }
     }
@@ -17239,6 +17275,42 @@
   },
   {
     "order": {
+      "id": 34103932283,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "XOM_US_EQ",
+      "status": "FILLED",
+      "value": 1.11,
+      "filledValue": 1.11,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-06-16T13:36:29.000Z",
+      "instrument": {
+        "ticker": "XOM_US_EQ",
+        "name": "ExxonMobil",
+        "isin": "US30233Q1085",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 34256184496,
+      "quantity": 0.0114429,
+      "price": 112.34,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-06-16T13:36:29.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.11,
+        "fxRate": 1.15810395,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 34103932282,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -17305,42 +17377,6 @@
         "currency": "EUR",
         "netValue": 1.11,
         "fxRate": 1.15810425,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 34103932283,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "XOM_US_EQ",
-      "status": "FILLED",
-      "value": 1.11,
-      "filledValue": 1.11,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-06-16T13:36:29.000Z",
-      "instrument": {
-        "ticker": "XOM_US_EQ",
-        "name": "ExxonMobil",
-        "isin": "US30233Q1085",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 34256184496,
-      "quantity": 0.0114429,
-      "price": 112.34,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-06-16T13:36:29.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 1.11,
-        "fxRate": 1.15810395,
         "taxes": []
       }
     }
@@ -20260,49 +20296,6 @@
   },
   {
     "order": {
-      "id": 27952029261,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "CRSP_US_EQ",
-      "status": "FILLED",
-      "value": 100.0,
-      "filledValue": 100.0,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "ANDROID",
-      "side": "BUY",
-      "createdAt": "2025-02-10T12:06:26.000Z",
-      "instrument": {
-        "ticker": "CRSP_US_EQ",
-        "name": "CRISPR Therapeutics",
-        "isin": "CH0334081137",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 27953892583,
-      "quantity": 2.560826,
-      "price": 40.19,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-02-10T14:30:05.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 100.0,
-        "fxRate": 1.03074208,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.15,
-            "currency": "EUR",
-            "chargedAt": "2025-02-10T14:32:20.153Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 27952029371,
       "strategy": "QUANTITY",
       "type": "MARKET",
@@ -20340,6 +20333,49 @@
             "quantity": -0.09,
             "currency": "EUR",
             "chargedAt": "2025-02-10T14:31:04.436Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 27952029261,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "CRSP_US_EQ",
+      "status": "FILLED",
+      "value": 100.0,
+      "filledValue": 100.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2025-02-10T12:06:26.000Z",
+      "instrument": {
+        "ticker": "CRSP_US_EQ",
+        "name": "CRISPR Therapeutics",
+        "isin": "CH0334081137",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 27953892583,
+      "quantity": 2.560826,
+      "price": 40.19,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-02-10T14:30:05.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 100.0,
+        "fxRate": 1.03074208,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.15,
+            "currency": "EUR",
+            "chargedAt": "2025-02-10T14:32:20.153Z"
           }
         ]
       }
@@ -22384,42 +22420,121 @@
   },
   {
     "order": {
-      "id": 26505970212,
+      "id": 26505970210,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "MAIN_US_EQ",
+      "ticker": "T_US_EQ",
       "status": "FILLED",
-      "value": 10.0,
-      "filledValue": 9.99,
+      "value": 11.0,
+      "filledValue": 11.01,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-01-14T12:24:05.000Z",
       "instrument": {
-        "ticker": "MAIN_US_EQ",
-        "name": "Main Street Capital",
-        "isin": "US56035L1044",
+        "ticker": "T_US_EQ",
+        "name": "AT&T",
+        "isin": "US00206R1023",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 26551901394,
-      "quantity": 0.175642,
-      "price": 58.36,
+      "id": 26551909694,
+      "quantity": 0.115792,
+      "price": 21.56,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-01-14T14:30:02.000Z",
+      "filledAt": "2025-01-14T14:30:03.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 9.99,
-        "fxRate": 1.02710091,
+        "netValue": 2.43,
+        "fxRate": 1.02735618,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 26505970208,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "CNQ_US_EQ",
+      "status": "FILLED",
+      "value": 11.0,
+      "filledValue": 11.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-01-14T12:24:05.000Z",
+      "instrument": {
+        "ticker": "CNQ_US_EQ",
+        "name": "Canadian Natural Resources",
+        "isin": "CA1363851017",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 26551909614,
+      "quantity": 0.3557,
+      "price": 31.7,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-01-14T14:30:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 11.0,
+        "fxRate": 1.02692987,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.02,
+            "currency": "EUR",
+            "chargedAt": "2025-01-14T14:31:21.111Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 26505970210,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "T_US_EQ",
+      "status": "FILLED",
+      "value": 11.0,
+      "filledValue": 11.01,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2025-01-14T12:24:05.000Z",
+      "instrument": {
+        "ticker": "T_US_EQ",
+        "name": "AT&T",
+        "isin": "US00206R1023",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 26551909466,
+      "quantity": 0.219481,
+      "price": 21.54,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2025-01-14T14:30:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 4.62,
+        "fxRate": 1.02551426,
         "taxes": [
           {
             "name": "CURRENCY_CONVERSION_FEE",
             "quantity": -0.01,
             "currency": "EUR",
-            "chargedAt": "2025-01-14T14:31:05.876Z"
+            "chargedAt": "2025-01-14T14:31:20.686Z"
           }
         ]
       }
@@ -22470,42 +22585,42 @@
   },
   {
     "order": {
-      "id": 26505970208,
+      "id": 26505970212,
       "strategy": "VALUE",
       "type": "MARKET",
-      "ticker": "CNQ_US_EQ",
+      "ticker": "MAIN_US_EQ",
       "status": "FILLED",
-      "value": 11.0,
-      "filledValue": 11.0,
+      "value": 10.0,
+      "filledValue": 9.99,
       "currency": "EUR",
       "extendedHours": false,
       "initiatedFrom": "AUTOINVEST",
       "side": "BUY",
       "createdAt": "2025-01-14T12:24:05.000Z",
       "instrument": {
-        "ticker": "CNQ_US_EQ",
-        "name": "Canadian Natural Resources",
-        "isin": "CA1363851017",
+        "ticker": "MAIN_US_EQ",
+        "name": "Main Street Capital",
+        "isin": "US56035L1044",
         "currency": "USD"
       }
     },
     "fill": {
-      "id": 26551909614,
-      "quantity": 0.3557,
-      "price": 31.7,
+      "id": 26551901394,
+      "quantity": 0.175642,
+      "price": 58.36,
       "type": "TRADE",
       "tradingMethod": "OTC",
-      "filledAt": "2025-01-14T14:30:03.000Z",
+      "filledAt": "2025-01-14T14:30:02.000Z",
       "walletImpact": {
         "currency": "EUR",
-        "netValue": 11.0,
-        "fxRate": 1.02692987,
+        "netValue": 9.99,
+        "fxRate": 1.02710091,
         "taxes": [
           {
             "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.02,
+            "quantity": -0.01,
             "currency": "EUR",
-            "chargedAt": "2025-01-14T14:31:21.111Z"
+            "chargedAt": "2025-01-14T14:31:05.876Z"
           }
         ]
       }
@@ -22549,85 +22664,6 @@
             "quantity": -0.02,
             "currency": "EUR",
             "chargedAt": "2025-01-14T14:30:44.044Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 26505970210,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "T_US_EQ",
-      "status": "FILLED",
-      "value": 11.0,
-      "filledValue": 11.01,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-01-14T12:24:05.000Z",
-      "instrument": {
-        "ticker": "T_US_EQ",
-        "name": "AT&T",
-        "isin": "US00206R1023",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 26551909694,
-      "quantity": 0.115792,
-      "price": 21.56,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-01-14T14:30:03.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 2.43,
-        "fxRate": 1.02735618,
-        "taxes": []
-      }
-    }
-  },
-  {
-    "order": {
-      "id": 26505970210,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "T_US_EQ",
-      "status": "FILLED",
-      "value": 11.0,
-      "filledValue": 11.01,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "AUTOINVEST",
-      "side": "BUY",
-      "createdAt": "2025-01-14T12:24:05.000Z",
-      "instrument": {
-        "ticker": "T_US_EQ",
-        "name": "AT&T",
-        "isin": "US00206R1023",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 26551909466,
-      "quantity": 0.219481,
-      "price": 21.54,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2025-01-14T14:30:03.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 4.62,
-        "fxRate": 1.02551426,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2025-01-14T14:31:20.686Z"
           }
         ]
       }
@@ -25416,49 +25452,6 @@
   },
   {
     "order": {
-      "id": 22750301434,
-      "strategy": "VALUE",
-      "type": "MARKET",
-      "ticker": "PYPL_US_EQ",
-      "status": "FILLED",
-      "value": 10.0,
-      "filledValue": 9.99,
-      "currency": "EUR",
-      "extendedHours": false,
-      "initiatedFrom": "ANDROID",
-      "side": "BUY",
-      "createdAt": "2024-10-30T11:18:22.000Z",
-      "instrument": {
-        "ticker": "PYPL_US_EQ",
-        "name": "PayPal",
-        "isin": "US70450Y1038",
-        "currency": "USD"
-      }
-    },
-    "fill": {
-      "id": 22750322907,
-      "quantity": 0.136631,
-      "price": 79.08,
-      "type": "TRADE",
-      "tradingMethod": "OTC",
-      "filledAt": "2024-10-30T13:30:03.000Z",
-      "walletImpact": {
-        "currency": "EUR",
-        "netValue": 9.99,
-        "fxRate": 1.08264323,
-        "taxes": [
-          {
-            "name": "CURRENCY_CONVERSION_FEE",
-            "quantity": -0.01,
-            "currency": "EUR",
-            "chargedAt": "2024-10-30T13:31:10.531Z"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "order": {
       "id": 22750301297,
       "strategy": "VALUE",
       "type": "MARKET",
@@ -25495,6 +25488,49 @@
             "quantity": -0.07,
             "currency": "EUR",
             "chargedAt": "2024-10-30T13:31:10.511Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 22750301434,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PYPL_US_EQ",
+      "status": "FILLED",
+      "value": 10.0,
+      "filledValue": 9.99,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2024-10-30T11:18:22.000Z",
+      "instrument": {
+        "ticker": "PYPL_US_EQ",
+        "name": "PayPal",
+        "isin": "US70450Y1038",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 22750322907,
+      "quantity": 0.136631,
+      "price": 79.08,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2024-10-30T13:30:03.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 9.99,
+        "fxRate": 1.08264323,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2024-10-30T13:31:10.531Z"
           }
         ]
       }
