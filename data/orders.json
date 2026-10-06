@@ -1,6 +1,52 @@
 [
   {
     "order": {
+      "id": 58419934796,
+      "strategy": "QUANTITY",
+      "type": "STOP",
+      "ticker": "NOG_US_EQ",
+      "quantity": -22.49666063,
+      "filledQuantity": 0,
+      "stopPrice": 24.0,
+      "status": "CANCELLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-10-05T17:41:42.000Z",
+      "instrument": {
+        "ticker": "NOG_US_EQ",
+        "name": "Northern Oil and Gas",
+        "isin": "US6655313079",
+        "currency": "USD"
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58111858406,
+      "strategy": "QUANTITY",
+      "type": "LIMIT",
+      "ticker": "NOG_US_EQ",
+      "quantity": -22.49666063,
+      "filledQuantity": 0,
+      "limitPrice": 27.2,
+      "status": "CANCELLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-09-30T04:52:40.000Z",
+      "instrument": {
+        "ticker": "NOG_US_EQ",
+        "name": "Northern Oil and Gas",
+        "isin": "US6655313079",
+        "currency": "USD"
+      }
+    }
+  },
+  {
+    "order": {
       "id": 58303671346,
       "strategy": "VALUE",
       "type": "MARKET",
