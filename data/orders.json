@@ -1,6 +1,42 @@
 [
   {
     "order": {
+      "id": 58463764502,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "G6P0d_EQ",
+      "status": "FILLED",
+      "value": 1.12,
+      "filledValue": 1.12,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-07T06:57:28.000Z",
+      "instrument": {
+        "ticker": "G6P0d_EQ",
+        "name": "Going Public Media",
+        "isin": "DE000A40KXC8",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 58463787257,
+      "quantity": 0.29946524,
+      "price": 3.74,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-07T07:02:15.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.12,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 58419934796,
       "strategy": "QUANTITY",
       "type": "STOP",
