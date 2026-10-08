@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "GSKl_EQ",
+    "instrument": {
+      "ticker": "GSKl_EQ",
+      "name": "GSK",
+      "isin": "GB00BN7SWP63",
+      "currency": "GBX"
+    },
+    "reference": "c51def1e-26f3-4d41-b604-1cfa81856112",
+    "quantity": 0.55583556,
+    "amount": 0.11,
+    "currency": "EUR",
+    "grossAmountPerShare": 17.0,
+    "amountInEuro": 0.11,
+    "paidOn": "2026-10-08T15:49:16.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "IMBl_EQ",
     "instrument": {
       "ticker": "IMBl_EQ",

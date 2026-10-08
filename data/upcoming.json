@@ -564,6 +564,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-08",
+    "next_ex_date": "2026-12-24",
+    "next_payment_date": "2027-01-07",
+    "amount_est": 0.09,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "VALE_US_EQ",
     "name": "Vale",
     "frequency": "Mensile",
@@ -1076,6 +1088,18 @@
     "next_ex_date": "2027-03-23",
     "next_payment_date": "2027-04-06",
     "amount_est": 0.38,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-08",
+    "next_ex_date": "2027-03-25",
+    "next_payment_date": "2027-04-08",
+    "amount_est": 0.09,
     "predicted": true,
     "source": "Storico"
   },
@@ -1850,12 +1874,12 @@
   {
     "ticker": "GSKl_EQ",
     "name": "GSK",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-07-09",
-    "next_ex_date": "2027-06-25",
-    "next_payment_date": "2027-07-09",
-    "amount_est": 0.07,
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-08",
+    "next_ex_date": "2027-06-24",
+    "next_payment_date": "2027-07-08",
+    "amount_est": 0.09,
     "predicted": true,
     "source": "Storico"
   },
@@ -2468,6 +2492,18 @@
     "next_ex_date": "2027-09-21",
     "next_payment_date": "2027-10-05",
     "amount_est": 0.41,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-08",
+    "next_ex_date": "2027-09-23",
+    "next_payment_date": "2027-10-07",
+    "amount_est": 0.09,
     "predicted": true,
     "source": "Storico"
   }

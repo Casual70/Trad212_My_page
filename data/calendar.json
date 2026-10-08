@@ -1673,6 +1673,15 @@
     "payment_date": "2026-10-21"
   },
   {
+    "date": "2026-10-08",
+    "type": "payment",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.11,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-10-10",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -2405,6 +2414,16 @@
     "predicted": true
   },
   {
+    "date": "2026-12-24",
+    "type": "ex_date",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-07"
+  },
+  {
     "date": "2026-12-25",
     "type": "payment_predicted",
     "ticker": "LMT_US_EQ",
@@ -2544,6 +2563,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-01-19"
+  },
+  {
+    "date": "2027-01-07",
+    "type": "payment_predicted",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-01-08",
@@ -3242,6 +3270,16 @@
   {
     "date": "2027-03-25",
     "type": "ex_date",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-08"
+  },
+  {
+    "date": "2027-03-25",
+    "type": "ex_date",
     "ticker": "VALE_US_EQ",
     "name": "Vale",
     "amount": 0.08,
@@ -3369,6 +3407,15 @@
     "ticker": "CNQ_US_EQ",
     "name": "Canadian Natural Resources",
     "amount": 0.38,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-04-08",
+    "type": "payment_predicted",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
     "currency": "EUR",
     "predicted": true
   },
@@ -4411,6 +4458,16 @@
     "predicted": true
   },
   {
+    "date": "2027-06-24",
+    "type": "ex_date",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-08"
+  },
+  {
     "date": "2027-06-25",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
@@ -4427,16 +4484,6 @@
     "amount": 0.06,
     "currency": "EUR",
     "predicted": true
-  },
-  {
-    "date": "2027-06-25",
-    "type": "ex_date",
-    "ticker": "GSKl_EQ",
-    "name": "GSK",
-    "amount": 0.07,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-07-09"
   },
   {
     "date": "2027-06-26",
@@ -4569,11 +4616,11 @@
     "predicted": true
   },
   {
-    "date": "2027-07-09",
+    "date": "2027-07-08",
     "type": "payment_predicted",
     "ticker": "GSKl_EQ",
     "name": "GSK",
-    "amount": 0.07,
+    "amount": 0.09,
     "currency": "EUR",
     "predicted": true
   },
@@ -5435,6 +5482,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-23",
+    "type": "ex_date",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-07"
+  },
+  {
     "date": "2027-09-24",
     "type": "payment_predicted",
     "ticker": "LMT_US_EQ",
@@ -5503,6 +5560,15 @@
     "ticker": "AIRp_EQ",
     "name": "Airbus",
     "amount": 0.41,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-07",
+    "type": "payment_predicted",
+    "ticker": "GSKl_EQ",
+    "name": "GSK",
+    "amount": 0.09,
     "currency": "EUR",
     "predicted": true
   }
