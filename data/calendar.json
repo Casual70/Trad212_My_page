@@ -5519,6 +5519,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-26",
+    "type": "ex_date",
+    "ticker": "MPW_US_EQ",
+    "name": "Medical Properties Trust",
+    "amount": 0.85,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-10"
+  },
+  {
     "date": "2027-09-28",
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
@@ -5569,6 +5579,15 @@
     "ticker": "GSKl_EQ",
     "name": "GSK",
     "amount": 0.09,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-10",
+    "type": "payment_predicted",
+    "ticker": "MPW_US_EQ",
+    "name": "Medical Properties Trust",
+    "amount": 0.85,
     "currency": "EUR",
     "predicted": true
   }

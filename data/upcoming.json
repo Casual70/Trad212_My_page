@@ -2506,5 +2506,17 @@
     "amount_est": 0.09,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "MPW_US_EQ",
+    "name": "Medical Properties Trust",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2024-10-10",
+    "next_ex_date": "2027-09-26",
+    "next_payment_date": "2027-10-10",
+    "amount_est": 0.85,
+    "predicted": true,
+    "source": "Storico"
   }
 ]
