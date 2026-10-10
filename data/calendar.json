@@ -1575,36 +1575,6 @@
     "predicted": false
   },
   {
-    "date": "2026-09-26",
-    "type": "ex_date",
-    "ticker": "VALE_US_EQ",
-    "name": "Vale",
-    "amount": 0.08,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-10"
-  },
-  {
-    "date": "2026-09-26",
-    "type": "ex_date",
-    "ticker": "MPW_US_EQ",
-    "name": "Medical Properties Trust",
-    "amount": 0.85,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-10"
-  },
-  {
-    "date": "2026-09-26",
-    "type": "ex_date",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-10"
-  },
-  {
     "date": "2026-09-28",
     "type": "payment",
     "ticker": "MAIN_US_EQ",
@@ -1680,33 +1650,6 @@
     "amount": 0.11,
     "currency": "EUR",
     "predicted": false
-  },
-  {
-    "date": "2026-10-10",
-    "type": "payment_predicted",
-    "ticker": "VALE_US_EQ",
-    "name": "Vale",
-    "amount": 0.08,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-10-10",
-    "type": "payment_predicted",
-    "ticker": "MPW_US_EQ",
-    "name": "Medical Properties Trust",
-    "amount": 0.85,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-10-10",
-    "type": "payment_predicted",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-10-13",

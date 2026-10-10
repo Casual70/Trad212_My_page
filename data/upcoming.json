@@ -1,41 +1,5 @@
 [
   {
-    "ticker": "VALE_US_EQ",
-    "name": "Vale",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-09-10",
-    "next_ex_date": "2026-09-26",
-    "next_payment_date": "2026-10-10",
-    "amount_est": 0.08,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "MPW_US_EQ",
-    "name": "Medical Properties Trust",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2024-10-10",
-    "next_ex_date": "2026-09-26",
-    "next_payment_date": "2026-10-10",
-    "amount_est": 0.85,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2024-04-23",
-    "next_ex_date": "2026-09-26",
-    "next_payment_date": "2026-10-10",
-    "amount_est": 0.41,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "frequency": "Trimestrale",
