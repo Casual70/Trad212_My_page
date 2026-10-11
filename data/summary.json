@@ -1,9 +1,9 @@
 {
   "id": 5278448,
   "currency": "EUR",
-  "totalValue": 2813.08,
+  "totalValue": 2679.53,
   "cash": {
-    "availableToTrade": 0.18,
+    "availableToTrade": 0.23,
     "reservedForOrders": 0,
     "inPies": 0.73
   },

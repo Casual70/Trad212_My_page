@@ -169,27 +169,6 @@
   },
   {
     "instrument": {
-      "ticker": "UBER_US_EQ",
-      "name": "Uber Technologies",
-      "isin": "US90353T1007",
-      "currency": "USD"
-    },
-    "createdAt": "2026-09-01T17:19:03.000+03:00",
-    "quantity": 0.88637918,
-    "quantityAvailableForTrading": 0.88637918,
-    "quantityInPies": 0,
-    "currentPrice": 71.36,
-    "averagePricePaid": 75.4530358,
-    "walletImpact": {
-      "currency": "EUR",
-      "totalCost": 57.63,
-      "currentValue": 56.45,
-      "unrealizedProfitLoss": -1.18,
-      "fxImpact": 2.06
-    }
-  },
-  {
-    "instrument": {
       "ticker": "G6P0d_EQ",
       "name": "Going Public Media",
       "isin": "DE000A40KXC8",
@@ -207,6 +186,27 @@
       "currentValue": 108.92,
       "unrealizedProfitLoss": -22.4,
       "fxImpact": null
+    }
+  },
+  {
+    "instrument": {
+      "ticker": "UBER_US_EQ",
+      "name": "Uber Technologies",
+      "isin": "US90353T1007",
+      "currency": "USD"
+    },
+    "createdAt": "2026-09-01T17:19:03.000+03:00",
+    "quantity": 0.88637918,
+    "quantityAvailableForTrading": 0.88637918,
+    "quantityInPies": 0,
+    "currentPrice": 71.36,
+    "averagePricePaid": 75.4530358,
+    "walletImpact": {
+      "currency": "EUR",
+      "totalCost": 57.63,
+      "currentValue": 56.45,
+      "unrealizedProfitLoss": -1.18,
+      "fxImpact": 2.06
     }
   },
   {
