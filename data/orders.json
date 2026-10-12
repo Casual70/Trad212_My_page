@@ -1,6 +1,109 @@
 [
   {
     "order": {
+      "id": 58762191886,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "NOG_US_EQ",
+      "quantity": -22.49666063,
+      "filledQuantity": -22.49666063,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-10-12T15:16:05.000Z",
+      "instrument": {
+        "ticker": "NOG_US_EQ",
+        "name": "Northern Oil and Gas",
+        "isin": "US6655313079",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58762191888,
+      "quantity": -22.49666063,
+      "price": 25.15,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-12T15:16:06.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 505.6,
+        "realisedProfitLoss": 49.57,
+        "fxRate": 1.11736909,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.76,
+            "currency": "EUR",
+            "chargedAt": "2026-10-12T15:16:06.569Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58419935317,
+      "strategy": "QUANTITY",
+      "type": "LIMIT",
+      "ticker": "NOG_US_EQ",
+      "quantity": -22.49666063,
+      "filledQuantity": 0,
+      "limitPrice": 27.0,
+      "status": "CANCELLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-10-05T17:44:05.000Z",
+      "instrument": {
+        "ticker": "NOG_US_EQ",
+        "name": "Northern Oil and Gas",
+        "isin": "US6655313079",
+        "currency": "USD"
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58653954171,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.55,
+      "filledValue": 1.55,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-10-12T01:06:41.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58758255286,
+      "quantity": 0.2812948,
+      "price": 6.16,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-12T13:30:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.55,
+        "fxRate": 1.11791997,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 58463764502,
       "strategy": "VALUE",
       "type": "MARKET",
