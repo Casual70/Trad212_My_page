@@ -1,6 +1,236 @@
 [
   {
     "order": {
+      "id": 58765000078,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "PONY_US_EQ",
+      "status": "FILLED",
+      "value": 1.59,
+      "filledValue": 1.59,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "BUY",
+      "createdAt": "2026-10-13T01:07:17.000Z",
+      "instrument": {
+        "ticker": "PONY_US_EQ",
+        "name": "Pony AI",
+        "isin": "US7329081084",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58802843752,
+      "quantity": 0.32084194,
+      "price": 5.55,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-13T13:30:00.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 1.59,
+        "fxRate": 1.11991997,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58764644662,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "8JQd_EQ",
+      "status": "FILLED",
+      "value": 250.0,
+      "filledValue": 250.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-12T18:41:02.000Z",
+      "instrument": {
+        "ticker": "8JQd_EQ",
+        "name": "Puuilo",
+        "isin": "FI4000507124",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 58766861089,
+      "quantity": 0.228649,
+      "price": 18.16,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-12T19:59:35.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 4.15,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58764644662,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "8JQd_EQ",
+      "status": "FILLED",
+      "value": 250.0,
+      "filledValue": 250.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-12T18:41:02.000Z",
+      "instrument": {
+        "ticker": "8JQd_EQ",
+        "name": "Puuilo",
+        "isin": "FI4000507124",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 58766860912,
+      "quantity": 1.59866241,
+      "price": 18.22,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-12T19:59:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 29.13,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58764647408,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "IMMR_US_EQ",
+      "status": "FILLED",
+      "value": 255.88,
+      "filledValue": 255.88,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-12T18:53:42.000Z",
+      "instrument": {
+        "ticker": "IMMR_US_EQ",
+        "name": "Immersion",
+        "isin": "US4525211078",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58764647455,
+      "quantity": 4.79085,
+      "price": 7.35,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-12T18:53:48.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 31.61,
+        "fxRate": 1.11573978,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.05,
+            "currency": "EUR",
+            "chargedAt": "2026-10-12T18:53:48.382Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58764647408,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "IMMR_US_EQ",
+      "status": "FILLED",
+      "value": 255.88,
+      "filledValue": 255.88,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-12T18:53:42.000Z",
+      "instrument": {
+        "ticker": "IMMR_US_EQ",
+        "name": "Immersion",
+        "isin": "US4525211078",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 58757225714,
+      "quantity": 34.0,
+      "price": 7.348,
+      "type": "TRADE",
+      "tradingMethod": "TOTV",
+      "filledAt": "2026-10-12T18:53:42.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 224.27,
+        "fxRate": 1.11567007,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.34,
+            "currency": "EUR",
+            "chargedAt": "2026-10-12T18:53:42.545Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 58764644662,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "8JQd_EQ",
+      "status": "FILLED",
+      "value": 250.0,
+      "filledValue": 250.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-12T18:41:02.000Z",
+      "instrument": {
+        "ticker": "8JQd_EQ",
+        "name": "Puuilo",
+        "isin": "FI4000507124",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 58757225292,
+      "quantity": 12.0,
+      "price": 18.06,
+      "type": "TRADE",
+      "tradingMethod": "TOTV",
+      "filledAt": "2026-10-12T18:41:36.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 216.72,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 58762191886,
       "strategy": "QUANTITY",
       "type": "MARKET",

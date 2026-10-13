@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "frequency": "Trimestrale",
-    "frequency_days": 91,
-    "last_paid": "2025-10-14",
-    "next_ex_date": "2026-09-29",
-    "next_payment_date": "2026-10-13",
-    "amount_est": 0.11,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "RIOl_EQ",
     "name": "Rio Tinto",
     "frequency": "Semestrale",
@@ -2504,6 +2492,18 @@
     "next_ex_date": "2027-09-28",
     "next_payment_date": "2027-10-12",
     "amount_est": 0.11,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "RIOl_EQ",
+    "name": "Rio Tinto",
+    "frequency": "Semestrale",
+    "frequency_days": 182,
+    "last_paid": "2026-04-16",
+    "next_ex_date": "2027-09-30",
+    "next_payment_date": "2027-10-14",
+    "amount_est": 3.72,
     "predicted": true,
     "source": "Storico"
   }

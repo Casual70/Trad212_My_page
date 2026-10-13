@@ -1584,16 +1584,6 @@
     "predicted": false
   },
   {
-    "date": "2026-09-29",
-    "type": "ex_date",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-13"
-  },
-  {
     "date": "2026-09-30",
     "type": "payment",
     "ticker": "IMBl_EQ",
@@ -1650,15 +1640,6 @@
     "amount": 0.11,
     "currency": "EUR",
     "predicted": false
-  },
-  {
-    "date": "2026-10-13",
-    "type": "payment_predicted",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-10-13",
@@ -5510,6 +5491,16 @@
     "predicted": true
   },
   {
+    "date": "2027-09-30",
+    "type": "ex_date",
+    "ticker": "RIOl_EQ",
+    "name": "Rio Tinto",
+    "amount": 3.72,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-14"
+  },
+  {
     "date": "2027-10-05",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5569,6 +5560,15 @@
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "amount": 0.11,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-14",
+    "type": "payment_predicted",
+    "ticker": "RIOl_EQ",
+    "name": "Rio Tinto",
+    "amount": 3.72,
     "currency": "EUR",
     "predicted": true
   }
