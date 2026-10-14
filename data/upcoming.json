@@ -2506,5 +2506,17 @@
     "amount_est": 3.72,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-07-22",
+    "next_ex_date": "2027-10-01",
+    "next_payment_date": "2027-10-15",
+    "amount_est": 6.58,
+    "predicted": true,
+    "source": "Storico"
   }
 ]

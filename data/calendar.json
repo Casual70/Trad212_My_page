@@ -5501,6 +5501,16 @@
     "payment_date": "2027-10-14"
   },
   {
+    "date": "2027-10-01",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-15"
+  },
+  {
     "date": "2027-10-05",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5569,6 +5579,15 @@
     "ticker": "RIOl_EQ",
     "name": "Rio Tinto",
     "amount": 3.72,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-15",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
     "currency": "EUR",
     "predicted": true
   }
