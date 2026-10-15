@@ -1593,16 +1593,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-01",
-    "type": "ex_date",
-    "ticker": "RIOl_EQ",
-    "name": "Rio Tinto",
-    "amount": 3.72,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-15"
-  },
-  {
     "date": "2026-10-03",
     "type": "ex_date",
     "ticker": "PSEC_US_EQ",
@@ -1670,15 +1660,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-10-28"
-  },
-  {
-    "date": "2026-10-15",
-    "type": "payment_predicted",
-    "ticker": "RIOl_EQ",
-    "name": "Rio Tinto",
-    "amount": 3.72,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-10-15",
@@ -5511,6 +5492,16 @@
     "payment_date": "2027-10-15"
   },
   {
+    "date": "2027-10-02",
+    "type": "ex_date",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-16"
+  },
+  {
     "date": "2027-10-05",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5588,6 +5579,15 @@
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-16",
+    "type": "payment_predicted",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
     "currency": "EUR",
     "predicted": true
   }
