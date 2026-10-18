@@ -153,7 +153,7 @@
       "isin": "FI4000507124",
       "currency": "EUR"
     },
-    "createdAt": "2026-10-12T21:41:36.050+03:00",
+    "createdAt": "2026-10-12T21:41:36.000+03:00",
     "quantity": 13.82731141,
     "quantityAvailableForTrading": 13.82731141,
     "quantityInPies": 0,
@@ -258,7 +258,7 @@
       "isin": "US4525211078",
       "currency": "USD"
     },
-    "createdAt": "2026-10-12T21:53:42.490+03:00",
+    "createdAt": "2026-10-12T21:53:42.000+03:00",
     "quantity": 38.79085,
     "quantityAvailableForTrading": 38.79085,
     "quantityInPies": 0,
