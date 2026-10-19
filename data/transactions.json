@@ -1,5 +1,19 @@
 [
   {
+    "type": "LENDING_INTEREST",
+    "amount": 0.01,
+    "currency": "EUR",
+    "reference": "01a15256-883d-73f3-83c7-ee5ecb610e80",
+    "dateTime": "2026-10-19T04:05:57.191Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.03,
+    "currency": "EUR",
+    "reference": "01a151ae-b4c0-7b49-aaba-5c4017b09f3d",
+    "dateTime": "2026-10-19T01:02:46.447Z"
+  },
+  {
     "type": "INTEREST_ON_FREE_CASH",
     "amount": 0.03,
     "currency": "EUR",
