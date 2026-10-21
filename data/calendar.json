@@ -1593,16 +1593,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-07",
-    "type": "ex_date",
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG",
-    "amount": 0.14,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-10-21"
-  },
-  {
     "date": "2026-10-08",
     "type": "payment",
     "ticker": "GSKl_EQ",
@@ -1679,15 +1669,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-02"
-  },
-  {
-    "date": "2026-10-21",
-    "type": "payment_predicted",
-    "ticker": "BWLP_US_EQ",
-    "name": "BW LPG",
-    "amount": 0.14,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-10-26",
@@ -5500,6 +5481,26 @@
     "predicted": true
   },
   {
+    "date": "2027-10-08",
+    "type": "ex_date",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-22"
+  },
+  {
+    "date": "2027-10-08",
+    "type": "ex_date",
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "amount": 0.32,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-22"
+  },
+  {
     "date": "2027-10-10",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
@@ -5559,6 +5560,24 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-22",
+    "type": "payment_predicted",
+    "ticker": "CION_US_EQ",
+    "name": "CION Investment",
+    "amount": 0.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-22",
+    "type": "payment_predicted",
+    "ticker": "GAIN_US_EQ",
+    "name": "Gladstone Investment",
+    "amount": 0.32,
     "currency": "EUR",
     "predicted": true
   }
