@@ -1671,6 +1671,24 @@
     "payment_date": "2026-11-02"
   },
   {
+    "date": "2026-10-22",
+    "type": "payment",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 0.54,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
+    "date": "2026-10-22",
+    "type": "payment",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 2.43,
+    "currency": "EUR",
+    "predicted": false
+  },
+  {
     "date": "2026-10-26",
     "type": "ex_date",
     "ticker": "VALE_US_EQ",
@@ -1795,6 +1813,16 @@
     "payment_date": "2026-11-20"
   },
   {
+    "date": "2026-11-07",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-11-21"
+  },
+  {
     "date": "2026-11-09",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -1894,6 +1922,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2026-11-21",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -2061,6 +2098,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-20"
+  },
+  {
+    "date": "2026-12-07",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2026-12-21"
   },
   {
     "date": "2026-12-08",
@@ -2242,6 +2289,15 @@
     "predicted": true
   },
   {
+    "date": "2026-12-21",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2026-12-22",
     "type": "ex_date",
     "ticker": "CNQ_US_EQ",
@@ -2413,6 +2469,16 @@
     "payment_date": "2027-01-19"
   },
   {
+    "date": "2027-01-06",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-20"
+  },
+  {
     "date": "2027-01-07",
     "type": "payment_predicted",
     "ticker": "GSKl_EQ",
@@ -2545,6 +2611,15 @@
     "predicted": true
   },
   {
+    "date": "2027-01-20",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-01-24",
     "type": "ex_date",
     "ticker": "VALE_US_EQ",
@@ -2669,6 +2744,16 @@
     "payment_date": "2027-02-18"
   },
   {
+    "date": "2027-02-05",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-19"
+  },
+  {
     "date": "2027-02-07",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -2768,6 +2853,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-02-19",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -2926,6 +3020,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-03-20"
+  },
+  {
+    "date": "2027-03-07",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-03-21"
   },
   {
     "date": "2027-03-09",
@@ -3096,6 +3200,15 @@
     "predicted": true
   },
   {
+    "date": "2027-03-21",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-03-23",
     "type": "ex_date",
     "ticker": "CNQ_US_EQ",
@@ -3259,6 +3372,16 @@
     "predicted": true
   },
   {
+    "date": "2027-04-06",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-04-20"
+  },
+  {
     "date": "2027-04-08",
     "type": "payment_predicted",
     "ticker": "GSKl_EQ",
@@ -3396,6 +3519,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-04-20",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -3552,6 +3684,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-05-19"
+  },
+  {
+    "date": "2027-05-06",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-20"
   },
   {
     "date": "2027-05-08",
@@ -3720,6 +3862,15 @@
     "ticker": "CAT_US_EQ",
     "name": "Caterpillar",
     "amount": 0.01,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-05-20",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -4012,6 +4163,16 @@
     "payment_date": "2027-06-18"
   },
   {
+    "date": "2027-06-05",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-19"
+  },
+  {
     "date": "2027-06-07",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -4248,6 +4409,15 @@
     "payment_date": "2027-07-02"
   },
   {
+    "date": "2027-06-19",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
     "date": "2027-06-22",
     "type": "ex_date",
     "ticker": "CNQ_US_EQ",
@@ -4437,6 +4607,16 @@
     "payment_date": "2027-07-18"
   },
   {
+    "date": "2027-07-05",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-07-19"
+  },
+  {
     "date": "2027-07-06",
     "type": "payment_predicted",
     "ticker": "CNQ_US_EQ",
@@ -4604,6 +4784,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-07-19",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -4788,6 +4977,16 @@
     "payment_date": "2027-08-17"
   },
   {
+    "date": "2027-08-04",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-08-18"
+  },
+  {
     "date": "2027-08-06",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -4898,6 +5097,15 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-08-31"
+  },
+  {
+    "date": "2027-08-18",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true
   },
   {
     "date": "2027-08-22",
@@ -5044,6 +5252,16 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-09-16"
+  },
+  {
+    "date": "2027-09-03",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-17"
   },
   {
     "date": "2027-09-03",
@@ -5241,6 +5459,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-09-17",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },
@@ -5445,6 +5672,16 @@
     "payment_date": "2027-10-16"
   },
   {
+    "date": "2027-10-03",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-17"
+  },
+  {
     "date": "2027-10-05",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5560,6 +5797,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-17",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   },

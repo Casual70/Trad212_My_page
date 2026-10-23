@@ -156,6 +156,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2026-11-07",
+    "next_payment_date": "2026-11-21",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
@@ -344,6 +356,18 @@
     "next_ex_date": "2026-12-06",
     "next_payment_date": "2026-12-20",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2026-12-07",
+    "next_payment_date": "2026-12-21",
+    "amount_est": 1.49,
     "predicted": true,
     "source": "Storico"
   },
@@ -552,6 +576,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-01-06",
+    "next_payment_date": "2027-01-20",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
@@ -704,6 +740,18 @@
     "next_ex_date": "2027-02-04",
     "next_payment_date": "2027-02-18",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-02-05",
+    "next_payment_date": "2027-02-19",
+    "amount_est": 1.49,
     "predicted": true,
     "source": "Storico"
   },
@@ -900,6 +948,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-03-07",
+    "next_payment_date": "2027-03-21",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "frequency": "Trimestrale",
@@ -1092,6 +1152,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-04-06",
+    "next_payment_date": "2027-04-20",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
@@ -1280,6 +1352,18 @@
     "next_ex_date": "2027-05-05",
     "next_payment_date": "2027-05-19",
     "amount_est": 0.01,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-05-06",
+    "next_payment_date": "2027-05-20",
+    "amount_est": 1.49,
     "predicted": true,
     "source": "Storico"
   },
@@ -1596,6 +1680,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-06-05",
+    "next_payment_date": "2027-06-19",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "TRMD_US_EQ",
     "name": "TORM",
     "frequency": "Trimestrale",
@@ -1836,6 +1932,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-07-05",
+    "next_payment_date": "2027-07-19",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "NGl_EQ",
     "name": "National Grid",
     "frequency": "Annuale",
@@ -2052,6 +2160,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-08-04",
+    "next_payment_date": "2027-08-18",
+    "amount_est": 1.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
@@ -2228,6 +2348,18 @@
     "next_ex_date": "2027-09-02",
     "next_payment_date": "2027-09-16",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-09-03",
+    "next_payment_date": "2027-09-17",
+    "amount_est": 1.49,
     "predicted": true,
     "source": "Storico"
   },
@@ -2480,6 +2612,18 @@
     "next_ex_date": "2027-10-02",
     "next_payment_date": "2027-10-16",
     "amount_est": 0.14,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-22",
+    "next_ex_date": "2027-10-03",
+    "next_payment_date": "2027-10-17",
+    "amount_est": 1.49,
     "predicted": true,
     "source": "Storico"
   },

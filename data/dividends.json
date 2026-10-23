@@ -1,5 +1,39 @@
 [
   {
+    "ticker": "8JQd_EQ",
+    "instrument": {
+      "ticker": "8JQd_EQ",
+      "name": "Puuilo",
+      "isin": "FI4000507124",
+      "currency": "EUR"
+    },
+    "reference": "f567f502-f327-43b6-948f-dd3ad0c64521",
+    "quantity": 13.82731141,
+    "amount": 0.54,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.06,
+    "amountInEuro": 0.54,
+    "paidOn": "2026-10-22T17:13:04.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
+    "ticker": "8JQd_EQ",
+    "instrument": {
+      "ticker": "8JQd_EQ",
+      "name": "Puuilo",
+      "isin": "FI4000507124",
+      "currency": "EUR"
+    },
+    "reference": "bb66277a-6f71-49ce-8099-be3303f84a0b",
+    "quantity": 13.82731141,
+    "amount": 2.43,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.27,
+    "amountInEuro": 2.43,
+    "paidOn": "2026-10-22T17:12:53.000+03:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "MAIN_US_EQ",
     "instrument": {
       "ticker": "MAIN_US_EQ",
