@@ -1,6 +1,50 @@
 [
   {
     "order": {
+      "id": 59308785463,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "WMT_US_EQ",
+      "quantity": -0.22882572,
+      "filledQuantity": -0.22882572,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-10-23T16:36:30.000Z",
+      "instrument": {
+        "ticker": "WMT_US_EQ",
+        "name": "Walmart",
+        "isin": "US9311421039",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 59308785465,
+      "quantity": -0.22882572,
+      "price": 119.76,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-23T16:36:30.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 24.44,
+        "realisedProfitLoss": 1.38,
+        "fxRate": 1.11945131,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.04,
+            "currency": "EUR",
+            "chargedAt": "2026-10-23T16:36:30.992Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 59200288149,
       "strategy": "VALUE",
       "type": "MARKET",
