@@ -5774,6 +5774,26 @@
     "predicted": true
   },
   {
+    "date": "2027-10-15",
+    "type": "ex_date",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 3.22,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-29"
+  },
+  {
+    "date": "2027-10-15",
+    "type": "ex_date",
+    "ticker": "PKE_US_EQ",
+    "name": "Park Aerospace",
+    "amount": 0.19,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-10-29"
+  },
+  {
     "date": "2027-10-16",
     "type": "payment_predicted",
     "ticker": "BWLP_US_EQ",
@@ -5824,6 +5844,24 @@
     "ticker": "MO_US_EQ",
     "name": "Altria",
     "amount": 0.49,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-29",
+    "type": "payment_predicted",
+    "ticker": "MITT_US_EQ",
+    "name": "TPG Mortgage Investment Trust",
+    "amount": 3.22,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-10-29",
+    "type": "payment_predicted",
+    "ticker": "PKE_US_EQ",
+    "name": "Park Aerospace",
+    "amount": 0.19,
     "currency": "EUR",
     "predicted": true
   }
