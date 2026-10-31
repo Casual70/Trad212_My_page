@@ -564,6 +564,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-01-15",
+    "next_payment_date": "2027-01-29",
+    "amount_est": 0.52,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
     "frequency": "Trimestrale",
@@ -1136,6 +1148,18 @@
     "next_ex_date": "2027-04-15",
     "next_payment_date": "2027-04-29",
     "amount_est": 0.49,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-04-16",
+    "next_payment_date": "2027-04-30",
+    "amount_est": 0.52,
     "predicted": true,
     "source": "Storico"
   },
@@ -1944,6 +1968,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-07-16",
+    "next_payment_date": "2027-07-30",
+    "amount_est": 0.52,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
     "frequency": "Trimestrale",
@@ -1976,18 +2012,6 @@
     "next_ex_date": "2027-07-16",
     "next_payment_date": "2027-07-30",
     "amount_est": 0.19,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "WDFC_US_EQ",
-    "name": "WD-40",
-    "frequency": "Annuale",
-    "frequency_days": 365,
-    "last_paid": "2026-07-31",
-    "next_ex_date": "2027-07-17",
-    "next_payment_date": "2027-07-31",
-    "amount_est": 0.15,
     "predicted": true,
     "source": "Storico"
   },
@@ -2616,6 +2640,18 @@
     "source": "Storico"
   },
   {
+    "ticker": "WDFC_US_EQ",
+    "name": "WD-40",
+    "frequency": "Trimestrale",
+    "frequency_days": 91,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-10-15",
+    "next_payment_date": "2027-10-29",
+    "amount_est": 0.52,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
     "ticker": "MITT_US_EQ",
     "name": "TPG Mortgage Investment Trust",
     "frequency": "Trimestrale",
@@ -2636,6 +2672,30 @@
     "next_ex_date": "2027-10-15",
     "next_payment_date": "2027-10-29",
     "amount_est": 0.19,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "NOG_US_EQ",
+    "name": "Northern Oil and Gas",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-10-16",
+    "next_payment_date": "2027-10-30",
+    "amount_est": 7.7,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "IMMR_US_EQ",
+    "name": "Immersion",
+    "frequency": "Annuale",
+    "frequency_days": 365,
+    "last_paid": "2026-10-30",
+    "next_ex_date": "2027-10-16",
+    "next_payment_date": "2027-10-30",
+    "amount_est": 2.21,
     "predicted": true,
     "source": "Storico"
   }

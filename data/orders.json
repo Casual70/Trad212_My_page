@@ -1,6 +1,86 @@
 [
   {
     "order": {
+      "id": 59658237181,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOVCd_EQ",
+      "status": "FILLED",
+      "value": 3.5,
+      "filledValue": 3.5,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-10-30T13:54:07.000Z",
+      "instrument": {
+        "ticker": "NOVCd_EQ",
+        "name": "Novo Nordisk",
+        "isin": "DK0062498333",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 59658237187,
+      "quantity": 0.09779267,
+      "price": 35.79,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-30T13:54:08.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 3.5,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 59613047892,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "LMT_US_EQ",
+      "quantity": -0.03102929,
+      "filledQuantity": -0.03102929,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "AUTOINVEST",
+      "side": "SELL",
+      "createdAt": "2026-10-30T13:52:36.000Z",
+      "instrument": {
+        "ticker": "LMT_US_EQ",
+        "name": "Lockheed Martin",
+        "isin": "US5398301094",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 59658236080,
+      "quantity": -0.03102929,
+      "price": 646.31,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-10-30T13:52:36.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 17.96,
+        "realisedProfitLoss": 2.6,
+        "fxRate": 1.11476044,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.03,
+            "currency": "EUR",
+            "chargedAt": "2026-10-30T13:52:36.875Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 59450174941,
       "strategy": "VALUE",
       "type": "MARKET",

@@ -1,5 +1,56 @@
 [
   {
+    "ticker": "NOG_US_EQ",
+    "instrument": {
+      "ticker": "NOG_US_EQ",
+      "name": "Northern Oil and Gas",
+      "isin": "US6655313079",
+      "currency": "USD"
+    },
+    "reference": "4a21c485-99ac-4fb2-8a73-42466b2eec11",
+    "quantity": 22.49666063,
+    "amount": 7.7,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.45,
+    "amountInEuro": 7.7,
+    "paidOn": "2026-10-30T15:57:44.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "WDFC_US_EQ",
+    "instrument": {
+      "ticker": "WDFC_US_EQ",
+      "name": "WD-40",
+      "isin": "US9292361071",
+      "currency": "USD"
+    },
+    "reference": "d97f4094-0457-4c78-98ee-1b9eca78735c",
+    "quantity": 1.14934964,
+    "amount": 0.89,
+    "currency": "EUR",
+    "grossAmountPerShare": 1.02,
+    "amountInEuro": 0.89,
+    "paidOn": "2026-10-30T15:52:15.000+02:00",
+    "type": "DIVIDEND_MANUFACTURED_PAYMENT"
+  },
+  {
+    "ticker": "IMMR_US_EQ",
+    "instrument": {
+      "ticker": "IMMR_US_EQ",
+      "name": "Immersion",
+      "isin": "US4525211078",
+      "currency": "USD"
+    },
+    "reference": "a5b5cc92-ae59-41ab-9d35-fdd7d79a9a4a",
+    "quantity": 38.79085,
+    "amount": 2.21,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.075,
+    "amountInEuro": 2.21,
+    "paidOn": "2026-10-30T15:47:50.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "8JQd_EQ",
     "instrument": {
       "ticker": "8JQd_EQ",
