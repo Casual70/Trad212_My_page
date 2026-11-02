@@ -1611,16 +1611,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-19",
-    "type": "ex_date",
-    "ticker": "ADMl_EQ",
-    "name": "Admiral Group",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-02"
-  },
-  {
     "date": "2026-10-22",
     "type": "payment",
     "ticker": "8JQd_EQ",
@@ -1704,15 +1694,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-14"
-  },
-  {
-    "date": "2026-11-02",
-    "type": "payment_predicted",
-    "ticker": "ADMl_EQ",
-    "name": "Admiral Group",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-11-02",
