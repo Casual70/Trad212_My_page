@@ -1,5 +1,22 @@
 [
   {
+    "ticker": "T_US_EQ",
+    "instrument": {
+      "ticker": "T_US_EQ",
+      "name": "AT&T",
+      "isin": "US00206R1023",
+      "currency": "USD"
+    },
+    "reference": "213f1575-f424-44b0-b0f4-af2a64b6da64",
+    "quantity": 0.39698952,
+    "amount": 0.08,
+    "currency": "EUR",
+    "grossAmountPerShare": 0.2775,
+    "amountInEuro": 0.08,
+    "paidOn": "2026-11-02T16:17:49.000+02:00",
+    "type": "DIVIDEND"
+  },
+  {
     "ticker": "NOG_US_EQ",
     "instrument": {
       "ticker": "NOG_US_EQ",
