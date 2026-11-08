@@ -2746,5 +2746,17 @@
     "amount_est": 0.41,
     "predicted": true,
     "source": "Storico"
+  },
+  {
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-10-15",
+    "next_ex_date": "2027-10-26",
+    "next_payment_date": "2027-11-09",
+    "amount_est": 0.12,
+    "predicted": true,
+    "source": "Storico"
   }
 ]
