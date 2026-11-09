@@ -1629,26 +1629,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-26",
-    "type": "ex_date",
-    "ticker": "VALE_US_EQ",
-    "name": "Vale",
-    "amount": 0.08,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-09"
-  },
-  {
-    "date": "2026-10-26",
-    "type": "ex_date",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-09"
-  },
-  {
     "date": "2026-10-28",
     "type": "ex_date",
     "ticker": "HMSBd_EQ",
@@ -1743,24 +1723,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-21"
-  },
-  {
-    "date": "2026-11-09",
-    "type": "payment_predicted",
-    "ticker": "VALE_US_EQ",
-    "name": "Vale",
-    "amount": 0.08,
-    "currency": "EUR",
-    "predicted": true
-  },
-  {
-    "date": "2026-11-09",
-    "type": "payment_predicted",
-    "ticker": "AIRp_EQ",
-    "name": "Airbus",
-    "amount": 0.41,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-11-11",
@@ -5936,6 +5898,16 @@
     "payment_date": "2027-11-09"
   },
   {
+    "date": "2027-10-27",
+    "type": "ex_date",
+    "ticker": "HMSBd_EQ",
+    "name": "H&M Hennes & Mauritz",
+    "amount": 1.16,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-11-10"
+  },
+  {
     "date": "2027-10-28",
     "type": "payment_predicted",
     "ticker": "ADMl_EQ",
@@ -6031,6 +6003,15 @@
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-11-10",
+    "type": "payment_predicted",
+    "ticker": "HMSBd_EQ",
+    "name": "H&M Hennes & Mauritz",
+    "amount": 1.16,
     "currency": "EUR",
     "predicted": true
   }
