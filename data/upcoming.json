@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "HMSBd_EQ",
-    "name": "H&M Hennes & Mauritz",
-    "frequency": "Semestrale",
-    "frequency_days": 182,
-    "last_paid": "2025-05-14",
-    "next_ex_date": "2026-10-28",
-    "next_payment_date": "2026-11-11",
-    "amount_est": 1.16,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "frequency": "Mensile",

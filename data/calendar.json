@@ -1629,16 +1629,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-28",
-    "type": "ex_date",
-    "ticker": "HMSBd_EQ",
-    "name": "H&M Hennes & Mauritz",
-    "amount": 1.16,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-11"
-  },
-  {
     "date": "2026-10-30",
     "type": "payment",
     "ticker": "NOG_US_EQ",
@@ -1723,15 +1713,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-11-21"
-  },
-  {
-    "date": "2026-11-11",
-    "type": "payment_predicted",
-    "ticker": "HMSBd_EQ",
-    "name": "H&M Hennes & Mauritz",
-    "amount": 1.16,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-11-12",
