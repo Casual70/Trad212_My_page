@@ -1,6 +1,34 @@
 [
   {
     "type": "DEPOSIT",
+    "amount": 0.19,
+    "currency": "EUR",
+    "reference": "01a1cd81-6488-7d26-a6a7-56902e120ac7",
+    "dateTime": "2026-11-12T02:06:11.585Z"
+  },
+  {
+    "type": "DEPOSIT",
+    "amount": 0.6,
+    "currency": "EUR",
+    "reference": "01a1cd81-6440-7f90-855b-bdabcde79167",
+    "dateTime": "2026-11-12T02:06:11.514Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -12.89,
+    "currency": "EUR",
+    "reference": "01a1ca4f-e8f7-716b-9e84-9a472965f6ba",
+    "dateTime": "2026-11-11T11:13:17.044Z"
+  },
+  {
+    "type": "WITHDRAW",
+    "amount": -40.0,
+    "currency": "EUR",
+    "reference": "01a1ca48-51e1-74a8-866e-33d15bf21364",
+    "dateTime": "2026-11-11T11:04:59.614Z"
+  },
+  {
+    "type": "DEPOSIT",
     "amount": 0.06,
     "currency": "EUR",
     "reference": "01a1c85b-9e27-702e-9d2a-7798c958ed69",
