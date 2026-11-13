@@ -5962,6 +5962,16 @@
     "predicted": true
   },
   {
+    "date": "2027-10-31",
+    "type": "ex_date",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-11-14"
+  },
+  {
     "date": "2027-11-01",
     "type": "payment_predicted",
     "ticker": "T_US_EQ",
@@ -6012,6 +6022,15 @@
     "ticker": "PSEC_US_EQ",
     "name": "Prospect Capital",
     "amount": 0.17,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-11-14",
+    "type": "payment_predicted",
+    "ticker": "G6P0d_EQ",
+    "name": "Going Public Media",
+    "amount": 6.58,
     "currency": "EUR",
     "predicted": true
   }
