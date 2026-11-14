@@ -1656,16 +1656,6 @@
     "predicted": false
   },
   {
-    "date": "2026-10-31",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-14"
-  },
-  {
     "date": "2026-11-02",
     "type": "payment",
     "ticker": "T_US_EQ",
@@ -1735,13 +1725,13 @@
     "payment_date": "2026-11-26"
   },
   {
-    "date": "2026-11-14",
-    "type": "payment_predicted",
+    "date": "2026-11-13",
+    "type": "payment",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
-    "amount": 0.12,
+    "amount": 0.2,
     "currency": "EUR",
-    "predicted": true
+    "predicted": false
   },
   {
     "date": "2026-11-16",
@@ -1878,14 +1868,14 @@
     "predicted": true
   },
   {
-    "date": "2026-11-30",
+    "date": "2026-11-29",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2026-12-14"
+    "payment_date": "2026-12-13"
   },
   {
     "date": "2026-11-30",
@@ -2060,7 +2050,7 @@
     "payment_date": "2026-12-26"
   },
   {
-    "date": "2026-12-14",
+    "date": "2026-12-13",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -2241,6 +2231,16 @@
   {
     "date": "2026-12-29",
     "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-01-12"
+  },
+  {
+    "date": "2026-12-29",
+    "type": "ex_date",
     "ticker": "KTFd_EQ",
     "name": "Mondelez International",
     "amount": 0.11,
@@ -2256,16 +2256,6 @@
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true
-  },
-  {
-    "date": "2026-12-30",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-01-13"
   },
   {
     "date": "2026-12-31",
@@ -2393,18 +2383,18 @@
   {
     "date": "2027-01-12",
     "type": "payment_predicted",
-    "ticker": "KTFd_EQ",
-    "name": "Mondelez International",
-    "amount": 0.11,
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   },
   {
-    "date": "2027-01-13",
+    "date": "2027-01-12",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
+    "ticker": "KTFd_EQ",
+    "name": "Mondelez International",
+    "amount": 0.11,
     "currency": "EUR",
     "predicted": true
   },
@@ -2552,6 +2542,16 @@
     "predicted": true
   },
   {
+    "date": "2027-01-28",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-02-11"
+  },
+  {
     "date": "2027-01-29",
     "type": "payment_predicted",
     "ticker": "WDFC_US_EQ",
@@ -2577,16 +2577,6 @@
     "amount": 0.19,
     "currency": "EUR",
     "predicted": true
-  },
-  {
-    "date": "2027-01-29",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-02-12"
   },
   {
     "date": "2027-01-31",
@@ -2695,7 +2685,7 @@
     "payment_date": "2027-02-24"
   },
   {
-    "date": "2027-02-12",
+    "date": "2027-02-11",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -2847,14 +2837,14 @@
     "payment_date": "2027-03-11"
   },
   {
-    "date": "2027-02-28",
+    "date": "2027-02-27",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-03-14"
+    "payment_date": "2027-03-13"
   },
   {
     "date": "2027-03-01",
@@ -3029,7 +3019,7 @@
     "payment_date": "2027-03-26"
   },
   {
-    "date": "2027-03-14",
+    "date": "2027-03-13",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -3188,14 +3178,14 @@
     "predicted": true
   },
   {
-    "date": "2027-03-30",
+    "date": "2027-03-29",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-04-13"
+    "payment_date": "2027-04-12"
   },
   {
     "date": "2027-03-30",
@@ -3332,7 +3322,7 @@
     "payment_date": "2027-04-25"
   },
   {
-    "date": "2027-04-13",
+    "date": "2027-04-12",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -3495,6 +3485,16 @@
   {
     "date": "2027-04-28",
     "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-05-12"
+  },
+  {
+    "date": "2027-04-28",
+    "type": "ex_date",
     "ticker": "HMSBd_EQ",
     "name": "H&M Hennes & Mauritz",
     "amount": 1.16,
@@ -3510,16 +3510,6 @@
     "amount": 0.49,
     "currency": "EUR",
     "predicted": true
-  },
-  {
-    "date": "2027-04-29",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-05-13"
   },
   {
     "date": "2027-04-30",
@@ -3677,18 +3667,18 @@
   {
     "date": "2027-05-12",
     "type": "payment_predicted",
-    "ticker": "HMSBd_EQ",
-    "name": "H&M Hennes & Mauritz",
-    "amount": 1.16,
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   },
   {
-    "date": "2027-05-13",
+    "date": "2027-05-12",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
+    "ticker": "HMSBd_EQ",
+    "name": "H&M Hennes & Mauritz",
+    "amount": 1.16,
     "currency": "EUR",
     "predicted": true
   },
@@ -3952,6 +3942,16 @@
     "predicted": true
   },
   {
+    "date": "2027-05-28",
+    "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-06-11"
+  },
+  {
     "date": "2027-05-29",
     "type": "payment_predicted",
     "ticker": "GRGl_EQ",
@@ -3968,16 +3968,6 @@
     "amount": 0.21,
     "currency": "EUR",
     "predicted": true
-  },
-  {
-    "date": "2027-05-29",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-06-12"
   },
   {
     "date": "2027-05-29",
@@ -4199,6 +4189,15 @@
   },
   {
     "date": "2027-06-11",
+    "type": "payment_predicted",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-06-11",
     "type": "ex_date",
     "ticker": "LMT_US_EQ",
     "name": "Lockheed Martin",
@@ -4206,15 +4205,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-06-25"
-  },
-  {
-    "date": "2027-06-12",
-    "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2027-06-12",
@@ -4453,14 +4443,14 @@
     "predicted": true
   },
   {
-    "date": "2027-06-28",
+    "date": "2027-06-27",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-07-12"
+    "payment_date": "2027-07-11"
   },
   {
     "date": "2027-06-29",
@@ -4634,7 +4624,7 @@
     "payment_date": "2027-07-24"
   },
   {
-    "date": "2027-07-12",
+    "date": "2027-07-11",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -4804,14 +4794,14 @@
     "predicted": true
   },
   {
-    "date": "2027-07-28",
+    "date": "2027-07-27",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-08-11"
+    "payment_date": "2027-08-10"
   },
   {
     "date": "2027-07-29",
@@ -4966,7 +4956,7 @@
     "payment_date": "2027-08-23"
   },
   {
-    "date": "2027-08-11",
+    "date": "2027-08-10",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -5119,22 +5109,22 @@
   {
     "date": "2027-08-26",
     "type": "ex_date",
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-09-09"
+  },
+  {
+    "date": "2027-08-26",
+    "type": "ex_date",
     "ticker": "RELl_EQ",
     "name": "RELX",
     "amount": 4.68,
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2027-09-09"
-  },
-  {
-    "date": "2027-08-27",
-    "type": "ex_date",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2027-09-10"
   },
   {
     "date": "2027-08-29",
@@ -5302,18 +5292,18 @@
   {
     "date": "2027-09-09",
     "type": "payment_predicted",
-    "ticker": "RELl_EQ",
-    "name": "RELX",
-    "amount": 4.68,
+    "ticker": "MAIN_US_EQ",
+    "name": "Main Street Capital",
+    "amount": 0.12,
     "currency": "EUR",
     "predicted": true
   },
   {
-    "date": "2027-09-10",
+    "date": "2027-09-09",
     "type": "payment_predicted",
-    "ticker": "MAIN_US_EQ",
-    "name": "Main Street Capital",
-    "amount": 0.12,
+    "ticker": "RELl_EQ",
+    "name": "RELX",
+    "amount": 4.68,
     "currency": "EUR",
     "predicted": true
   },
@@ -5525,14 +5515,14 @@
     "predicted": true
   },
   {
-    "date": "2027-09-26",
+    "date": "2027-09-25",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-10-10"
+    "payment_date": "2027-10-09"
   },
   {
     "date": "2027-09-26",
@@ -5679,7 +5669,7 @@
     "payment_date": "2027-10-22"
   },
   {
-    "date": "2027-10-10",
+    "date": "2027-10-09",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -5869,14 +5859,14 @@
     "predicted": true
   },
   {
-    "date": "2027-10-26",
+    "date": "2027-10-25",
     "type": "ex_date",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
     "amount": 0.12,
     "currency": "EUR",
     "predicted": true,
-    "payment_date": "2027-11-09"
+    "payment_date": "2027-11-08"
   },
   {
     "date": "2027-10-27",
@@ -5981,6 +5971,16 @@
     "predicted": true
   },
   {
+    "date": "2027-11-01",
+    "type": "ex_date",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-11-15"
+  },
+  {
     "date": "2027-11-04",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -5999,7 +5999,7 @@
     "predicted": true
   },
   {
-    "date": "2027-11-09",
+    "date": "2027-11-08",
     "type": "payment_predicted",
     "ticker": "MAIN_US_EQ",
     "name": "Main Street Capital",
@@ -6031,6 +6031,15 @@
     "ticker": "G6P0d_EQ",
     "name": "Going Public Media",
     "amount": 6.58,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-11-15",
+    "type": "payment_predicted",
+    "ticker": "BWLP_US_EQ",
+    "name": "BW LPG",
+    "amount": 0.14,
     "currency": "EUR",
     "predicted": true
   }
