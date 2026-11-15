@@ -5981,6 +5981,16 @@
     "payment_date": "2027-11-15"
   },
   {
+    "date": "2027-11-02",
+    "type": "ex_date",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
+    "currency": "EUR",
+    "predicted": true,
+    "payment_date": "2027-11-16"
+  },
+  {
     "date": "2027-11-04",
     "type": "payment_predicted",
     "ticker": "VALE_US_EQ",
@@ -6040,6 +6050,15 @@
     "ticker": "BWLP_US_EQ",
     "name": "BW LPG",
     "amount": 0.14,
+    "currency": "EUR",
+    "predicted": true
+  },
+  {
+    "date": "2027-11-16",
+    "type": "payment_predicted",
+    "ticker": "8JQd_EQ",
+    "name": "Puuilo",
+    "amount": 1.49,
     "currency": "EUR",
     "predicted": true
   }
