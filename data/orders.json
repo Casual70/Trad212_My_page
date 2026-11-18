@@ -1,6 +1,138 @@
 [
   {
     "order": {
+      "id": 60550683888,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "IMMR_US_EQ",
+      "quantity": -38.79085,
+      "filledQuantity": -38.79085,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-11-17T10:13:08.000Z",
+      "instrument": {
+        "ticker": "IMMR_US_EQ",
+        "name": "Immersion",
+        "isin": "US4525211078",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 60555801734,
+      "quantity": -1.13085,
+      "price": 6.82,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-17T14:30:04.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 7.01,
+        "realisedProfitLoss": -0.43,
+        "fxRate": 1.09863205,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-11-17T14:35:48.964Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 60550683888,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "IMMR_US_EQ",
+      "quantity": -38.79085,
+      "filledQuantity": -38.79085,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-11-17T10:13:08.000Z",
+      "instrument": {
+        "ticker": "IMMR_US_EQ",
+        "name": "Immersion",
+        "isin": "US4525211078",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 60555801413,
+      "quantity": -13.98,
+      "price": 6.82,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-17T14:30:04.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 86.6,
+        "realisedProfitLoss": -5.35,
+        "fxRate": 1.09931511,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.13,
+            "currency": "EUR",
+            "chargedAt": "2026-11-17T14:35:47.600Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 60550683888,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "IMMR_US_EQ",
+      "quantity": -38.79085,
+      "filledQuantity": -38.79085,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-11-17T10:13:08.000Z",
+      "instrument": {
+        "ticker": "IMMR_US_EQ",
+        "name": "Immersion",
+        "isin": "US4525211078",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 60552972548,
+      "quantity": -23.68,
+      "price": 6.71,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-17T14:30:04.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 144.31,
+        "realisedProfitLoss": -11.43,
+        "fxRate": 1.0993759,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.22,
+            "currency": "EUR",
+            "chargedAt": "2026-11-17T14:29:02.278Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 60253521636,
       "strategy": "VALUE",
       "type": "MARKET",
