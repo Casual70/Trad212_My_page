@@ -1,6 +1,49 @@
 [
   {
     "order": {
+      "id": 60609410896,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "UBER_US_EQ",
+      "status": "FILLED",
+      "value": 38.67,
+      "filledValue": 38.67,
+      "currency": "EUR",
+      "extendedHours": true,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-11-18T20:10:09.000Z",
+      "instrument": {
+        "ticker": "UBER_US_EQ",
+        "name": "Uber Technologies",
+        "isin": "US90353T1007",
+        "currency": "USD"
+      }
+    },
+    "fill": {
+      "id": 60609410912,
+      "quantity": 0.61076531,
+      "price": 69.33,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-18T20:10:11.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 38.67,
+        "fxRate": 1.09671999,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.06,
+            "currency": "EUR",
+            "chargedAt": "2026-11-18T20:10:11.854Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 60550683888,
       "strategy": "QUANTITY",
       "type": "MARKET",
