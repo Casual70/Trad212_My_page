@@ -1,6 +1,20 @@
 [
   {
     "type": "WITHDRAW",
+    "amount": -4.38,
+    "currency": "EUR",
+    "reference": "01a1f752-4bf0-7861-980f-e752357c0e8d",
+    "dateTime": "2026-11-20T04:58:48.173Z"
+  },
+  {
+    "type": "INTEREST_ON_FREE_CASH",
+    "amount": 0.05,
+    "currency": "EUR",
+    "reference": "01a1f6b0-c49d-76bc-926d-f672bb5b3673",
+    "dateTime": "2026-11-20T02:02:22.227Z"
+  },
+  {
+    "type": "WITHDRAW",
     "amount": -1.8,
     "currency": "EUR",
     "reference": "01a1f217-d9d7-7030-96b2-4a4160418cfc",

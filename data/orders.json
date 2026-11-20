@@ -1,6 +1,42 @@
 [
   {
     "order": {
+      "id": 60609410806,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "NOVCd_EQ",
+      "status": "FILLED",
+      "value": 200.0,
+      "filledValue": 200.0,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-11-18T20:09:42.000Z",
+      "instrument": {
+        "ticker": "NOVCd_EQ",
+        "name": "Novo Nordisk",
+        "isin": "DK0062498333",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 60612612417,
+      "quantity": 5.53173834,
+      "price": 36.155,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-19T08:04:46.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 200.0,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
       "id": 60609410896,
       "strategy": "VALUE",
       "type": "MARKET",
