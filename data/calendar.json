@@ -1665,16 +1665,6 @@
     "predicted": false
   },
   {
-    "date": "2026-11-07",
-    "type": "ex_date",
-    "ticker": "8JQd_EQ",
-    "name": "Puuilo",
-    "amount": 1.49,
-    "currency": "EUR",
-    "predicted": true,
-    "payment_date": "2026-11-21"
-  },
-  {
     "date": "2026-11-12",
     "type": "ex_date",
     "ticker": "CION_US_EQ",
@@ -1722,15 +1712,6 @@
     "currency": "EUR",
     "predicted": true,
     "payment_date": "2026-12-02"
-  },
-  {
-    "date": "2026-11-21",
-    "type": "payment_predicted",
-    "ticker": "8JQd_EQ",
-    "name": "Puuilo",
-    "amount": 1.49,
-    "currency": "EUR",
-    "predicted": true
   },
   {
     "date": "2026-11-21",

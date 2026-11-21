@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "8JQd_EQ",
-    "name": "Puuilo",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-10-22",
-    "next_ex_date": "2026-11-07",
-    "next_payment_date": "2026-11-21",
-    "amount_est": 1.49,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "CION_US_EQ",
     "name": "CION Investment",
     "frequency": "Mensile",
