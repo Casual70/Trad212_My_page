@@ -1,29 +1,5 @@
 [
   {
-    "ticker": "CION_US_EQ",
-    "name": "CION Investment",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-08-28",
-    "next_ex_date": "2026-11-12",
-    "next_payment_date": "2026-11-26",
-    "amount_est": 0.58,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
-    "ticker": "GAIN_US_EQ",
-    "name": "Gladstone Investment",
-    "frequency": "Mensile",
-    "frequency_days": 30,
-    "last_paid": "2026-03-31",
-    "next_ex_date": "2026-11-12",
-    "next_payment_date": "2026-11-26",
-    "amount_est": 0.32,
-    "predicted": true,
-    "source": "Storico"
-  },
-  {
     "ticker": "PFE_US_EQ",
     "name": "Pfizer",
     "frequency": "Trimestrale",
@@ -2744,6 +2720,18 @@
     "next_ex_date": "2027-11-07",
     "next_payment_date": "2027-11-21",
     "amount_est": 0.32,
+    "predicted": true,
+    "source": "Storico"
+  },
+  {
+    "ticker": "ADMl_EQ",
+    "name": "Admiral Group",
+    "frequency": "Mensile",
+    "frequency_days": 30,
+    "last_paid": "2026-06-05",
+    "next_ex_date": "2027-11-13",
+    "next_payment_date": "2027-11-27",
+    "amount_est": 0.12,
     "predicted": true,
     "source": "Storico"
   }
