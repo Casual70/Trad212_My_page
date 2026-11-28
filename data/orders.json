@@ -1,6 +1,86 @@
 [
   {
     "order": {
+      "id": 61061857116,
+      "strategy": "VALUE",
+      "type": "MARKET",
+      "ticker": "8JQd_EQ",
+      "status": "FILLED",
+      "value": 10.04,
+      "filledValue": 10.04,
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "BUY",
+      "createdAt": "2026-11-27T19:02:19.000Z",
+      "instrument": {
+        "ticker": "8JQd_EQ",
+        "name": "Puuilo",
+        "isin": "FI4000507124",
+        "currency": "EUR"
+      }
+    },
+    "fill": {
+      "id": 61061858919,
+      "quantity": 0.54863387,
+      "price": 18.3,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-27T20:59:02.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 10.04,
+        "fxRate": 1,
+        "taxes": []
+      }
+    }
+  },
+  {
+    "order": {
+      "id": 61002267768,
+      "strategy": "QUANTITY",
+      "type": "MARKET",
+      "ticker": "IMBl_EQ",
+      "quantity": -0.24639928,
+      "filledQuantity": -0.24639928,
+      "status": "FILLED",
+      "currency": "EUR",
+      "extendedHours": false,
+      "initiatedFrom": "ANDROID",
+      "side": "SELL",
+      "createdAt": "2026-11-26T20:16:19.000Z",
+      "instrument": {
+        "ticker": "IMBl_EQ",
+        "name": "Imperial Brands",
+        "isin": "GB0004544929",
+        "currency": "GBX"
+      }
+    },
+    "fill": {
+      "id": 61002287748,
+      "quantity": -0.24639928,
+      "price": 3388.0,
+      "type": "TRADE",
+      "tradingMethod": "OTC",
+      "filledAt": "2026-11-27T08:00:31.000Z",
+      "walletImpact": {
+        "currency": "EUR",
+        "netValue": 9.97,
+        "realisedProfitLoss": 1.55,
+        "fxRate": 83.6473708,
+        "taxes": [
+          {
+            "name": "CURRENCY_CONVERSION_FEE",
+            "quantity": -0.01,
+            "currency": "EUR",
+            "chargedAt": "2026-11-27T08:00:31.829Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "order": {
       "id": 60609410806,
       "strategy": "VALUE",
       "type": "MARKET",
